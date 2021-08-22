@@ -1,5 +1,3 @@
-# emancipations
-
 ## maintenance
 
 TODO
