@@ -1,13 +1,13 @@
-# Emancipations
+# emancipations
 
-## Maintenance
-
-TODO
-
-## Jack
+## maintenance
 
 TODO
 
-## Lila
+## jack
+
+TODO
+
+## lila
 
 TODO
