@@ -1,4 +1,4 @@
-# Emanciplations
+# Emancipations
 
 ## Maintenance
 
