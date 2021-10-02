@@ -10,7 +10,7 @@ function calculateTimeRemaining(endtime){
   const minutes = Math.floor( (total/1000/60) % 60 );
   const hours = Math.floor( (total/(1000*60*60)) % 24 );
   const years = Math.floor( total/(1000*60*60*24) / 365);
-  var days = Math.floor( total/(1000*60*60*24) ) - (years * 365);
+  const days = Math.floor( total/(1000*60*60*24) ) - (years * 365);
 
   return {
     total,
@@ -46,9 +46,9 @@ function initializeClock(clockId, deadline, detail) {
 
 initializeClock('maintenanceDisplay','2026-01-31',true);
 initializeClock('lifeInsuranceMaintenanceDisplay','2027-08-01',false);
-initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 initializeClock('childSupportJackDisplay','2032-07-23',false);
 initializeClock('childSupportLilaDisplay','2036-02-07',false);
+initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 
 </script>
 
@@ -69,13 +69,6 @@ years:<br/>
 days:<br/>
 </span>
 
-## life insurance - support
-
-<span id="lifeInsuranceSupportDisplay">
-years:<br/>
-days:<br/>
-</span>
-
 ## child support - jack
 
 <span id="childSupportJackDisplay">
@@ -86,6 +79,13 @@ days:<br/>
 ## child support - lila
 
 <span id="childSupportLilaDisplay">
+years:<br/>
+days:<br/>
+</span>
+
+## life insurance - support
+
+<span id="lifeInsuranceSupportDisplay">
 years:<br/>
 days:<br/>
 </span>
