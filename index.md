@@ -57,7 +57,7 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 ## untracked
   
 * Katie: What happened to us?
-* Michael: Nothing currently
+* Michael: Katie is a Sympath, Michael is an Empath
   
 ## teachering
 
