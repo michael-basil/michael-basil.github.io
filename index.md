@@ -57,7 +57,7 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 ## untracked
   
 * Katie: What happened to us?
-* Michael: The answer is fully clear when each of us looks at the situation through the eyes of the other.
+* Michael: If we resist the temptation to approach the question with Confirmation Bias will the answer become clear looking through the eyes of the other?
   
 ## teachering
 
