@@ -57,7 +57,7 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 ## untracked
   
 * Katie: What happened to us?
-* Michael: Katie is a Sympath, Michael is an Empath
+* Michael: The answer is fully clear when each of us looks at the situation through the eyes of the other.
   
 ## teachering
 
