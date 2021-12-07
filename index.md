@@ -57,7 +57,7 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 ## untracked
   
 * Katie: What happened to us?
-* Michael: I guess we should have listened to the "priest" who married us!
+* Michael: I blame the "priest" who married us!
   
 ## teachering
 
