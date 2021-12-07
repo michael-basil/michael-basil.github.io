@@ -56,8 +56,12 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 
 ## untracked
   
-* Katie: What happened to us?
-* Michael: Truth is subjectively objective.  Everything you've heard about me is true.  What that means is up to who?!
+* Katie:
+  * What happened to us?
+* Michael:
+  * Truth is subjectively objective.
+  * Everything you've heard about me is true.
+  * What that means is up to who?!
   
 ## teachering
 
