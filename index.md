@@ -57,7 +57,7 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 ## untracked
   
 * Katie: What happened to us?
-* Michael: If we resist the temptation to approach the question with Confirmation Bias will the answer become clear looking through the eyes of the other?
+* Michael: I guess we should have listened to the "priest" who married us!
   
 ## teachering
 
