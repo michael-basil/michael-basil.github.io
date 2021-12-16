@@ -57,9 +57,9 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 ## untracked
   
 * Katie:
-  * Why is reading this so intriguing?
+  * Nothing at this time.
 * Michael:
-  * Or is it?!
+  * All things consdiered.
   
 ## teachering
 
