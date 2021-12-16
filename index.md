@@ -57,11 +57,9 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 ## untracked
   
 * Katie:
-  * What happened to us?
+  * Why is reading this so much fun?
 * Michael:
-  * Truth is subjectively objective.
-  * Everything you've heard about me is true.
-  * What that means is up to who?!
+  * Who knows?!
   
 ## teachering
 
