@@ -1,5 +1,5 @@
 ---
-title: hall
+title: dashboard
 ---
 
 <script type="text/javascript">
