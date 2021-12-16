@@ -59,7 +59,7 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 * Katie:
   * Why is reading this so intriguing?
 * Michael:
-  * It depends?!
+  * Or is it?!
   
 ## teachering
 
