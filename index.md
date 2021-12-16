@@ -59,7 +59,7 @@ initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 * Katie:
   * Nothing at this time.
 * Michael:
-  * All things consdiered.
+  * All things considered.
   
 ## teachering
 
