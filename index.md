@@ -1,5 +1,5 @@
 ---
-title: countdown
+title: board
 ---
 
 <script type="text/javascript">
