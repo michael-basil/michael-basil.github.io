@@ -1,5 +1,5 @@
 ---
-title: board
+title: hall
 ---
 
 <script type="text/javascript">
