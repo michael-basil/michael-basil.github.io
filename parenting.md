@@ -1,6 +1,6 @@
 ---
 title: parenting
-description: move forward one step at a time
+description: progress forward one step at a time
 ---
 
 <script type="text/javascript">
