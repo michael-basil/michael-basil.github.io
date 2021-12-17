@@ -1,5 +1,5 @@
 ---
-title: dashboad
+title: parenting
 description: move forward one step at a time
 ---
 
