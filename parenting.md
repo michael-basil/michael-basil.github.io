@@ -1,6 +1,6 @@
 ---
 title: parenting
-description: progress forward one step at a time
+description: cargo and milestones
 ---
 
 <script type="text/javascript">
