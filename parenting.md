@@ -1,6 +1,6 @@
 ---
 title: parenting
-description: cargo and milestones
+description: milestones
 ---
 
 <script type="text/javascript">
@@ -54,13 +54,6 @@ initializeClock('childSupportLilaDisplay','2036-02-07',false);
 initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 
 </script>
-
-## cargo
-  
-* Katie:
-  * Nothing visible.
-* Michael:
-  * All things considered.
   
 ## teachering
 
