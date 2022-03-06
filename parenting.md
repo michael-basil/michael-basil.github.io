@@ -153,7 +153,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 
 1. Birthday Parties: facilitated by Mother
 1. Birthday Celebration: Mother, Father, and the children have a shared outing including a meal
-1. Parenting Handoffs: each parent drops off the children to the other parent, with the following exceptions
+1. Parenting Handoffs: each parent drops off the children to the other parent
     1. Inclimate Weather: Mother will facilitate transporation bi-directionally by automobile
     1. Pandemic Lockdown: Mother will facilitate transporation bi-directionally by automobile
 1. Parenting Schedule: maintained in Google Calendar
