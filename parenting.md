@@ -159,7 +159,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Parenting Schedule: maintained in Google Calendar
 1. Parental Negotiations: occur wherever both parents agree
 1. Travel excursions within the United States: inform the other parent ahead of time
-1. Travel excursions outside the United States: requires agreement by both parents in advance of departure
+1. Travel excursions outside the United States: requires agreement with other parent prior to departure
 1. Emergency Contact: maintained and kept up to date in Google Drive
 1. Video Calls: the children are able to initiate video call to the other parent and family
     * Respectful of digital device time and other constraints
