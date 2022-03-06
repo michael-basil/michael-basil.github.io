@@ -161,14 +161,14 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Travel excursions within the United States: inform the other parent ahead of time
 1. Travel excursions outside the United States: requires agreement prior to departure
 1. Emergency Contact: maintained and kept up to date in Google Drive
-1. Video Calls: the children are able to initiate video call to the other parent and family
+1. Video Calls: the children are able to initiate video calls to the other parent and family
     * Respectful of digital device time and other constraints
     * Within reason to not interfere with plans, events, or other parental considerations
 1. Children's Belongings: clothes, shoes, toys, travel machines, and the like are theirs
     * Transportation of such items will be through the use of a child-packed backpack
     * Larger item logistical considerations by agreement between the parents
   
-## declarations
+## designations
   
 1. Mother shall be designated as the custodian of the the children when legally required
     * This will in no way affect rights and expectations denoted above
