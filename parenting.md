@@ -170,7 +170,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
   
 ## declarations
   
-1. Mother shall be designated as the custodian of the the children when required under state or federal statute
+1. Mother shall be designated as the custodian of the the children when legally required
     * This will in no way affect rights and expectations denoted above
 1. The cildren will each maintain the surname of BASIL
-    * No other surname or hyphenated name shall be used either formally or informally anywhere
+    * No other surname or hyphenated name shall be used anywhere
