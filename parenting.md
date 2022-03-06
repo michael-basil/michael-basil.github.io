@@ -154,23 +154,23 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Birthday Parties: facilitated by Mother
 1. Birthday Celebration: Mother, Father, and the children have a shared outing including a meal
 1. Parenting Handoffs: each parent drops off the children to the other parent
-    1. Inclimate Weather: Mother will facilitate transporation bi-directionally by automobile
-    1. Pandemic Lockdown: Mother will facilitate transporation bi-directionally by automobile
+    * Inclimate Weather: Mother will facilitate transporation bi-directionally by automobile
+    * Pandemic Lockdown: Mother will facilitate transporation bi-directionally by automobile
 1. Parenting Schedule: maintained in Google Calendar
 1. Parental Negotiations: occur wherever both parents agree
 1. Travel excursions within the United States: inform the other parent ahead of time
 1. Travel excursions outside the United States: involving the children require agreement by both parents in advance of departure
 1. Emergenc Contact: maintained and kept up to date in Google Drive
 1. Video Calls: the children are able to initiate video call to the other parent and any family member at their reasonable discretion
-    1. Respectful of digital device time and other constraints
-    1. Within reason to not interfere with plans, events, or other parental considerations
+    * Respectful of digital device time and other constraints
+    * Within reason to not interfere with plans, events, or other parental considerations
 1. Children's Belogings: clothes, shoes, toys, travel machines, and the like are considered to be the property of the children
-    1. Transportation of such items will be through the use of a child-packed backpack
-    1. Larger item logistical considerations by agreement between the parents
+    * Transportation of such items will be through the use of a child-packed backpack
+    * Larger item logistical considerations by agreement between the parents
   
 ## declarations
   
 1. Mother shall be designated as the custodian of the the children when required under state or federal statute
-    1. This will in no way affect rights and expectations denoted above
+    * This will in no way affect rights and expectations denoted above
 1. The cildren will each maintain the surname of BASIL
-    1. No other surname or hyphenated name shall be used either formally or informally anywhere
+    * No other surname or hyphenated name shall be used either formally or informally anywhere
