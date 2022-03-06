@@ -147,7 +147,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Winter Break: overnights split evenly with Mother having choice of days by default
 1. Spring Break: overnights split evenly with Father having choice of days by default
 1. Summer Break: fourteen overnights to be used by each parent however they so choose
-1. Social Parties: each parent will make concessions for the children to attend child-centric pre-planned events
+1. Social Parties: each parent will make concessions for the attendance of child-centric events
 
 ## expectations
 
