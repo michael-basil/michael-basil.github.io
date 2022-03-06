@@ -125,3 +125,53 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Both parties shall be entitled to receive any and all information and shall have the right to attend and participate in any and all of the children’s extracurricular and recreational activities, both inside and outside of school.  The parents may also attend practices if parents are invited to the same. 
 1. Both parents shall transport the children to their extracurricular and recreational activities and ensure that the children attend the same during their respective parenting times.   
 1. The parents may arrange appointments for parent-coach conferences at independent times from the other parent.  Each parent shall also have independent access to the children’s records and shall have the right to communicate directly with any coaches and administrators regarding the children.
+
+## rights
+
+### mother
+
+1. Overnights from Monday through Thursday
+1. Overnights on Sunday by default
+1. Overnight on Friday once per calendar month
+1. Overnight on Saturday once per calendar month
+1. Video calls directly with the children during parenting time with Father
+  
+### father
+  
+1. Overnights on Friday and Saturday
+1. Overnights on Sundays by agreement
+1. Video calls directly with the children during parenting time with Mother
+  
+### shared
+
+1. Winter Break: overnights split evenly with Mother having choice of days by default
+1. Spring Break: overnights split evenly with Father having choice of days by default
+1. Summer Break: fourteen overnights to be used by each parent however they so choose
+    1. In conflict, these overnights take precedence
+1. Social Parties: each parent will have reasonable parenting time carve outs for the children to attend child-centric pre-planned events
+
+## expectations
+
+1. Birthday Parties: facilitated by Mother
+1. Birthday Celebration: Mother, Father, and the children have a shared outing including a meal
+1. Parenting Handoffs: each parent drops off the children to the other parent, with the following exceptions
+    1. Inclimate Weather: Mother will facilitate transporation bi-directionally by automobile
+    1. Pandemic Lockdown: Mother will facilitate transporation bi-directionally by automobile
+1. Parenting Schedule: maintained in Google Calendar
+1. Parental Negotiations: occur wherever both parents agree
+1. Travel excursions within the United States: inform the other parent ahead of time
+1. Travel excursions outside the United States: involving the children require agreement by both parents in advance of departure
+1. Emergenc Contact: maintained and kept up to date in Google Drive
+1. Video Calls: the children are able to initiate video call to the other parent and any family member at their reasonable discretion
+    1. Respectful of digital device time and other constraints
+    1. Within reason to not interfere with plans, events, or other parental considerations
+1. Children's Belogings: clothes, shoes, toys, travel machines, and the like are considered to be the property of the children
+    1. Transportation of such items will be through the use of a child-packed backpack
+    1. Larger item logistical considerations by agreement between the parents
+  
+## declarations
+  
+1. Mother shall be designated as the custodian of the the children when required under state or federal statute
+    1. This will in no way affect rights and expectations denoted above
+1. The cildren will each maintain the surname of BASIL
+    1. No other surname or hyphenated name shall be used either formally or informally anywhere
