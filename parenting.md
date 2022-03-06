@@ -161,7 +161,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Travel excursions within the United States: inform the other parent ahead of time
 1. Travel excursions outside the United States: requires agreement by both parents in advance of departure
 1. Emergency Contact: maintained and kept up to date in Google Drive
-1. Video Calls: the children are able to initiate video call to the other parent and any family member at their reasonable discretion
+1. Video Calls: the children are able to initiate video call to the other parent and family
     * Respectful of digital device time and other constraints
     * Within reason to not interfere with plans, events, or other parental considerations
 1. Children's Belogings: clothes, shoes, toys, travel machines, and the like are considered to be the property of the children
