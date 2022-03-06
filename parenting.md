@@ -164,7 +164,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Video Calls: the children are able to initiate video call to the other parent and family
     * Respectful of digital device time and other constraints
     * Within reason to not interfere with plans, events, or other parental considerations
-1. Children's Belogings: clothes, shoes, toys, travel machines, and the like are considered to be the property of the children
+1. Children's Belongings: clothes, shoes, toys, travel machines, and the like are theirs
     * Transportation of such items will be through the use of a child-packed backpack
     * Larger item logistical considerations by agreement between the parents
   
