@@ -45,7 +45,6 @@ function initializeClock(clockId, deadline, detail) {
   },1000);
 }
 
-initializeClock('teacheringDisplay','2022-03-12',true);
 initializeClock('maintenanceDisplay','2026-01-31',true);
 initializeClock('lifeInsuranceMaintenanceDisplay','2027-08-01',false);
 initializeClock('childSupportJackDisplay','2032-07-23',false);
@@ -53,16 +52,6 @@ initializeClock('childSupportLilaDisplay','2036-02-07',false);
 initializeClock('lifeInsuranceSupportDisplay','2041-05-2',false);
 
 </script>
-  
-## teachering
-
-<span id="teacheringDisplay">
-years:<br/>
-days:<br/>
-hours:<br/>
-minutes:<br/>
-seconds:<br/>
-</span>
 
 ## maintenance
 
