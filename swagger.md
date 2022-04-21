@@ -3,6 +3,8 @@ title: swagger
 description: channel
 ---
 
+# Lessons from the Soccer Pitch
+
 When I was 13 years old, I was the leading scorer, assist leader, and offensive driver of our soccer teams. I took all the penalty kicks. I never asked for this or demanded it, rather it was directed to me. I never missed. Until one day I did. I hit the post. The ball bounced back to me and I wound up to kick and hesitated and stopped. I was about to break a rule on the field. I looked around and saw that my teammates didn't know what to do to support me. This was confusing. They didn't step up. They were just waiting for me to score even after the miss, not able to process that I was not allowed to touch the ball until another player did. I don't remember if we won or lost that game, but I am glad that it happened in retrospect.
 
 The next time a penalty shot opportunity came up I was directed to take it again. I aimed just inside the post, essentially trying to sneak it in so the goalie wouldn't have a chance to block it.  The ball came off my foot exactly as intended, BUT I hit the post squarely. I can still visualize it.  If I was aiming for the center of the post I couldn't have been more accurate. It was a thoroughly planned, precisely executed, yet beautiful miss. I don't remember if we won or lost that game, but it was hard at the time and I am glad that it happened in retrospect.
@@ -28,3 +30,5 @@ I learned various lessons that year through coaching and peer modeling from Vito
 **_“When you’re great at something, it’s virtuous to let people know about it!”_**
 
 **_- Vito the Coach in the early to mid 1990s_**
+
+💯💚🌿
