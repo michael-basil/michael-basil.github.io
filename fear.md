@@ -32,3 +32,5 @@ When we find [Ourselves](https://en.wikipedia.org/wiki/Self) in a [Situation](ht
 You can [Walk The Line](https://en.wikipedia.org/wiki/Walk_the_Line) towards [Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption), but beware of those who attempt to [Hustle](https://en.wikipedia.org/wiki/American_Hustle) you!
 
 Through this [Process](https://www.merriam-webster.com/dictionary/process), many find that the thought of [Discomfort](https://www.merriam-webster.com/dictionary/discomfort) we would [Experience](https://www.merriam-webster.com/dictionary/experience) consuming these wet matzo balls was not nearly as bad as what we actually experience.  Many times, we find that we actually experience [Joy](https://www.merriam-webster.com/dictionary/joy).
+
+💯💚🌿
