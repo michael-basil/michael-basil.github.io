@@ -41,8 +41,12 @@ Mindset recalibration.  Our thoughts, actions, and desires are shaped and driven
 * Enjoyment comes from consuming more, more, more
 * Health pursuits are expensive and need to be fancy
 * Sugar is aweful but alcohol and burritos are exempted
+* Extra weight can be burned off
+* Weight loss plateus are a result of bad genetic
 * Fasting is bad for metabolism and IMPOSSIBLE
 * Addiction behaviors, not me!
+* Discomfort is bad and should be avoided or confronted
+* Results bring hapiness
 
 While I did learn a lot along the way about nutritional principles and dietary approaches (paleo, carbohydrate restriction, proteien focus) I was always missing key parts of the picture.  In relative comparison, I now have the following mindsets:
 
@@ -52,8 +56,12 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Enjoyment comes from observing the present moment for what it brings or omits
 * Health pursuits cost nothing and are best when simple
 * Sugar and processed foods are detrmental with no exceptions
+* The body seeks homeostatis and the weight set point can be moved
+* Weight loss plateus can be punched through with fasting exercises
 * Fasting improves metabolism, has anti-aging effects and can be Relaxing
 * Addiction behaviors when identified are systematically observed and erradicated
+* Discomfort comes from a lack of familiarity or unmet expectation and done well we can learn
+* Happiness and tranquility come from within when we are present in any situation
 
 ## What are my current habits when at my best?
 
@@ -122,6 +130,7 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 * [Sugar and gut health](https://www.wellandgood.com/sugar-and-gut-health/)
 * [Does sugar stunt growth?](https://supplementchoices.com/does-sugar-stunt-growth/)
 * [Carboyhdrate Insulin Model](https://academic.oup.com/ajcn/article/114/6/1873/6369073?login=false)
+* [Metabolic Strategies in Health Care - A New Era](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116908/)
 * [Beyond Calories In, Calories Out](https://www.crossfit.com/essentials/the-carbohydrate-insulin-model-beyond-calories-in-calories-out)
 * [Dr. Jason Fung MD - YouTube](https://www.youtube.com/c/drjasonfung1)
 * [Dr. Jason Fung MD - The Fasting Method](https://www.thefastingmethod.com/)
@@ -131,12 +140,15 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 
 ## What are key influences related to energy, mind, emotional, and social health?
 
+STILL REFLECTING
+
 * [Positive Psychology](https://positivepsychology.com/)
 * [Ela - Prana Pathways](https://www.pranapathways.com/)
-* STILL REFLECTING
 * Stoicism
 * Buddhism
 * Taoism
+* [Universal Life Church](https://www.themonastery.org/)
+* [Church of the Latter-Day Dude](https://dudeism.com/)
 * [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)
 * [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
 
