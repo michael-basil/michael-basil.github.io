@@ -72,7 +72,7 @@ While I did learn a lot along the way about nutritional principles and dietary a
         * Favorite desert: almond or peanut butter (fresh ground) with a banana
     * For my kids I approach the same way but add full fat yogurt, full fat cheese, tuna fish, salmon
 * Exercise
-    * Boxing, swimming, jump rope, calistenics, running, walking, biking, basketball, racquetball
+    * Boxing, swimming, jumping rope, push ups, pull ups, chin ups, planks, burpees, running, walking, biking, basketball, racquetball
     * Heavy days are Monday, Wednesday and Friday
     * Lighter days are Tuesday and Thursday
     * Weekends are optional as desired/motivated
@@ -85,6 +85,9 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Sleep
     * 7-8 hours per night target
     * Sleep debt cleaned up on weekends 
+* Yoga
+    * Familiarized but no regular practice
+    * Could be very beneficial in future with flexibility and stability 
 
 ## Am I always at my best?
 
