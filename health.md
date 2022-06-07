@@ -104,13 +104,17 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 * To liberate myself from entrenched habits and addictions
 * To reverse heart disease
 * To challenge the status quo
-* To prove many doctors that prescribed things to me but could not explain them without resorting to appeals to authority, fortune telling and emotional manipulation tactics
+* There are many things sold that do not serve the person consuming
+    * Many doctors prescribed things to me but could not explain their utility without resorting to appeals to authority, fortune telling and emotional manipulation tactics
+    * Decision making rests in the sole posession of the patient or consumer
+    * People weigh risks differently and this will be tolerated and accepted one way or another over time
+* Many people attempted to persuade me to lose hope and curiousity as a way to cope with negative situations
 * For my children
 * For myself
 * To see how far much further things can go when our Mindsets are shifted and altered
 * Because I like to have fun with/in systems 
 
-## What are my main influences related to physical health?
+## What are key influences related to physical health?
 
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
@@ -125,9 +129,16 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 * [Immune](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune-ebook/dp/B08YR8FNCP)
 * [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
 
-## What are my main influences related to energy, mind, emotional, and social health?
+## What are key influences related to energy, mind, emotional, and social health?
 
-[Ela - Prana Pathways](https://www.pranapathways.com/)
-STILL REFLECTING
+* [Positive Psychology](https://positivepsychology.com/)
+* [Ela - Prana Pathways](https://www.pranapathways.com/)
+* STILL REFLECTING
+* Stoicism
+* Buddhism
+* Taoism
+* [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)
+* [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
+
 
 🏄‍♂️ 🌿 😏
