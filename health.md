@@ -123,7 +123,7 @@ We emmbrace the journey and appreciate the desitations and outcomes (positive an
 * [Immune](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune-ebook/dp/B08YR8FNCP)
 * [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
 
-## What are my main influences related to energy, mind, emotional, and socialth?
+## What are my main influences related to energy, mind, emotional, and social health?
 
 That conversation seems to happen in person.
 
