@@ -19,7 +19,7 @@ What does it look like when I feel healthy?
 
 ## What is Agency?
 
-I have angency when I am able to move towards fulfilling my potential.  Simply put, I perceive an empowered life situation.  This does not mean that I am completely unconstrained, rather the constraints present are liberating, can be negoatied, can be oriented into a productive situation, or are acceptable given the larger view of things.  
+I have angency when I am able to move towards fulfilling my potential.  Simply put, I perceive an empowered life situation.  This does not mean that I am completely unconstrained, rather the constraints present are liberating, can be negoatied, can be oriented into a productive situation or are acceptable given the larger view of things.  
 
 What does it look like when I feel agency?
 
@@ -31,19 +31,25 @@ What does it look like when I feel agency?
 * Challenges are regularly wisdom generating and fun
 * My primary thinking modality when pressured is Systems Oriented (versus Morally Judgemental)
 
-## What do I do to stay healthy?
+## How did I evolve to be healthy?
 
-TODO
+I start with Mindsets.  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.  Generally speaking prior to my relatively recent positive inflection points all of my manifestions (appearance outcomes, internal health and behaviors) were shaped by:
 
-## How have my Mindsets changed which drive my thoughts, actions and desires?
+* Nutrition is mysterious
+* Eat often and mindlessly
+* Exercise will allow me to eat what I want, when I want, and however much I want
+* Enjoyment comes from consuming more, more, more
+* Health pursuits are expensive and need to be fancy
+* Fasting is bad for metabolism and IMPOSSIBLE
 
-### Before 
+While I did learn a lot along the way about nutritional principles and dietary approaches (paleo, carbohydrate restriction, proteien focus) I was always missing key parts of the picture.  In relative comparison, I now have the following mindsets:
 
-TODO
-
-### Current
-
-TODO
+* Food is fuel and hormones are relevant
+* Eating becomes fun when approached mindfully
+* Exercise is an important component of health
+* Enjoyment comes from observing the present moment for what it brings or omits
+* Health pursuits cost nothing and are best when simple
+* Fasting improves metabolism, has anit-aging effects and can be Relaxing
 
 ## What are the root influences that helped me build this mental model?
 
@@ -57,3 +63,5 @@ TODO
 * [Dr. Jason Fung MD - YouTube](https://www.youtube.com/c/drjasonfung1)
 * [Dr. Jason Fung MD - The Fasting Method](https://www.thefastingmethod.com/)
 * [Dr. Jason Fung MD - The Obesity Code](https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight-ebook/dp/B01C6D0LCK)
+* [Immune](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune-ebook/dp/B08YR8FNCP)
+* [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
