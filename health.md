@@ -144,6 +144,7 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 
 STILL REFLECTING
 
+* [Paul Chek - Stress, Yin Yang, Catabolic Anabolic, Homeostasis](https://www.youtube.com/watch?v=aOKvfcXM4vA)
 * [Positive Psychology](https://positivepsychology.com/)
 * [Ela - Prana Pathways](https://www.pranapathways.com/)
 * Stoicism
