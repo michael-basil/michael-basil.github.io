@@ -52,32 +52,33 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Enjoyment comes from observing the present moment for what it brings or omits
 * Health pursuits cost nothing and are best when simple
 * Sugar and processed foods are detrmental with no exceptions
-* Fasting improves metabolism, has anit-aging effects and can be Relaxing
+* Fasting improves metabolism, has anti-aging effects and can be Relaxing
 * Addiction behaviors when identified are systematically observed and erradicated
 
 ## What are my current habits when at my best?
 
 * Fasting
-    * Post-novice or intermediate level
+    * Intermediate level
     * Water only
     * 16-22 hour fasting window on intermittent days
-    * 24-60 hour extended fasting window perioically 
+    * 36-60 hour extended fasting window perioically 
 * Eating
     * No processed food, no grains, all whole foods
     * Minimal sugar, targeted proteins and healthy fats
-        * Spinach, brocoli, avacado. black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, bell peppers, jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil, ginger), olive oil, balsamic vinegar, cashews, pistachios, almonds, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
+        * Spinach, brocoli, avacado, peas, black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, bell peppers, jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil, ginger), olive oil, balsamic vinegar, cashews, pistachios, almonds, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
         * Fish: not currently but likely soon
         * Eggs: not currently but likely soon
         * Dairy: not currently and unlikely soon
         * Favorite desert: almond or peanut butter (fresh ground) with a banana
     * For my kids I approach the same way but add full fat yogurt, full fat cheese, tuna fish, salmon
 * Exercise
+    * 10,000+ hours of practice
     * Boxing, swimming, jumping rope, push ups, pull ups, chin ups, planks, burpees, running, walking, biking, basketball, racquetball
     * Heavy days are Monday, Wednesday and Friday
     * Lighter days are Tuesday and Thursday
     * Weekends are optional as desired/motivated
 * Meditation
-    * Early stage practices being developed
+    * Novice level
     * Tuesday and Thursday online
     * Tuesday night in person
     * Monday and Friday as able
@@ -87,7 +88,8 @@ While I did learn a lot along the way about nutritional principles and dietary a
     * Sleep debt cleaned up on weekends 
 * Yoga
     * Familiarized but no regular practice
-    * Could be very beneficial in future with flexibility and stability 
+    * Could be very beneficial in future with flexibility and stability (physical sheath)
+    * Benefits outside of the physical sheath hae not been explored or demystified
 
 ## Am I always at my best?
 
@@ -102,11 +104,11 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 * To liberate myself from entrenched habits and addictions
 * To reverse heart disease
 * To challenge the status quo
-* To prove many doctors wrong who could not defend, support, or explain the purpose of their prescriptions
+* To prove many doctors that prescribed things to me but could not explain them without resorting to appeals to authority, fortune telling and emotional manipulation tactics
 * For my children
 * For myself
 * To see how far much further things can go when our Mindsets are shifted and altered
-* Because I have fun with systems 
+* Because I like to have fun with/in systems 
 
 ## What are my main influences related to physical health?
 
@@ -125,6 +127,7 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 
 ## What are my main influences related to energy, mind, emotional, and social health?
 
-That conversation seems to happen in person.
+[Ela - Prana Pathways](https://www.pranapathways.com/)
+STILL REFLECTING
 
 🏄‍♂️ 🌿 😏
