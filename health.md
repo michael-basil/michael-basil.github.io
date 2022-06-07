@@ -94,7 +94,18 @@ I never scold myself, rather inspect when I have created a Tension through Expec
 
 We emmbrace the journey and appreciate the desitations and outcomes (positive and negative) for what they are.  Idealism is another form of addiction.
 
-## What are my main influences?
+## Why did I do this?
+
+* To liberate myself from entrenched habits and addictions
+* To reverse heart disease
+* To challenge the status quo
+* To prove many doctors wrong who could not defend, support, or explain the purpose of their prescriptions
+* For my children
+* For myself
+* To see how far much further things can go when our Mindsets are shifted and altered
+* Because I have fun with systems 
+
+## What are my main influences related to physical health?
 
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
@@ -108,3 +119,9 @@ We emmbrace the journey and appreciate the desitations and outcomes (positive an
 * [Dr. Jason Fung MD - The Obesity Code](https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight-ebook/dp/B01C6D0LCK)
 * [Immune](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune-ebook/dp/B08YR8FNCP)
 * [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
+
+## What are my main influences related to energy, mind, emotional, and socialth?
+
+That conversation seems to happen in person.
+
+🏄‍♂️ 🌿 😏
