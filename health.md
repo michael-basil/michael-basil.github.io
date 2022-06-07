@@ -40,7 +40,9 @@ I start with Mindsets.  Our thoughts, actions, and desires are shaped and driven
 * Exercise will allow me to eat what I want, when I want, and however much I want
 * Enjoyment comes from consuming more, more, more
 * Health pursuits are expensive and need to be fancy
+* Sugar is aweful but alcohol and burritos are exempted
 * Fasting is bad for metabolism and IMPOSSIBLE
+* Addiction behaviors, not me!
 
 While I did learn a lot along the way about nutritional principles and dietary approaches (paleo, carbohydrate restriction, proteien focus) I was always missing key parts of the picture.  In relative comparison, I now have the following mindsets:
 
@@ -49,11 +51,48 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Exercise is an important component of health
 * Enjoyment comes from observing the present moment for what it brings or omits
 * Health pursuits cost nothing and are best when simple
+* Sugar and processed foods are detrmental with no exceptions
 * Fasting improves metabolism, has anit-aging effects and can be Relaxing
+* Addition behaviors when identified are systematically observed and erradicated
 
-## What are my current habits?
+## What are my current habits when at my best?
 
-COMING SOON
+* Fasting
+    * Post-novice or intermediate level
+    * Water only
+    * 16-22 hour fasting window on intermittent days
+    * 24-60 hour extended fasting window perioically 
+* Eating
+    * No processed food, no grains, all whole foods
+    * Minimal sugar, targeted proteins and healthy fats
+        * Spinach, brocoli, avacado. black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, green/red/yellow/orange/jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil), olive oil, balsamic vinegar, cashews, pistachios, almonts, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
+        * Fish: not currently but likely soon
+        * Eggs: not currently but likely soon
+        * Dairy: not currently and unlikely soon
+        * Favorite desert: almond or peanut butter (fresh ground) with a banana
+    * For my kids I approach the same way but add full fat yogurt, full fat cheese, tuna fish, salmon
+* Exercise
+    * Boxing, swimming, jump rope, calistenics, running, walking, biking, basketball, racquetball
+    * Heavy days are Monday, Wednesday and Friday
+    * Lighter days are Tuesday and Thursday
+    * Weekends are optional as desired/motivated
+* Meditation
+    * Early stage practices being developed
+    * Tuesday and Thursday online
+    * Tuesday night in person
+    * Monday and Friday as able
+    * Weekends not typically outside of short breath sequences for centering
+* Sleep
+    * 7-8 hours per night target
+    * Sleep debt cleaned up on weekends 
+
+## Am I always at my best?
+
+No and this is okay and good.  Perfection is not the goal.  We learn and improve even through setbacks and missed objectives.
+
+I never scold myself, rather inspect when I have created a Tension through Expecation that has been Unmet.  I ask myself if this Expectation would have been better as an Ambition.  If not, I work out a new strategy or set aside time later to re-approach the situation or endeavor.
+
+We emmbrace the journey and appreciate the desitations and outcomes (positive and negative) for what they are.  Idealism is another form of addiction.
 
 ## What are my main influences?
 
