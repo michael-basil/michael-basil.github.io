@@ -51,7 +51,11 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Health pursuits cost nothing and are best when simple
 * Fasting improves metabolism, has anit-aging effects and can be Relaxing
 
-## What are the root influences that helped me build this mental model?
+## What are my current habits?
+
+COMING SOON
+
+## What are my main influences?
 
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
