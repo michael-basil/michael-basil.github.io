@@ -33,7 +33,7 @@ What does it look like when I feel agency?
 
 ## How did I evolve to be healthy?
 
-I start with Mindsets.  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.  Generally speaking prior to my relatively recent positive inflection points all of my manifestions (appearance outcomes, internal health and behaviors) were shaped by:
+Mindset recalibration.  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.  Generally speaking prior to my relatively recent positive inflection points all of my manifestions (appearance outcomes, internal health and behaviors) were shaped by:
 
 * Nutrition is mysterious
 * Eat often and mindlessly
@@ -95,7 +95,7 @@ No and this is okay and good.  Perfection is not the goal.  We learn and improve
 
 I never scold myself, rather inspect when I have created a Tension through Expecation that has been Unmet.  I ask myself if this Expectation would have been better as an Ambition.  If not, I work out a new strategy or set aside time later to re-approach the situation or endeavor.
 
-We emmbrace the journey and appreciate the desitations and outcomes (positive and negative) for what they are.  Idealism is another form of addiction.
+We embrace the journey and appreciate the desitations and outcomes (positive and negative) for what they are.  Idealism is another form of addiction.
 
 ## Why did I do this?
 
