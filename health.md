@@ -65,7 +65,7 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Eating
     * No processed food, no grains, all whole foods
     * Minimal sugar, targeted proteins and healthy fats
-        * Spinach, brocoli, avacado. black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, green/red/yellow/orange/jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil), olive oil, balsamic vinegar, cashews, pistachios, almonds, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
+        * Spinach, brocoli, avacado. black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, bell peppers, jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil, ginger), olive oil, balsamic vinegar, cashews, pistachios, almonds, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
         * Fish: not currently but likely soon
         * Eggs: not currently but likely soon
         * Dairy: not currently and unlikely soon
