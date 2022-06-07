@@ -53,7 +53,7 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Health pursuits cost nothing and are best when simple
 * Sugar and processed foods are detrmental with no exceptions
 * Fasting improves metabolism, has anit-aging effects and can be Relaxing
-* Addition behaviors when identified are systematically observed and erradicated
+* Addiction behaviors when identified are systematically observed and erradicated
 
 ## What are my current habits when at my best?
 
