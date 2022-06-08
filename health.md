@@ -144,6 +144,9 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 
 STILL REFLECTING
 
+* [Yin and Yang](https://tantramag.com/tantric-practice/yin-and-yang/)
+* [Yin and Yang - the theory of everything](https://www.the-alchemy-project.com/post/2017/05/07/yin-yang-the-theory-of-everything)
+* [Anabolic and Catabolic Forces in the Body](bodybalanced.net/post/anabolic-and-catabolic-forces-in-the-body)
 * [Paul Chek - Stress, Yin Yang, Catabolic Anabolic, Homeostasis](https://www.youtube.com/watch?v=aOKvfcXM4vA)
 * [Positive Psychology](https://positivepsychology.com/)
 * [Ela - Prana Pathways](https://www.pranapathways.com/)
