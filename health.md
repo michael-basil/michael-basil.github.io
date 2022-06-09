@@ -3,10 +3,9 @@ title: health
 description: agency
 ---
 
-## What is Health?
+# What is Health?
 
 Health is not binary and it fluxuates over time.  However, we know we are not healthy when we cannot function the way we expect or are experiencing pain.  
-
 What does it look like when I feel healthy?
 
 * I feel energized
@@ -33,16 +32,16 @@ What does it look like when I feel agency?
 
 ## How did I evolve to be healthy?
 
-Mindset recalibration.  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.  Generally speaking prior to my relatively recent positive inflection points all of my manifestions (appearance outcomes, internal health and behaviors) were shaped by:
+***Mindset recalibration.***  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.  Generally speaking prior to my relatively recent positive inflection points all of my manifestions (appearance outcomes, internal health and behaviors) were shaped by:
 
-* Nutrition is mysterious
+* Nutrition is a mystery
 * Eat often and mindlessly
 * Exercise will allow me to eat what I want, when I want, and however much I want
 * Enjoyment comes from consuming more, more, more
 * Health pursuits are expensive and need to be fancy
 * Sugar is aweful but alcohol and burritos are exempted
 * Extra weight can be burned off
-* Weight loss plateus are a result of bad genetic
+* Weight loss plateus are a result of bad genetics
 * Fasting is bad for metabolism and IMPOSSIBLE
 * Addiction behaviors, not me!
 * Discomfort is bad and should be avoided or confronted
@@ -107,8 +106,6 @@ No and this is okay and good.  Perfection is not the goal.  We learn and improve
 
 I never scold myself, rather inspect when I have created a Tension through Expecation that has been Unmet.  I ask myself if this Expectation would have been better as an Ambition.  If not, I work out a new strategy or set aside time later to re-approach the situation or endeavor.
 
-We embrace the journey and appreciate the desitations and outcomes (positive and negative) for what they are.  Idealism is another form of addiction.
-
 ## Why did I do this?
 
 * To liberate myself from entrenched habits and addictions
@@ -124,7 +121,11 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 * To see how far much further things can go when our Mindsets are shifted and altered
 * Because I like to have fun with/in systems 
 
-## What are key influences related to physical health?
+## Related to physical health what was helpful along the way so far?
+
+Reading, reflecting and running experiments on myself.
+
+I'm always open to converstions on any of the following topics:
 
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
@@ -140,9 +141,11 @@ We embrace the journey and appreciate the desitations and outcomes (positive and
 * [Immune](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune-ebook/dp/B08YR8FNCP)
 * [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
 
-## What are key influences related to energy, mind, emotional, and social health?
+## Related to energy, mind, emotional, spiritual and social health what was helpful along the way so far?
 
-STILL REFLECTING
+Reading, reflecting and running experiments on myself.
+
+I'm always open to converstions on any of the following topics:
 
 * [Yin and Yang](https://tantramag.com/tantric-practice/yin-and-yang/)
 * [Yin and Yang - the theory of everything](https://www.the-alchemy-project.com/post/2017/05/07/yin-yang-the-theory-of-everything)
@@ -150,13 +153,30 @@ STILL REFLECTING
 * [Paul Chek - Stress, Yin Yang, Catabolic Anabolic, Homeostasis](https://www.youtube.com/watch?v=aOKvfcXM4vA)
 * [Positive Psychology](https://positivepsychology.com/)
 * [Ela - Prana Pathways](https://www.pranapathways.com/)
-* Stoicism
-* Buddhism
-* Taoism
+* [The Beginner's Guide to Stoicism](https://www.amazon.com/gp/product/1641527218)
+* [Meditations](https://www.amazon.com/gp/product/0812968255)
+* [The Handbook (The Encheiridion)](https://www.amazon.com/gp/product/0915145693)
+* [The Dharma of Star Wars](https://www.amazon.com/gp/product/1614292868)
+* [Zen Mind, Beginner's Mind](https://www.amazon.com/gp/product/1611808413)
+* [The Zen of R2-D2](https://www.amazon.com/gp/product/1614296200)
+* [Buddhism for Kids](https://www.amazon.com/gp/product/1641523972)
+* [Chicago Shambhala Center](https://chicago.shambhala.org/)
+* [What is Taoism](https://www.taopage.org/)
+* [Tao Te Ching](https://www.amazon.com/gp/product/1585426180)
+* [The Tao of Pooh](https://www.amazon.com/gp/product/1405293780)
+* [Tao of Yoda](https://www.amazon.com/gp/product/0983309922/)
+* [The Physics of Qi](https://www.amazon.com/gp/product/1735711608)
+* [Cultivating Ch'i: A Samurai Physician's Teachings on the Way of Health](https://www.amazon.com/gp/product/159030988X)
+* [Metaphors We Live By](https://www.amazon.com/gp/product/0226468011)
+* [Designing the Mind: The Principles of Psychitecture](https://www.amazon.com/gp/product/B08SGWNLV9/)
+* [The Law of Vibration Explained in 3 Easy Steps](https://thejoywithin.org/the-law-of-attraction/the-law-of-vibration-explained-in-3-easy-steps)
 * [Universal Life Church](https://www.themonastery.org/)
 * [Church of the Latter-Day Dude](https://dudeism.com/)
 * [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)
 * [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
 
+## Upon writing this and reflecting what did I realize?
 
-🏄‍♂️ 🌿 😏
+I've come a long way.  There is a long journey ahead.  Everything above was more effective and useful than anything offered or suggested to me by health professionals.
+
+💯 🌿 😏
