@@ -34,8 +34,11 @@ What does it look like when I feel agency?
 
 ***Mindset recalibration.***  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.  Generally speaking prior to my relatively recent positive inflection points all of my manifestions (appearance outcomes, internal health and behaviors) were shaped by:
 
-* Nutrition is a mystery
+* Food is a social ritual
+* A calorie is a calorie
 * Eat often and mindlessly
+* Cheating is healthy sometimes
+* My choices should not burden others
 * Exercise will allow me to eat what I want, when I want, and however much I want
 * Enjoyment comes from consuming more, more, more
 * Health pursuits are expensive and need to be fancy
@@ -49,15 +52,18 @@ What does it look like when I feel agency?
 
 While I did learn a lot along the way about nutritional principles and dietary approaches (paleo, carbohydrate restriction, proteien focus) I was always missing key parts of the picture.  In relative comparison, I now have the following mindsets:
 
-* Food is fuel and hormones are relevant
+* Food is fuel and conversation is the core of social rituals
+* Total energy expenditure is influenced heavily by hormonal balance
 * Eating becomes fun when approached mindfully
+* Chocies have consequences, choose wisely
+* My choices are independent from the larger group
 * Exercise is an important component of health
 * Enjoyment comes from observing the present moment for what it brings or omits
 * Health pursuits cost nothing and are best when simple
 * Sugar and processed foods are detrmental with no exceptions
 * The body seeks homeostatis and the weight set point can be moved
 * Weight loss plateus can be punched through with fasting exercises
-* Fasting improves metabolism, has anti-aging effects and can be Relaxing
+* Fasting improves metabolism, has anti-aging effects and can be relaxing
 * Addiction behaviors when identified are systematically observed and erradicated
 * Discomfort comes from a lack of familiarity or unmet expectation and done well we can learn
 * Happiness and tranquility come from within when we are present in any situation
@@ -121,11 +127,11 @@ I never scold myself, rather inspect when I have created a Tension through Expec
 * To see how far much further things can go when our Mindsets are shifted and altered
 * Because I like to have fun with/in systems 
 
-## Related to physical health what was helpful along the way so far?
+## What helped me with Mindset Recalibration?
 
-Reading, reflecting and running experiments on myself.
+Challenging myself by contemplating, reflecting, doing hard things and running experiments on myself.  More and more being in the present moment.
 
-I'm always open to converstions on any of the following topics:
+Everything below was an input that somehow helped me take a step.  I am always open to conversations on any of these or something another feels is related.
 
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
@@ -138,19 +144,15 @@ I'm always open to converstions on any of the following topics:
 * [Dr. Jason Fung MD - YouTube](https://www.youtube.com/c/drjasonfung1)
 * [Dr. Jason Fung MD - The Fasting Method](https://www.thefastingmethod.com/)
 * [Dr. Jason Fung MD - The Obesity Code](https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight-ebook/dp/B01C6D0LCK)
+* [The Miracle of Fasting](https://www.amazon.com/gp/product/0877900833)
 * [Immune](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune-ebook/dp/B08YR8FNCP)
 * [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
-
-## Related to energy, mind, emotional, spiritual and social health what was helpful along the way so far?
-
-Reading, reflecting and running experiments on myself.
-
-I'm always open to converstions on any of the following topics:
-
 * [Yin and Yang](https://tantramag.com/tantric-practice/yin-and-yang/)
 * [Yin and Yang - the theory of everything](https://www.the-alchemy-project.com/post/2017/05/07/yin-yang-the-theory-of-everything)
 * [Anabolic and Catabolic Forces in the Body](bodybalanced.net/post/anabolic-and-catabolic-forces-in-the-body)
 * [Paul Chek - Stress, Yin Yang, Catabolic Anabolic, Homeostasis](https://www.youtube.com/watch?v=aOKvfcXM4vA)
+* [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato))
+* [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)
 * [Positive Psychology](https://positivepsychology.com/)
 * [Ela - Prana Pathways](https://www.pranapathways.com/)
 * [The Beginner's Guide to Stoicism](https://www.amazon.com/gp/product/1641527218)
@@ -170,10 +172,20 @@ I'm always open to converstions on any of the following topics:
 * [Metaphors We Live By](https://www.amazon.com/gp/product/0226468011)
 * [Designing the Mind: The Principles of Psychitecture](https://www.amazon.com/gp/product/B08SGWNLV9/)
 * [The Law of Vibration Explained in 3 Easy Steps](https://thejoywithin.org/the-law-of-attraction/the-law-of-vibration-explained-in-3-easy-steps)
+* [Growing into Light](https://www.amazon.com/Growing-Into-Light-Freedom-Long)
 * [Universal Life Church](https://www.themonastery.org/)
 * [Church of the Latter-Day Dude](https://dudeism.com/)
 * [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)
+* [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/gp/product/1622313941)
 * [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
+* [Eleven Rings: The Soul of Success](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson-ebook)
+* [The Alpinist](https://www.imdb.com/title/tt11790780)
+* [Free Solo](https://www.imdb.com/title/tt7775622/)
+* [Star Wars](https://www.starwars.com/films)
+* [Lessons from the Bamboo](https://www.youtube.com/watch?v=9g8T8MsFIp0)
+* [The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)
+* [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
+* [Woebot](https://woebothealth.com/try-woebot/)
 
 ## Upon writing this and reflecting what did I realize?
 
