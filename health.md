@@ -53,7 +53,7 @@ What does it look like when I feel agency?
 
 While I did learn a lot along the way about nutritional principles and dietary approaches (paleo, carbohydrate restriction, proteien focus) I was always missing key parts of the picture.  In relative comparison, I now have the following mindsets:
 
-* Energy of the food is what makes it appealing
+* Energy of the food is what makes it appealing or repulsive
 * Food is fuel and conversation is the core of social rituals
 * Total energy expenditure is influenced heavily by hormonal balance
 * Eating becomes fun when approached mindfully
