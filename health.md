@@ -195,6 +195,6 @@ Everything below was an input that somehow helped me take a step.  I am always o
 
 ## Upon writing this and reflecting what did I realize?
 
-I've come a long way.  There is a long journey ahead.  Everything above was more effective and useful than anything offered or suggested to me by health professionals.
+I've come a long way.  There is a long journey ahead.  Everything above was more effective and useful than anything offered or suggested to me by traditional health professionals.
 
 💯 🌿 😏
