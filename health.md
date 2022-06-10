@@ -179,6 +179,7 @@ Everything below was an input that somehow helped me take a step.  I am always o
 * [Designing the Mind: The Principles of Psychitecture](https://www.amazon.com/gp/product/B08SGWNLV9/)
 * [The Law of Vibration Explained in 3 Easy Steps](https://thejoywithin.org/the-law-of-attraction/the-law-of-vibration-explained-in-3-easy-steps)
 * [Growing into Light](https://www.amazon.com/Growing-Into-Light-Freedom-Long)
+* [Chabad East Lakeview](https://www.jewishlakeview.com/)
 * [Universal Life Church](https://www.themonastery.org/)
 * [Church of the Latter-Day Dude](https://dudeism.com/)
 * [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)
