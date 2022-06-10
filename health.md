@@ -43,12 +43,14 @@ What does it look like when I feel agency?
 * Exercise will allow me to eat what I want, when I want, and however much I want
 * Enjoyment comes from consuming more, more, more
 * Health pursuits are expensive and need to be fancy
-* Sugar is aweful but alcohol and burritos are exempted
+* Sugar is awful but alcohol and burritos are exempted
 * Extra weight can be burned off
 * Weight loss plateus are a result of bad genetics
 * Fasting is bad for metabolism and IMPOSSIBLE
 * Addiction behaviors, not me!
 * Discomfort is bad and should be avoided or confronted
+* Tension is bad
+* Right and wrong is socially absolute
 * Results bring hapiness
 
 While I did learn a lot along the way about nutritional principles and dietary approaches (paleo, carbohydrate restriction, proteien focus) I was always missing key parts of the picture.  In relative comparison, I now have the following mindsets:
@@ -57,7 +59,7 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Food is fuel and conversation is the core of social rituals
 * Total energy expenditure is influenced heavily by hormonal balance
 * Eating becomes fun when approached mindfully
-* Chocies have consequences, choose wisely
+* Choices have consequences, choose wisely
 * My choices are independent from the larger group
 * Exercise is an important component of health
 * Enjoyment comes from observing the present moment for what it brings or omits
@@ -67,8 +69,10 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Weight loss plateus can be punched through with fasting exercises
 * Fasting improves metabolism, has anti-aging effects and can be relaxing
 * Addiction behaviors when identified are systematically observed and erradicated
-* Discomfort comes from a lack of familiarity or unmet expectation and done well we can learn
-* Happiness and tranquility come from within when we are present in any situation
+* Discomfort comes from a lack of familiarity
+* Unmet expectation creates tension
+* Good and bad are subjective and contextual
+* Our default state of being is tranquility
 
 ## What are my current habits when at my best?
 
@@ -86,7 +90,7 @@ While I did learn a lot along the way about nutritional principles and dietary a
         * Fish: not currently but likely soon
         * Eggs: not currently but likely soon
         * Dairy: not currently and unlikely soon
-        * Favorite desert: almond or peanut butter (fresh ground) with a banana
+        * Favorite desert: fresh ground nut butter with a banana
     * For my kids I approach the same way but add full fat yogurt, full fat cheese, tuna fish, salmon
 * Exercise
     * 10,000+ hours of practice
