@@ -53,6 +53,7 @@ What does it look like when I feel agency?
 * Tension is bad
 * Right and wrong is socially absolute
 * Results bring hapiness
+* ***Comfort over Improvement***
 
 While I did learn a lot along the way about nutritional principles and dietary approaches (paleo, carbohydrate restriction, proteien focus) I was always missing key parts of the picture.  In relative comparison, I now have the following mindsets:
 
@@ -74,6 +75,7 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Unmet expectation creates tension
 * Good and bad are subjective and contextual
 * Our default state of being is tranquility
+* ***Improvement over Comfort***
 
 ## What are my current habits when at my best?
 
@@ -190,6 +192,8 @@ Everything below was an input that somehow helped me take a step.  I am always o
 * [The Alpinist](https://www.imdb.com/title/tt11790780)
 * [Free Solo](https://www.imdb.com/title/tt7775622/)
 * [Star Wars](https://www.starwars.com/films)
+* [The Mandalorian](https://en.wikipedia.org/wiki/The_Mandalorian)
+* [The Philosophy of Ted Lasso](https://www.youtube.com/watch?v=DKiCiMcT9V8)
 * [Lessons from the Bamboo](https://www.youtube.com/watch?v=9g8T8MsFIp0)
 * [The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)
 * [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
