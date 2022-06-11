@@ -75,13 +75,13 @@ What does it look like when I feel agency?
 * Weight loss plateus can be punched through with fasting exercises
 * Fasting improves metabolism, has anti-aging effects and can be relaxing
 * Addiction behaviors when identified are systematically observed and erradicated
-* Discomfort comes from a lack of familiarity
-* Unmet expectation creates tension
+* Discomfort is necessary and useful to evolve
+* Expectation creates tension, choose intentions versus expectations wisel
 * Good and bad are subjective and contextual
 * Our default state of being is tranquility
 * ***Improvement over Comfort***
 
-While the prevoius mindsets in relative comparison have been productively evolved, the second set is not *done*.   They are always a new beginning and mean to be challenged.  Through challenging we see which ones are useful given the current trends of things and which ones are vicious.  Over time these may expand slightly temporaraily and will distill down to the essence.  Whenever we think we are *there* and have figured things out we are best to remember we are again just beginning.  This is the ***Meta of Mindset***
+While the prevoius mindsets in relative comparison have been productively evolved, the second set is not *done*.   They are always a new beginning and mean to be challenged.  Through challenging we see which ones are useful given the current trends of things and which ones are vicious.  Over time these may expand slightly temporaraily and will distill down to the essence.  Whenever we think we are *there* and have figured things out we are best to remember we are again just beginning.  This is the ***Meta of Mindset***.
 
 ## What are my current habits when at my best?
 
