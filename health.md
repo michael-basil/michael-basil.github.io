@@ -33,7 +33,9 @@ What does it look like when I feel agency?
 
 ## How did I evolve to be healthy?
 
-***Mindset recalibration.***  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.  Generally speaking prior to my relatively recent positive inflection points all of my manifestions (appearance outcomes, internal health and behaviors) were shaped by:
+***Mindset recalibration.***  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.
+
+### Previous
 
 * Taste is what makes a food appealing
 * Food is a social ritual
@@ -56,7 +58,7 @@ What does it look like when I feel agency?
 * Results bring hapiness
 * ***Comfort over Improvement***
 
-While I did learn a lot along the way about nutritional principles and dietary approaches (paleo, carbohydrate restriction, proteien focus) I was always missing key parts of the picture.  In relative comparison, I now have the following mindsets:
+### Evolved
 
 * Energy of the food is what makes it appealing or repulsive
 * Food is fuel and conversation is the core of social rituals
@@ -78,6 +80,8 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Good and bad are subjective and contextual
 * Our default state of being is tranquility
 * ***Improvement over Comfort***
+
+While the prevoius mindsets in relative comparison have been productively evolved, the second set is not *done*.   They are always a new beginning and mean to be challenged.  Through challenging we see which ones are useful given the current trends of things and which ones are vicious.  Over time these may expand slightly temporaraily and will distill down to the essence.  Whenever we think we are *there* and have figured things out we are best to remember we are again just beginning.  This is the ***Meta of Mindset***
 
 ## What are my current habits when at my best?
 
