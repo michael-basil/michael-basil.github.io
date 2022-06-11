@@ -76,7 +76,7 @@ What does it look like when I feel agency?
 * Fasting improves metabolism, has anti-aging effects and can be relaxing
 * Addiction behaviors when identified are systematically observed and erradicated
 * Discomfort is necessary and useful to evolve
-* Expectation creates tension, choose intentions versus expectations wisel
+* Expectation creates tension, choose ambitions versus expectations wisely
 * Good and bad are subjective and contextual
 * Our default state of being is tranquility
 * ***Improvement over Comfort***
