@@ -83,6 +83,8 @@ What does it look like when I feel agency?
 
 While the prevoius mindsets in relative comparison have been productively evolved, the second set is not *done*.   They are always a new beginning and mean to be challenged.  Through challenging we see which ones are useful given the current trends of things and which ones are vicious.  Over time these may expand slightly temporaraily and will distill down to the essence.  Whenever we think we are *there* and have figured things out we are best to remember we are again just beginning.  This is the ***Meta of Mindset***.
 
+A subtle ***Shift of a Mindset*** happens when we resolve a conflation or dualistic tie in our conceptual system.  An example from a Zen book I like is the difference between *form is emptiness and emptiness is form* and *form is form and emptinesss is emptiness*.  So with food one may say *food is comfort and comfort is food* whereas *food is food and comfort is comfort* opens up all kinds of new possibilities.
+
 ## What are my current habits when at my best?
 
 * Fasting
@@ -180,6 +182,7 @@ Everything below was an input that somehow helped me take a step.  I am always o
 * [Zen Mind, Beginner's Mind](https://www.amazon.com/gp/product/1611808413)
 * [The Zen of R2-D2](https://www.amazon.com/gp/product/1614296200)
 * [Buddhism for Kids](https://www.amazon.com/gp/product/1641523972)
+* [Buddha in blue jeans](https://www.youtube.com/watch?v=jHs0bhxTVUw)
 * [Chicago Shambhala Center](https://chicago.shambhala.org/)
 * [What is Taoism](https://www.taopage.org/)
 * [Tao Te Ching](https://www.amazon.com/gp/product/1585426180)
