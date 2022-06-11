@@ -169,6 +169,8 @@ Everything below was an input that somehow helped me take a step.  I am always o
 * [Paul Chek - Stress, Yin Yang, Catabolic Anabolic, Homeostasis](https://www.youtube.com/watch?v=aOKvfcXM4vA)
 * [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato))
 * [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)
+* [Whole Health Chicago](https://wholehealthchicago.com/)
+* [Lisa - Energy in Communication](https://lisakaplin.com/)
 * [Positive Psychology](https://positivepsychology.com/)
 * [Ela - Prana Pathways](https://www.pranapathways.com/)
 * [The Beginner's Guide to Stoicism](https://www.amazon.com/gp/product/1641527218)
