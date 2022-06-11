@@ -5,7 +5,8 @@ description: agency
 
 # What is Health?
 
-Health is not binary and it fluxuates over time.  However, we know we are not healthy when we cannot function the way we expect or are experiencing pain.  
+Health is not binary and it fluxuates over time.  However, we know we are not healthy when we cannot function the way we expect or are experiencing pain.
+
 What does it look like when I feel healthy?
 
 * I feel energized
@@ -18,7 +19,7 @@ What does it look like when I feel healthy?
 
 ## What is Agency?
 
-I have angency when I am able to move towards fulfilling my potential.  Simply put, I perceive an empowered life situation.  This does not mean that I am completely unconstrained, rather the constraints present are liberating, can be negoatied, can be oriented into a productive situation or are acceptable given the larger view of things.  
+I have agency when I am able to move towards fulfilling my potential.  Simply put, I perceive an empowered life situation.  This does not mean that I am completely unconstrained, rather the constraints present are liberating, can be negoatied, can be oriented into a productive situation or are acceptable given the larger view of things.  
 
 What does it look like when I feel agency?
 
