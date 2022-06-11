@@ -45,6 +45,7 @@ What does it look like when I feel agency?
 * Enjoyment comes from consuming more, more, more
 * Health pursuits are expensive and need to be fancy
 * Sugar is awful but alcohol and burritos are exempted
+* Eloctrolytes are those thing on Gatorade commercials
 * Extra weight can be burned off
 * Weight loss plateus are a result of bad genetics
 * Fasting is bad for metabolism and IMPOSSIBLE
@@ -67,6 +68,7 @@ While I did learn a lot along the way about nutritional principles and dietary a
 * Enjoyment comes from observing the present moment for what it brings or omits
 * Health pursuits cost nothing and are best when simple
 * Sugar and processed foods are detrmental with no exceptions
+* Electrolytes are somewhat mysterious, but potassium is important!
 * The body seeks homeostatis and the weight set point can be moved
 * Weight loss plateus can be punched through with fasting exercises
 * Fasting improves metabolism, has anti-aging effects and can be relaxing
@@ -144,6 +146,7 @@ Everything below was an input that somehow helped me take a step.  I am always o
 
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
+* [Potassium: Most Likely you have Low Levels](https://www.changeitupwellnesscoaching.com/blog/b3yrrtuaakkr8ez4g2q6mmugqyruls)
 * [Dr. Terri Lance - The Fasting Mindset](https://youtu.be/A-wXCgcB-hI)
 * [Sugar and gut health](https://www.wellandgood.com/sugar-and-gut-health/)
 * [Does sugar stunt growth?](https://supplementchoices.com/does-sugar-stunt-growth/)
