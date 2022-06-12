@@ -143,6 +143,6 @@ I never scold myself, rather inspect when I have created a Tension through Expec
 
 ## How did I get started?
 
-For me I have to be able to conceptualize something before I can really lean into it.  For Mindset, [Inflection follows Contemplation](./contemplation).  However, it only becomes durable when the Body is fully engaged as well.  Finding balance is tricky, and just when you think you have it you fall down again.  It's like learning to ride a bike.  It takes a lot of patience and letting go of pride to move forward with confidence!
+I have to be able to conceptualize something before I can really lean into it.  For Mindset, [Inflection follows Contemplation](./contemplation).  However, it only becomes durable when the Body is fully engaged as well.  Finding balance is tricky, and just when you think you have it you fall down again.  It's like learning to ride a bike.  It takes a lot of patience and letting go of pride to move forward with confidence!
 
 💯💚🌿
