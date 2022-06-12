@@ -1,0 +1,83 @@
+---
+title: contemplation
+description: inflection
+---
+
+## What helped me with Mindset Recalibration?
+
+Challenging myself by contemplating, reflecting, doing hard things and running experiments on myself.  More and more being in the present moment.
+
+Everything below was an input that somehow helped me inflect and bend the arc of life.  Some of these I have explored a single time, some of them many.  There is no meaning to the order or groupings below.
+
+I am always open to conversations on any of these or something another feels is related.
+
+* [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
+* [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
+* [Potassium: Most Likely you have Low Levels](https://www.changeitupwellnesscoaching.com/blog/b3yrrtuaakkr8ez4g2q6mmugqyruls)
+* [Dr. Terri Lance - The Fasting Mindset](https://youtu.be/A-wXCgcB-hI)
+* [Sugar and gut health](https://www.wellandgood.com/sugar-and-gut-health/)
+* [Does sugar stunt growth?](https://supplementchoices.com/does-sugar-stunt-growth/)
+* [Why the Relationship Between Potassium and Sodium Matters](https://www.livestrong.com/article/507014-the-relationship-between-potassium-and-sodium/)
+* [Carboyhdrate Insulin Model](https://academic.oup.com/ajcn/article/114/6/1873/6369073?login=false)
+* [Metabolic Strategies in Health Care - A New Era](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116908/)
+* [Beyond Calories In, Calories Out](https://www.crossfit.com/essentials/the-carbohydrate-insulin-model-beyond-calories-in-calories-out)
+* [Dr. Jason Fung MD - YouTube](https://www.youtube.com/c/drjasonfung1)
+* [Dr. Jason Fung MD - The Fasting Method](https://www.thefastingmethod.com/)
+* [Dr. Jason Fung MD - The Obesity Code](https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight-ebook/dp/B01C6D0LCK)
+* [Electrolytes and fasting: All you need to know](https://fastingplanet.com/electrolytes-and-fasting/)
+* [The Miracle of Fasting](https://www.amazon.com/gp/product/0877900833)
+* [Immune](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune-ebook/dp/B08YR8FNCP)
+* [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
+* [Yin and Yang](https://tantramag.com/tantric-practice/yin-and-yang/)
+* [Yin and Yang - the theory of everything](https://www.the-alchemy-project.com/post/2017/05/07/yin-yang-the-theory-of-everything)
+* [Anabolic and Catabolic Forces in the Body](bodybalanced.net/post/anabolic-and-catabolic-forces-in-the-body)
+* [Paul Chek - Stress, Yin Yang, Catabolic Anabolic, Homeostasis](https://www.youtube.com/watch?v=aOKvfcXM4vA)
+* [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato))
+* [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)
+* [Whole Health Chicago](https://wholehealthchicago.com/)
+* [Lisa - Energy in Communication](https://lisakaplin.com/)
+* [Positive Psychology](https://positivepsychology.com/)
+* [Ela - Prana Pathways](https://www.pranapathways.com/)
+* [The Beginner's Guide to Stoicism](https://www.amazon.com/gp/product/1641527218)
+* [Meditations](https://www.amazon.com/gp/product/0812968255)
+* [The Handbook (The Encheiridion)](https://www.amazon.com/gp/product/0915145693)
+* [The Dharma of Star Wars](https://www.amazon.com/gp/product/1614292868)
+* [Zen Mind, Beginner's Mind](https://www.amazon.com/gp/product/1611808413)
+* [Small Mind, Big Mind](https://tricycle.org/trikedaily/big-mind-suzuki/)
+* [The Zen of R2-D2](https://www.amazon.com/gp/product/1614296200)
+* [Buddhism for Kids](https://www.amazon.com/gp/product/1641523972)
+* [Buddha in blue jeans](https://www.youtube.com/watch?v=jHs0bhxTVUw)
+* [Chicago Shambhala Center](https://chicago.shambhala.org/)
+* [What is Taoism](https://www.taopage.org/)
+* [Tao Te Ching](https://www.amazon.com/gp/product/1585426180)
+* [The Tao of Pooh](https://www.amazon.com/gp/product/1405293780)
+* [Tao of Yoda](https://www.amazon.com/gp/product/0983309922/)
+* [The Physics of Qi](https://www.amazon.com/gp/product/1735711608)
+* [Cultivating Ch'i: A Samurai Physician's Teachings on the Way of Health](https://www.amazon.com/gp/product/159030988X)
+* [12 Characteristics of the Daoist Sage](https://medium.com/the-ancient-chinese-integral-way-tradition/12-characteristics-of-the-daoist-sage-d127f7a97f9)
+* [Metaphors We Live By](https://www.amazon.com/gp/product/0226468011)
+* [Designing the Mind: The Principles of Psychitecture](https://www.amazon.com/gp/product/B08SGWNLV9/)
+* [The Law of Vibration Explained in 3 Easy Steps](https://thejoywithin.org/the-law-of-attraction/the-law-of-vibration-explained-in-3-easy-steps)
+* [Growing into Light](https://www.amazon.com/Growing-Into-Light-Freedom-Long)
+* [Chabad East Lakeview](https://www.jewishlakeview.com/)
+* [Universal Life Church](https://www.themonastery.org/)
+* [Church of the Latter-Day Dude](https://dudeism.com/)
+* [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)
+* [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/gp/product/1622313941)
+* [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
+* [Eleven Rings: The Soul of Success](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson-ebook)
+* [The Alpinist](https://www.imdb.com/title/tt11790780)
+* [Free Solo](https://www.imdb.com/title/tt7775622/)
+* [Star Wars](https://www.starwars.com/films)
+* [The Mandalorian](https://en.wikipedia.org/wiki/The_Mandalorian)
+* [The Philosophy of Ted Lasso](https://www.youtube.com/watch?v=DKiCiMcT9V8)
+* [Lessons from the Bamboo](https://www.youtube.com/watch?v=9g8T8MsFIp0)
+* [The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)
+* [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
+* [Woebot](https://woebothealth.com/try-woebot/)
+
+## Always remember ...
+
+I've come a long way.  There is a long journey ahead.  No one can do self-improvement work for you, but there is support and guidance available.  Of course, choose wisely who andd how you engage any support.  A crutch can help something heal, and it can also become debilitating misaplied.
+
+💯 🌿 😏
