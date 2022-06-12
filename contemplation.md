@@ -80,4 +80,4 @@ I am always open to conversations on any of these or something another feels is 
 
 I've come a long way.  There is a long journey ahead.  No one can do self-improvement work for you, but there is support and guidance available.  Of course, choose wisely who andd how you engage any support.  A crutch can help something heal, and it can also become debilitating misaplied.
 
-💯 🌿 😏
+💯💚🌿
