@@ -12,7 +12,7 @@ Everything below was an input that somehow helped me inflect and bend the arc of
 I am always open to conversations on any of these or something another feels is related.
 
 * [What does Discipline mean?](https://focus3.com/what-does-discipline-mean/)
-* [What is Contemplation?](https://cac.org/about/what-is-contemplation/)
+* [Contemplation?]([https://cac.org/about/what-is-contemplation/](https://www.merriam-webster.com/dictionary/contemplation)
 * [Inflection](https://www.merriam-webster.com/dictionary/inflection)
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
