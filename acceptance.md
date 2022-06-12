@@ -22,3 +22,5 @@ What does it look like when I feel agency?
 STILL CONTEMPLATING
 
 [The Stages of Grief](https://www.washington.edu/counseling/2020/06/08/the-stages-of-grief-accepting-the-unacceptable/)
+
+💯 🌿 😏
