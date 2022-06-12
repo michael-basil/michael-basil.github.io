@@ -85,7 +85,7 @@ While the prevoius mindsets in relative comparison have been productively evolve
 
 A subtle ***Shift of a Mindset*** happens when we resolve a conflation or dualistic tie in our conceptual system.  An example from a Zen book I like is the difference between *form is emptiness and emptiness is form* and *form is form and emptinesss is emptiness*.  So with food one may say *food is comfort and comfort is food* whereas *food is food and comfort is comfort* opens up all kinds of new possibilities.
 
-The ***Desire for Comfort*** is frequently taken so far that we become disordered.  Ironically, by [Learning to Embrace Fear](./fear) we find that the discomfort we were avoiding was simply a ***Manifestation of our Mind***.  This same *Shift of Mindset* helps us to [Release Resentment](./resentment).  Eventually, by doing these things we find ourselves naturally [Channeling Swagger](./swagger)!
+The ***Desire for Comfort*** is frequently taken so far that we become disordered.  Ironically, by [Learning to Embrace Fear](./fear) we find that the discomfort we were avoiding was only difficulty locating the [Horizon of Acceptance](./acceptance).  This same *Shift of Mindset* helps us to [Release Resentment](./resentment).  Eventually, by doing these things we find ourselves naturally [Channeling Swagger](./swagger)!
 
 ## What are my current habits when I am most disciplined?
 
