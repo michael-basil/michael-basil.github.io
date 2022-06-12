@@ -70,7 +70,7 @@ What does it look like when I feel agency?
 * Enjoyment comes from observing the present moment for what it brings or omits
 * Health pursuits cost nothing and are best when simple
 * Sugar and processed foods are detrmental with no exceptions
-* Electrolytes are somewhat mysterious, but potassium is important!
+* Electrolyte balance is key, potassium is a priority!
 * The body seeks homeostatis and the weight set point can be moved
 * Weight loss plateus can be punched through with fasting exercises
 * Fasting improves metabolism, has anti-aging effects and can be relaxing
@@ -79,13 +79,15 @@ What does it look like when I feel agency?
 * Expectation creates tension, choose ambitions versus expectations wisely
 * Good and bad are subjective and contextual
 * Our default state of being is tranquility
-* ***Improvement over Comfort***
+* ***Adaptability over Comfort***
 
 While the prevoius mindsets in relative comparison have been productively evolved, the second set is not *done*.   They are always a new beginning and mean to be challenged.  Through challenging we see which ones are useful given the current trends of things and which ones are vicious.  Over time these may expand slightly temporaraily and will distill down to the essence.  Whenever we think we are *there* and have figured things out we are best to remember we are again just beginning.  This is the ***Meta of Mindset***.
 
 A subtle ***Shift of a Mindset*** happens when we resolve a conflation or dualistic tie in our conceptual system.  An example from a Zen book I like is the difference between *form is emptiness and emptiness is form* and *form is form and emptinesss is emptiness*.  So with food one may say *food is comfort and comfort is food* whereas *food is food and comfort is comfort* opens up all kinds of new possibilities.
 
-## What are my current habits when at my best?
+The ***Desire for Comfort*** is frequently taken so far that we become disordered.  Ironically, by [Learning to Embrace Fear](./fear) we find that the discomfort we were avoiding was simply a ***Manifestation of our Mind***.  This same *Shift of Mindset* helps us to [Release Resentment](./resentment).  Eventually, by doing these things we find ourselves naturally [Channeling Swagger](./swagger)!
+
+## What are my current habits when I am most disciplined?
 
 * Fasting
     * Intermediate level
@@ -98,11 +100,12 @@ A subtle ***Shift of a Mindset*** happens when we resolve a conflation or dualis
     * No processed food, no grains, all whole foods
     * Minimal sugar, targeted proteins and healthy fats
         * Spinach, brocoli, avacado, peas, black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, bell peppers, jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil, ginger), olive oil, balsamic vinegar, cashews, pistachios, almonds, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
-        * Fish: not currently but likely soon
+        * Coconut water: not currently but likely soon
         * Eggs: not currently but likely soon
+        * Fish: not currently but likely soon
         * Dairy: not currently and unlikely soon
         * Favorite desert: fresh ground nut butter with a banana
-    * For my kids I approach the same way but add full fat yogurt, full fat cheese, tuna fish, salmon
+    * For my kids I approach the same way but add eggs, full fat dairy, tuna and salmon
 * Exercise
     * 10,000+ hours of practice
     * Boxing, swimming, jumping rope, push ups, pull ups, chin ups, planks, burpees, running, walking, biking, basketball, racquetball
@@ -123,7 +126,7 @@ A subtle ***Shift of a Mindset*** happens when we resolve a conflation or dualis
     * Could be very beneficial in future with flexibility and stability (physical sheath)
     * Benefits outside of the physical sheath hae not been explored or demystified
 
-## Am I always at my best?
+## Am I always at maximum disciplined?
 
 No and this is okay and good.  Perfection is not the goal.  We learn and improve even through setbacks and missed objectives.
 
@@ -156,12 +159,14 @@ Everything below was an input that somehow helped me take a step.  I am always o
 * [Dr. Terri Lance - The Fasting Mindset](https://youtu.be/A-wXCgcB-hI)
 * [Sugar and gut health](https://www.wellandgood.com/sugar-and-gut-health/)
 * [Does sugar stunt growth?](https://supplementchoices.com/does-sugar-stunt-growth/)
+* [Why the Relationship Between Potassium and Sodium Matters](https://www.livestrong.com/article/507014-the-relationship-between-potassium-and-sodium/)
 * [Carboyhdrate Insulin Model](https://academic.oup.com/ajcn/article/114/6/1873/6369073?login=false)
 * [Metabolic Strategies in Health Care - A New Era](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116908/)
 * [Beyond Calories In, Calories Out](https://www.crossfit.com/essentials/the-carbohydrate-insulin-model-beyond-calories-in-calories-out)
 * [Dr. Jason Fung MD - YouTube](https://www.youtube.com/c/drjasonfung1)
 * [Dr. Jason Fung MD - The Fasting Method](https://www.thefastingmethod.com/)
 * [Dr. Jason Fung MD - The Obesity Code](https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight-ebook/dp/B01C6D0LCK)
+* [Electrolytes and fasting: All you need to know](https://fastingplanet.com/electrolytes-and-fasting/)
 * [The Miracle of Fasting](https://www.amazon.com/gp/product/0877900833)
 * [Immune](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune-ebook/dp/B08YR8FNCP)
 * [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
@@ -180,6 +185,7 @@ Everything below was an input that somehow helped me take a step.  I am always o
 * [The Handbook (The Encheiridion)](https://www.amazon.com/gp/product/0915145693)
 * [The Dharma of Star Wars](https://www.amazon.com/gp/product/1614292868)
 * [Zen Mind, Beginner's Mind](https://www.amazon.com/gp/product/1611808413)
+* [Small Mind, Big Mind](https://tricycle.org/trikedaily/big-mind-suzuki/)
 * [The Zen of R2-D2](https://www.amazon.com/gp/product/1614296200)
 * [Buddhism for Kids](https://www.amazon.com/gp/product/1641523972)
 * [Buddha in blue jeans](https://www.youtube.com/watch?v=jHs0bhxTVUw)
@@ -190,6 +196,7 @@ Everything below was an input that somehow helped me take a step.  I am always o
 * [Tao of Yoda](https://www.amazon.com/gp/product/0983309922/)
 * [The Physics of Qi](https://www.amazon.com/gp/product/1735711608)
 * [Cultivating Ch'i: A Samurai Physician's Teachings on the Way of Health](https://www.amazon.com/gp/product/159030988X)
+* [12 Characteristics of the Daoist Sage](https://medium.com/the-ancient-chinese-integral-way-tradition/12-characteristics-of-the-daoist-sage-d127f7a97f9)
 * [Metaphors We Live By](https://www.amazon.com/gp/product/0226468011)
 * [Designing the Mind: The Principles of Psychitecture](https://www.amazon.com/gp/product/B08SGWNLV9/)
 * [The Law of Vibration Explained in 3 Easy Steps](https://thejoywithin.org/the-law-of-attraction/the-law-of-vibration-explained-in-3-easy-steps)
