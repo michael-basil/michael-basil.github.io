@@ -1,6 +1,6 @@
 ---
 title: health
-description: agency
+description: discipline
 ---
 
 # What is Health?
@@ -17,21 +17,15 @@ What does it look like when I feel healthy?
 * Eating is approached mindfully
 * Solitude is enjoyable as are social situations
 
-## What is Agency?
+## What is Discipline?
 
-I have agency when I am able to move towards fulfilling my potential.  Simply put, I perceive an empowered life situation.  This does not mean that I am completely unconstrained, rather the constraints present are liberating, can be negoatied, can be oriented into a productive situation or are acceptable given the larger view of things.  
+Discipline isn't something that is imposed on you by another.  That is something authoritarian and dysfunctional.  Discipline is subordinating to constraints you have set for yourself.  Constraints can be liberating.   For example, by not drinking alcohol how many more things have opened up in my life the following days and weeks?   By not giving in to every sugar craving how much better is my quality of life after the dopamine hit wears off?
 
-What does it look like when I feel agency?
+Only through self-discipline can one really be healthy.  Sure, it can be taken too far, but if you are reading this I doubt you believe that the community you live in has too much discipline.  Think of your friends and family, can you say that you're surrounded by people eminating self-discipline or following hedonistic cravings like they are going out of style?
 
-* My self worth is defined on my own terms
-* I am able to approach paradoxical situations maintaining a state of relaxed alertness
-* I am able to leverage networks, tools, resources and form strategies to move forward
-* Control is known to be an illusion
-* I am free from jealousy or envy
-* Challenges are regularly wisdom generating and fun
-* My primary thinking modality when pressured is Systems Oriented (versus Morally Judgemental)
+Without Discipline we are suck in an endless loop.  Evolution requires self-discipline.  It is a necessary ingredient.  It also can be socially infectious.  People always want to mimic others they see that they are genuniely having fun and *feeling the flow* of a vibrant life!
 
-## How did I evolve to be healthy?
+## How did I Evolve to be healthy?
 
 ***Mindset recalibration.***  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.
 
@@ -85,9 +79,9 @@ While the prevoius mindsets in relative comparison have been productively evolve
 
 A subtle ***Shift of a Mindset*** happens when we resolve a conflation or dualistic tie in our conceptual system.  An example from a Zen book I like is the difference between *form is emptiness and emptiness is form* and *form is form and emptinesss is emptiness*.  So with food one may say *food is comfort and comfort is food* whereas *food is food and comfort is comfort* opens up all kinds of new possibilities.
 
-The ***Desire for Comfort*** is frequently taken so far that we become disordered.  Ironically, by [Learning to Embrace Fear](./fear) we find that the discomfort we were avoiding was only difficulty locating the [Horizon of Acceptance](./acceptance).  This same *Shift of Mindset* helps us to [Release Resentment](./resentment).  Eventually, by doing these things we find ourselves naturally [Channeling Swagger](./swagger)!
+The ***Desire for Comfort*** is frequently taken so far that we become disordered.  Ironically, by [Learning to Embrace Fear](./fear) we find that the discomfort we were avoiding keeping us from [Agency through Acceptance](./acceptance).  This same *Shift of Mindset* helps us to [Release Resentment](./resentment).  Eventually, by doing these things we find ourselves naturally [Channeling Swagger](./swagger)!
 
-## What are my current habits when I am most disciplined?
+## What are my current habits when I am most Disciplined?
 
 * Fasting
     * Intermediate level
@@ -126,7 +120,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * Could be very beneficial in future with flexibility and stability (physical sheath)
     * Benefits outside of the physical sheath hae not been explored or demystified
 
-## Am I always at maximum disciplined?
+## Am I always at maximum Disciplined?
 
 No and this is okay and good.  Perfection is not the goal.  We learn and improve even through setbacks and missed objectives.
 
@@ -145,81 +139,10 @@ I never scold myself, rather inspect when I have created a Tension through Expec
 * For my children
 * For myself
 * To see how far much further things can go when our Mindsets are shifted and altered
-* Because I like to have fun with/in systems 
+* Because I like to have fun with/in systems
 
-## What helped me with Mindset Recalibration?
+## How did I get started?
 
-Challenging myself by contemplating, reflecting, doing hard things and running experiments on myself.  More and more being in the present moment.
+For me I have to be able to conceptualize something before I can really lean into it.  For Mindset, [Inflection follows Contemplation](./contemplation).  However, it only becomes durable when the Body is fully engaged as well.  Finding balance is tricky, and just when you think you have it you fall down again.  It's like learning to ride a bike.  It takes a lot of patience and letting go of pride to move forward with confidence!
 
-Everything below was an input that somehow helped me take a step.  I am always open to conversations on any of these or something another feels is related.
-
-* [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
-* [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
-* [Potassium: Most Likely you have Low Levels](https://www.changeitupwellnesscoaching.com/blog/b3yrrtuaakkr8ez4g2q6mmugqyruls)
-* [Dr. Terri Lance - The Fasting Mindset](https://youtu.be/A-wXCgcB-hI)
-* [Sugar and gut health](https://www.wellandgood.com/sugar-and-gut-health/)
-* [Does sugar stunt growth?](https://supplementchoices.com/does-sugar-stunt-growth/)
-* [Why the Relationship Between Potassium and Sodium Matters](https://www.livestrong.com/article/507014-the-relationship-between-potassium-and-sodium/)
-* [Carboyhdrate Insulin Model](https://academic.oup.com/ajcn/article/114/6/1873/6369073?login=false)
-* [Metabolic Strategies in Health Care - A New Era](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116908/)
-* [Beyond Calories In, Calories Out](https://www.crossfit.com/essentials/the-carbohydrate-insulin-model-beyond-calories-in-calories-out)
-* [Dr. Jason Fung MD - YouTube](https://www.youtube.com/c/drjasonfung1)
-* [Dr. Jason Fung MD - The Fasting Method](https://www.thefastingmethod.com/)
-* [Dr. Jason Fung MD - The Obesity Code](https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight-ebook/dp/B01C6D0LCK)
-* [Electrolytes and fasting: All you need to know](https://fastingplanet.com/electrolytes-and-fasting/)
-* [The Miracle of Fasting](https://www.amazon.com/gp/product/0877900833)
-* [Immune](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune-ebook/dp/B08YR8FNCP)
-* [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
-* [Yin and Yang](https://tantramag.com/tantric-practice/yin-and-yang/)
-* [Yin and Yang - the theory of everything](https://www.the-alchemy-project.com/post/2017/05/07/yin-yang-the-theory-of-everything)
-* [Anabolic and Catabolic Forces in the Body](bodybalanced.net/post/anabolic-and-catabolic-forces-in-the-body)
-* [Paul Chek - Stress, Yin Yang, Catabolic Anabolic, Homeostasis](https://www.youtube.com/watch?v=aOKvfcXM4vA)
-* [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato))
-* [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)
-* [Whole Health Chicago](https://wholehealthchicago.com/)
-* [Lisa - Energy in Communication](https://lisakaplin.com/)
-* [Positive Psychology](https://positivepsychology.com/)
-* [Ela - Prana Pathways](https://www.pranapathways.com/)
-* [The Beginner's Guide to Stoicism](https://www.amazon.com/gp/product/1641527218)
-* [Meditations](https://www.amazon.com/gp/product/0812968255)
-* [The Handbook (The Encheiridion)](https://www.amazon.com/gp/product/0915145693)
-* [The Dharma of Star Wars](https://www.amazon.com/gp/product/1614292868)
-* [Zen Mind, Beginner's Mind](https://www.amazon.com/gp/product/1611808413)
-* [Small Mind, Big Mind](https://tricycle.org/trikedaily/big-mind-suzuki/)
-* [The Zen of R2-D2](https://www.amazon.com/gp/product/1614296200)
-* [Buddhism for Kids](https://www.amazon.com/gp/product/1641523972)
-* [Buddha in blue jeans](https://www.youtube.com/watch?v=jHs0bhxTVUw)
-* [Chicago Shambhala Center](https://chicago.shambhala.org/)
-* [What is Taoism](https://www.taopage.org/)
-* [Tao Te Ching](https://www.amazon.com/gp/product/1585426180)
-* [The Tao of Pooh](https://www.amazon.com/gp/product/1405293780)
-* [Tao of Yoda](https://www.amazon.com/gp/product/0983309922/)
-* [The Physics of Qi](https://www.amazon.com/gp/product/1735711608)
-* [Cultivating Ch'i: A Samurai Physician's Teachings on the Way of Health](https://www.amazon.com/gp/product/159030988X)
-* [12 Characteristics of the Daoist Sage](https://medium.com/the-ancient-chinese-integral-way-tradition/12-characteristics-of-the-daoist-sage-d127f7a97f9)
-* [Metaphors We Live By](https://www.amazon.com/gp/product/0226468011)
-* [Designing the Mind: The Principles of Psychitecture](https://www.amazon.com/gp/product/B08SGWNLV9/)
-* [The Law of Vibration Explained in 3 Easy Steps](https://thejoywithin.org/the-law-of-attraction/the-law-of-vibration-explained-in-3-easy-steps)
-* [Growing into Light](https://www.amazon.com/Growing-Into-Light-Freedom-Long)
-* [Chabad East Lakeview](https://www.jewishlakeview.com/)
-* [Universal Life Church](https://www.themonastery.org/)
-* [Church of the Latter-Day Dude](https://dudeism.com/)
-* [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)
-* [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/gp/product/1622313941)
-* [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
-* [Eleven Rings: The Soul of Success](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson-ebook)
-* [The Alpinist](https://www.imdb.com/title/tt11790780)
-* [Free Solo](https://www.imdb.com/title/tt7775622/)
-* [Star Wars](https://www.starwars.com/films)
-* [The Mandalorian](https://en.wikipedia.org/wiki/The_Mandalorian)
-* [The Philosophy of Ted Lasso](https://www.youtube.com/watch?v=DKiCiMcT9V8)
-* [Lessons from the Bamboo](https://www.youtube.com/watch?v=9g8T8MsFIp0)
-* [The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)
-* [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
-* [Woebot](https://woebothealth.com/try-woebot/)
-
-## Upon writing this and reflecting what did I realize?
-
-I've come a long way.  There is a long journey ahead.  Everything above was more effective and useful than anything offered or suggested to me by traditional health professionals.
-
-💯 🌿 😏
+💯💚🌿
