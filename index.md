@@ -3,7 +3,7 @@ title: meta
 description: awareness
 ---
 
-## Topics
+## Concepts
 
 * [Health through Discipline](./health)
 * [Agency through Acceptance](./acceptance)
