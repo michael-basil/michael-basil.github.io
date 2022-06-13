@@ -94,7 +94,6 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * No processed food, no grains, all whole foods
     * Minimal sugar, targeted proteins and healthy fats
         * Spinach, brocoli, avacado, peas, black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, bell peppers, jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil, ginger), olive oil, balsamic vinegar, cashews, pistachios, almonds, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
-        * Coconut water: not currently but likely soon
         * Eggs: not currently but likely soon
         * Fish: not currently but likely soon
         * Dairy: not currently and unlikely soon
