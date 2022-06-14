@@ -123,7 +123,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
 
 No and this is okay and good.  Perfection is not the goal.  We learn and improve even through setbacks and missed objectives.
 
-I never scold myself, rather inspect when I have created a Tension through Expecation that has been Unmet.  I ask myself if this Expectation would have been better as an Ambition.  If not, I work out a new strategy or set aside time later to re-approach the situation or endeavor.
+I never scold myself, rather inspect when I have created a Tension through Expectation that has been Unmet.  I ask myself if this Expectation would have been better as an Ambition.  If not, I work out a new strategy or set aside time later to re-approach the situation or endeavor.
 
 ## Why did I do this?
 
