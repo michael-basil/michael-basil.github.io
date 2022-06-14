@@ -14,6 +14,8 @@ I am always open to conversations on any of these or something another feels is 
 * [What does Discipline mean?](https://focus3.com/what-does-discipline-mean/)
 * [Contemplation](https://cac.org/about/what-is-contemplation/)
 * [Inflection](https://www.merriam-webster.com/dictionary/inflection)
+* [How to turn everyday stress into ‘optimal stress'](https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/how-to-turn-everyday-stress-into-optimal-stress)
+* [How Stress Affects Your Body and Mind](https://www.youtube.com/watch?v=CZTc8_FwHGM)
 * [Gandhi - The Best Advice I Ever Had](https://www.mkgandhi.org/articles/vijaya_lakshmi_pandit.html)
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
