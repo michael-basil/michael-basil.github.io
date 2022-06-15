@@ -32,6 +32,7 @@ Without Discipline we are suck in an endless loop.  Evolution requires self-disc
 ### Previous
 
 * Taste is what makes a food appealing
+* Eat what tastes good and is cheap
 * Food is a social ritual
 * A calorie is a calorie
 * Eat often and mindlessly
@@ -55,6 +56,7 @@ Without Discipline we are suck in an endless loop.  Evolution requires self-disc
 ### Evolved
 
 * Energy of the food is what makes it appealing or repulsive
+* Don't eat products from a factory, eat produce from a farm!
 * Food is fuel and conversation is the core of social rituals
 * Total energy expenditure is influenced heavily by hormonal balance
 * Eating becomes fun when approached mindfully
