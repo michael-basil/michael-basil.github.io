@@ -56,7 +56,7 @@ Without Discipline we are suck in an endless loop.  Evolution requires self-disc
 ### Evolved
 
 * Energy of the food is what makes it appealing or repulsive
-* Don't eat products from a factory, eat produce from a farm!
+* Eat produce from a farm, don't eat products from a factory!
 * Food is fuel and conversation is the core of social rituals
 * Total energy expenditure is influenced heavily by hormonal balance
 * Eating becomes fun when approached mindfully
