@@ -136,7 +136,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 ## expectations
 
 1. Birthday Celebration: Mother, Father, and the children have a shared outing including a meal
-    * Invitation of friends and child relatives will be consdiered when reasonable
+    * Invitation of friends and child relatives to be considered for the outing
 1. Parenting Handoffs: each parent drops off the children to the other parent
     * Inclimate Weather: Mother will facilitate transporation bi-directionally by automobile
     * Pandemic Lockdown: Mother will facilitate transporation bi-directionally by automobile
