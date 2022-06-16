@@ -132,8 +132,6 @@ Significant decisions regarding the children’s extracurricular and recreationa
     * Limited to Easter, St. Patricks Day and Mother's Day
     * Friday through Sunday
     * Optional at Mother's discretion
-1. Right of first refusal when Father unable to care for the children
-    * Applies in situations of four or more hours
   
 ### father
   
@@ -150,8 +148,6 @@ Significant decisions regarding the children’s extracurricular and recreationa
     * Limited to Labor Day and Memorial Day
     * Sunday and Monday
     * Optional at Father's discretion
-1. Right of first refusal when Mother unable to care for the children
-    * Applies in situations of four or more hours
 
 ## expectations
 
