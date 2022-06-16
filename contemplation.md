@@ -37,6 +37,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Men aren't Yang, Women aren't Yin](https://www.embodyingman.com/men-arent-yang-women-arent-yin/)
 * [Yin and Yang](https://tantramag.com/tantric-practice/yin-and-yang/)
 * [Yin and Yang - the theory of everything](https://www.the-alchemy-project.com/post/2017/05/07/yin-yang-the-theory-of-everything)
+* [Everyday Yin and Yang](https://www.bonobology.com/everyday-yin-and-yang-examples/)
 * [Anabolic and Catabolic Forces in the Body](bodybalanced.net/post/anabolic-and-catabolic-forces-in-the-body)
 * [Paul Chek - Stress, Yin Yang, Catabolic Anabolic, Homeostasis](https://www.youtube.com/watch?v=aOKvfcXM4vA)
 * [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato))
