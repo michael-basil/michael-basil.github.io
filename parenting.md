@@ -122,7 +122,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Default: overnights Sunday through Thursday
 1. Summer Break: overnights for up to two weekend blocks
     * Friday through Sunday
-    * Not to conflict with birthdays or Father's Day
+    * Not to conflict with child birthdays or Father's Day
     * Optional at Mother's discretion
 1. Winter Break: overnights split in half
     * First choice if desired
@@ -138,7 +138,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Default: overnights on Friday and Saturday
 1. Summer Break: overnights for up to two weekday blocks
     * Sunday through Thursday
-    * Not to conflict with birthdays
+    * Not to conflict with child birthdays
     * Optional at Father's discretion
 1. Winter Break: overnights split in half 
     * First choice deferred to Mother
