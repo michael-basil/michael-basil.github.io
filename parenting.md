@@ -123,7 +123,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Summer Break: overnights for two weekends not to conflict with birthdays or Father's Day
 1. Winter Break: overnights split evenly with choice of days by default
 1. Spring Break: overnights split evenly deferring choice of days to Father
-1. Holiday Weekends: overnights surrounding Easter, Christmas,  St. Patricks Day and Mother's Day
+1. Holiday Weekends: overnights surrounding Easter, St. Patricks Day and Mother's Day
   
 ### father
   
