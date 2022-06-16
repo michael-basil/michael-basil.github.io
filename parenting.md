@@ -119,29 +119,24 @@ Significant decisions regarding the children’s extracurricular and recreationa
 
 ### mother
 
-1. Overnights from Monday through Thursday
-1. Overnights on Sunday by default
-1. Overnight on Friday once per calendar month
-1. Overnight on Saturday once per calendar month
-1. Video calls directly with the children during parenting time with Father
+1. Default Overnights: Sunday through Thursday
+1. Summer Break: overnights for two weekends not to conflict with birthdays or Father's Day
+1. Winter Break: overnights split evenly with choice of days by default
+1. Spring Break: overnights split evenly deferring choice of days to Father
+1. Holiday Weekends: Easter, Christmas,  St. Patricks Day and Mother's Day overnights
   
 ### father
   
-1. Overnights on Friday and Saturday
-1. Overnights on Sundays by agreement
-1. Video calls directly with the children during parenting time with Mother
-  
-### shared
-
-1. Winter Break: overnights split evenly with Mother having choice of days by default
-1. Spring Break: overnights split evenly with Father having choice of days by default
-1. Summer Break: fourteen overnights to be used by each parent however they so choose
-1. Social Parties: each parent will make concessions for the attendance of child-centric events
+1. Default Overnights: Friday and Saturday
+1. Summer Break: ten overnights not to conflict with birthdays
+1. Winter Break: overnights split evenly deferring choice of days to Mother
+1. Spring Break: overnights split evenly with choice of days by default
+1. Holiday Overnights: overnights surrounding Labor Day and Memorial Day if desired
 
 ## expectations
 
-1. Birthday Parties: facilitated by Mother
 1. Birthday Celebration: Mother, Father, and the children have a shared outing including a meal
+    * Invitation of friends and child relatives will be consdiered when reasonable
 1. Parenting Handoffs: each parent drops off the children to the other parent
     * Inclimate Weather: Mother will facilitate transporation bi-directionally by automobile
     * Pandemic Lockdown: Mother will facilitate transporation bi-directionally by automobile
