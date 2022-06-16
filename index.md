@@ -3,7 +3,9 @@ title: meta
 description: awareness
 ---
 
-## Concepts
+## Domains
+
+*Spheres of knowledge, influence, or activity*
 
 * [Health through Discipline](./health)
 * [Agency through Acceptance](./acceptance)
