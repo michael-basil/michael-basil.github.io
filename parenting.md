@@ -119,7 +119,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 
 ### mother
 
-1. Default: overnights Sunday through Thursday
+1. Regular Care: overnights Sunday through Thursday
 1. Summer Break: overnights for up to two weekend blocks
     * Friday through Sunday
     * Not to conflict with child birthdays or Father's Day
@@ -135,7 +135,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
   
 ### father
   
-1. Default: overnights on Friday and Saturday
+1. Regular Care: overnights on Friday and Saturday
 1. Summer Break: overnights for up to two weekday blocks
     * Sunday through Thursday
     * Not to conflict with child birthdays
