@@ -123,7 +123,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Summer Break: overnights for two weekends not to conflict with birthdays or Father's Day
 1. Winter Break: overnights split evenly with choice of days by default
 1. Spring Break: overnights split evenly deferring choice of days to Father
-1. Holiday Weekends: Easter, Christmas,  St. Patricks Day and Mother's Day overnights
+1. Holiday Weekends: overnights surrounding Easter, Christmas,  St. Patricks Day and Mother's Day
   
 ### father
   
@@ -131,7 +131,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Summer Break: ten overnights not to conflict with birthdays
 1. Winter Break: overnights split evenly deferring choice of days to Mother
 1. Spring Break: overnights split evenly with choice of days by default
-1. Holidays: overnights surrounding Labor Day and Memorial Day if desired
+1. Holiday Weekends: overnights surrounding Labor Day and Memorial Day if desired
 
 ## expectations
 
