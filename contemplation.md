@@ -68,6 +68,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Metaphors We Live By](https://www.amazon.com/gp/product/0226468011)
 * [Designing the Mind: The Principles of Psychitecture](https://www.amazon.com/gp/product/B08SGWNLV9/)
 * [The Law of Vibration Explained in 3 Easy Steps](https://thejoywithin.org/the-law-of-attraction/the-law-of-vibration-explained-in-3-easy-steps)
+* [The Firsst Step - Stepping Passt Fear](https://lifepastordinary.blogspot.com/2021/12/the-first-step-stepping-past-fear_14.html)
 * [Growing into Light](https://www.amazon.com/Growing-Into-Light-Freedom-Long)
 * [Chabad East Lakeview](https://www.jewishlakeview.com/)
 * [Universal Life Church](https://www.themonastery.org/)
