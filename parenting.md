@@ -155,7 +155,8 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Parenting Handoffs: each parent drops off the children to the other parent
     * Inclimate Weather: Mother will facilitate transporation bi-directionally by automobile
     * Pandemic Lockdown: Mother will facilitate transporation bi-directionally by automobile
-1. Travel excursions within the United States: inform the other parent ahead of time
+1. Travel excursions within the United States: inform the other parent ahead of time 
+    * Within Chicagoland not required
 1. Travel excursions outside the United States: requires agreement prior to departure
 1. Video Calls: the children are able to initiate video calls to the other parent and family
     * Respectful of digital device time and other constraints
