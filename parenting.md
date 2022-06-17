@@ -119,33 +119,44 @@ Significant decisions regarding the children’s extracurricular and recreationa
 
 ### mother
 
-1. Overnights from Monday through Thursday
-1. Overnights on Sunday by default
-1. Overnight on Friday once per calendar month
-1. Overnight on Saturday once per calendar month
-1. Video calls directly with the children during parenting time with Father
+1. Regular Care: overnights Sunday through Thursday
+1. Summer Break: overnights for up to two weekend blocks
+    * Friday through Sunday
+    * Not to conflict with child birthdays or Father's Day
+    * Optional at Mother's discretion
+1. Winter Break: overnights split in half
+    * First choice if desired
+1. Spring Break: overnights split in half
+    * First choice deferred to Father
+1. Holiday Weekends: overnights for the weekend 
+    * Easter, Thanksgiving, St. Patricks Day and Mother's Day
+    * Friday through Sunday
+    * Optional at Mother's discretion
   
 ### father
   
-1. Overnights on Friday and Saturday
-1. Overnights on Sundays by agreement
-1. Video calls directly with the children during parenting time with Mother
-  
-### shared
-
-1. Winter Break: overnights split evenly with Mother having choice of days by default
-1. Spring Break: overnights split evenly with Father having choice of days by default
-1. Summer Break: fourteen overnights to be used by each parent however they so choose
-1. Social Parties: each parent will make concessions for the attendance of child-centric events
+1. Regular Care: overnights on Friday and Saturday
+1. Summer Break: overnights for up to two weekday blocks
+    * Sunday through Thursday
+    * Not to conflict with child birthdays
+    * Optional at Father's discretion
+1. Winter Break: overnights split in half 
+    * First choice deferred to Mother
+1. Spring Break: overnights split in half
+    * First choice if desired
+1. Holiday Weekends: overnights extending the weekend 
+    * Labor Day and Independence Day
+    * Sunday and Monday
+    * Optional at Father's discretion
 
 ## expectations
 
-1. Birthday Parties: facilitated by Mother
 1. Birthday Celebration: Mother, Father, and the children have a shared outing including a meal
 1. Parenting Handoffs: each parent drops off the children to the other parent
     * Inclimate Weather: Mother will facilitate transporation bi-directionally by automobile
     * Pandemic Lockdown: Mother will facilitate transporation bi-directionally by automobile
-1. Travel excursions within the United States: inform the other parent ahead of time
+1. Travel excursions within the United States: inform the other parent ahead of time 
+    * Within Chicagoland not required
 1. Travel excursions outside the United States: requires agreement prior to departure
 1. Video Calls: the children are able to initiate video calls to the other parent and family
     * Respectful of digital device time and other constraints
