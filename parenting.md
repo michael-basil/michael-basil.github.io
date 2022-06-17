@@ -129,7 +129,7 @@ Significant decisions regarding the children’s extracurricular and recreationa
 1. Spring Break: overnights split in half
     * First choice deferred to Father
 1. Holiday Weekends: overnights for the weekend 
-    * Easter, St. Patricks Day and Mother's Day
+    * Easter, Thanksgiving, St. Patricks Day and Mother's Day
     * Friday through Sunday
     * Optional at Mother's discretion
   
