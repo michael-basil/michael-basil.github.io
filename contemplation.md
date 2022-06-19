@@ -61,6 +61,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Buddhism for Kids](https://www.amazon.com/gp/product/1641523972)
 * [Buddha in blue jeans](https://www.youtube.com/watch?v=jHs0bhxTVUw)
 * [Chicago Shambhala Center](https://chicago.shambhala.org/)
+* [Tao Te Ching Chp 1 Explained - Can you know who you are?](https://youtu.be/fvM7AWxk1Ng)
 * [What is Taoism](https://www.taopage.org/)
 * [Tao Te Ching](https://www.amazon.com/gp/product/1585426180)
 * [The Tao of Pooh](https://www.amazon.com/gp/product/1405293780)
