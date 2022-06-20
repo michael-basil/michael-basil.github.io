@@ -27,7 +27,7 @@ Without Discipline we are suck in an endless loop.  Evolution requires self-disc
 
 ## How did I Evolve to be healthy?
 
-***Mindset recalibration.***  Our thoughts, actions, and desires are shaped and driven by the attitues and metaphors in our conceptual system.
+***Mindset recalibration.***  Our thoughts, actions, and desires are shaped and driven by the attitudes and metaphors in our conceptual system.
 
 ### Previous
 
