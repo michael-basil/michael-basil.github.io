@@ -39,6 +39,7 @@ I am always open to conversations on any of these or something another feels is 
 * [The Relaxation Response](https://www.amazon.com/Relaxation-Response-Herbert-Benson-M-D-ebook/dp/B002OMZTTO/)
 * [Men aren't Yang, Women aren't Yin](https://www.embodyingman.com/men-arent-yang-women-arent-yin/)
 * [Yin and Yang](https://tantramag.com/tantric-practice/yin-and-yang/)
+* [Yin and Yang of Emotions](https://www.universoulawakening.com/the-yin-yang-of-emotions/)
 * [Yin and Yang - the theory of everything](https://www.the-alchemy-project.com/post/2017/05/07/yin-yang-the-theory-of-everything)
 * [Everyday Yin and Yang](https://www.bonobology.com/everyday-yin-and-yang-examples/)
 * [Anabolic and Catabolic Forces in the Body](bodybalanced.net/post/anabolic-and-catabolic-forces-in-the-body)
