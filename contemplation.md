@@ -48,7 +48,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Paul Chek - Stress, Yin Yang, Catabolic Anabolic, Homeostasis](https://www.youtube.com/watch?v=aOKvfcXM4vA)
 * [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato))
 * [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)
-* [David Edelberg, MD - Whole Health Chicago]([https://wholehealthchicago.com/](https://wholehealthchicago.com/about/david-edelberg)
+* [David Edelberg, MD - Whole Health Chicago](https://wholehealthchicago.com/about/david-edelberg)
 * [Janet Chandler, PhD](https://wholehealthchicago.com/about/janet-chandler)
 * [Lisa - Energy in Communication](https://lisakaplin.com/)
 * [Positive Psychology](https://positivepsychology.com/)
