@@ -108,23 +108,33 @@ Underneath these behaviors, patterns and manifestations are Mindsets which get r
 
 Habits and Practices can both be good and or bad repeated actions or behaviors, but what makes something a practice is when we are Mindful and Intentional with our actions.
 
+Habits and Practices continually cultivate Mindset and vice versa.   When we are Mindful, Mindset is a strong influence and can be shift or oriented to context.  We we are Mindless or not mindful, we entrench further our existing Mindsets.
+
+Any habit can be broken.  If we successfully do that, typically a new habit forms, albeit weak at first.  This is where we are wise to be extremely Mindful.   It is very difficult (at first) to remove or replace or recalibrate a habit.   However, once we are really embracing "strugge" as an opportunity to learn, many times this can provide fuel to get over the inertia hump.
+
+I personally find that when I'm particularly stuck that I have an attachment holding me back that I am not yet aware of.  Many times this is an emotional attachment to a Mindset.  Sometimes people call this a Connotation.  For example, I may feel an emotion when the concept of Discipline is mentioned.  If I ask a random sample of people near me (and I have!), I would say it is about split between positive and negative connotation.  So, half of the people have a good emotion come up, the other half a negative emotion come up when the concept is surfaced.
+
+Single concept, different reactions to it.  I've tested this even when there is clear agreement on the definition of the concept.  I tend to believe that people have a negative connotation when they think it is something they do not "have".  Ironically, this concept of the inability to "gain" Discipline is in itself a Mindset Trap.  A concept cannot be had or gained, rather applied through ... Practice!
+
 ## What are some Mindset Recalibrations evolution examples?
 
 ### Previous
 
 * Everyone is supposed to be nice
-* If someone is bad they will be punished, find an authority
-* When something happens I don't like, someone will fix it
+* If someone is bad they will be punished, run to find an authority
+* When something happens I don't like, someone else will fix it
 * I should be able to do what I want
 * I should be passive all the time
+* Life should be fair
 
 ### Evolved
 
 * People are true to their own nature
-* There is typically no objective absolute judge, mediate
-* Many times in life we will be on our own
+* There is typically no objective absolute judge, so step up and mediate
+* Many times in life we will be on our own, sometimes we are fortunate to have support
 * We don't control the actions of others, but have a choice in how we respond to situations
 * Social dominance and hierarchy navigation is a learned skill, wisdom employs all tools depending on the trends
+* Idealistic concepts of fairness are not natural, they are made up to serve the agenda of small groups of humans
 
 ## What happens when we do not or are unable to Recalibrate?
 
