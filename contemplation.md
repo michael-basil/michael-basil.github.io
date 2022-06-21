@@ -25,6 +25,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Potassium: Most Likely you have Low Levels](https://www.changeitupwellnesscoaching.com/blog/b3yrrtuaakkr8ez4g2q6mmugqyruls)
 * [Dr. Terri Lance - The Fasting Mindset](https://youtu.be/A-wXCgcB-hI)
 * [Sugar and gut health](https://www.wellandgood.com/sugar-and-gut-health/)
+* [Gut Health Begins With Cutting Back Sugar](https://gutgeek.com/gut-health-cut-sugar/)
 * [Does sugar stunt growth?](https://supplementchoices.com/does-sugar-stunt-growth/)
 * [Why the Relationship Between Potassium and Sodium Matters](https://www.livestrong.com/article/507014-the-relationship-between-potassium-and-sodium/)
 * [Carboyhdrate Insulin Model](https://academic.oup.com/ajcn/article/114/6/1873/6369073?login=false)
@@ -95,6 +96,9 @@ I am always open to conversations on any of these or something another feels is 
 * [The Backwards Brain Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)
 * [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
 * [Woebot](https://woebothealth.com/try-woebot/)
+* [The Stages of Grief - Accepting the Unacceptable](https://www.washington.edu/counseling/2020/06/08/the-stages-of-grief-accepting-the-unacceptable/)
+* [Unretired at 67](https://www.cnbc.com/2022/06/15/67-year-old-who-unretired-at-62-shares-the-biggest-retirement-challenge-that-no-one-talks-about.html)
+* [10 Benefits Of Your Child Training Martial Arts VS Team Sports](https://www.theodysseyonline.com/10-reasons-martial-arts-are-better-for-kids-than-team-sports/9-universality-in-participation-action)
 
 ## Always remember ...
 
