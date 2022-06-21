@@ -17,7 +17,7 @@ What does it look like when I feel agency?
 * Challenges are regularly wisdom generating and fun
 * My primary thinking modality when pressured is Systems Oriented (versus Morally Judgemental)
 
-## How do we know when Agency for ourselves or others is Hindered?
+## How do we know when Agency is Hindered?
 
 A good framing for this comes from reflecting on [The Stages of Grief - Accepting the Unacceptable](https://www.washington.edu/counseling/2020/06/08/the-stages-of-grief-accepting-the-unacceptable/).
 
@@ -116,7 +116,7 @@ I personally find that when I'm particularly stuck that I have an attachment hol
 
 Single concept, different reactions to it.  I've tested this even when there is clear agreement on the definition of the concept.  I tend to believe that people have a negative connotation when they think it is something they do not "have".  Ironically, this concept of the inability to "gain" Discipline is in itself a Mindset Trap.  A concept cannot be had or gained, rather applied through ... Practice!
 
-## What are some Mindset Recalibrations evolution examples?
+## What are some Mindset Recalibration examples?
 
 ### Previous
 
