@@ -24,11 +24,11 @@ function calculateTimeElapsed(starttime){
 }
   
 function calculateTimeRemaining(endtime){
+  // asssumes less than 1 year
   const total = Date.parse(endtime) - Date.parse(new Date());
   const seconds = Math.floor( (total/1000) % 60 );
   const minutes = Math.floor( (total/1000/60) % 60 );
   const hours = Math.floor( (total/(1000*60*60)) % 24 );
-  const years = Math.floor( total/(1000*60*60*24) / 365);
   const days = Math.floor( total/(1000*60*60*24) ) - (years * 365);
 
   return {
@@ -46,7 +46,6 @@ function initializeClockElapsed(clockId, starttime) {
     const clockElement = document.getElementById(clockId);
     const t = calculateTimeElapsed(starttime);
     clockElement.innerHTML = 
-      'years: ' + t.years + '<br/>' +
       'days: ' + t.days + '<br/>' +
       'hours: '+ t.hours + '<br/>' +
       'minutes: ' + t.minutes + '<br/>' +
@@ -62,7 +61,6 @@ function initializeClockRemaining(clockId, endtime) {
     const clockElement = document.getElementById(clockId);
     const t = calculateTimeRemaining(endtime);
     clockElement.innerHTML = 
-      'years: ' + t.years + '<br/>' +
       'days: ' + t.days + '<br/>' +
       'hours: '+ t.hours + '<br/>' +
       'minutes: ' + t.minutes + '<br/>' +
