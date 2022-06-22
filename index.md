@@ -8,9 +8,10 @@ description: awareness
 *Spheres of knowledge, influence, or activity*
 
 * [Health through Discipline](./health)
-* [Agency through Acceptance](./acceptance)
-* [Releasing Resentment](./resentment)
+* [Fasting Cycles](./fasting)
 * [Learning to Embrace Fear](./fear)
+* [Releasing Resentment](./resentment)
+* [Agency through Acceptance](./acceptance)
 * [Channelling Swagger](./swagger)
 * [Inflection follows Contemplation](./contemplation)
-* [Co-Parenting guided by Compass](./parenting)
+* [Co-Parenting Compass](./parenting)
