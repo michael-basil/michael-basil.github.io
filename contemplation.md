@@ -73,6 +73,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Tao of Yoda](https://www.amazon.com/gp/product/0983309922/)
 * [Wu-wei - The Art of Letting Things Happen](https://www.youtube.com/watch?v=g0rhN8U14dk)
 * [Win Without Trying (A Taoist simile about losing your flow)](https://www.youtube.com/watch?v=6a6rGO43O6o)
+* [Taoist Medicine - The Basics](https://raemedicinewoman.com/taoist-medicine-the-basics/)
 * [The Physics of Qi](https://www.amazon.com/gp/product/1735711608)
 * [Cultivating Ch'i: A Samurai Physician's Teachings on the Way of Health](https://www.amazon.com/gp/product/159030988X)
 * [12 Characteristics of the Daoist Sage](https://medium.com/the-ancient-chinese-integral-way-tradition/12-characteristics-of-the-daoist-sage-d127f7a97f9)
