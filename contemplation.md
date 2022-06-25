@@ -71,6 +71,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Tao Te Ching](https://www.amazon.com/gp/product/1585426180)
 * [The Tao of Pooh](https://www.amazon.com/gp/product/1405293780)
 * [Tao of Yoda](https://www.amazon.com/gp/product/0983309922/)
+* [A Taoist Parable About Judgement](https://medium.com/live-your-life-on-purpose/a-taoist-parable-about-judgment-6a3b5bbc223e)
 * [Wu-wei - The Art of Letting Things Happen](https://www.youtube.com/watch?v=g0rhN8U14dk)
 * [Win Without Trying (A Taoist simile about losing your flow)](https://www.youtube.com/watch?v=6a6rGO43O6o)
 * [Taoist Medicine - The Basics](https://raemedicinewoman.com/taoist-medicine-the-basics/)
