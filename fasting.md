@@ -72,7 +72,7 @@ initializeClockRemaining('fastingRemainingDisplay','Thu Jun 30 2022 17:00:00 GMT
 
 </script>
 
-## log:
+## log
   
 * 50+ hours
     * Tue Jun 21 2022 17:30:00 GMT-0500
