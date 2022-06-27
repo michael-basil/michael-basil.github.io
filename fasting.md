@@ -68,7 +68,7 @@ function initializeClockRemaining(clockId, endtime) {
 }
 
 initializeClockElapsed('fastingElapsedDisplay','Mon Jun 27 2022 17:00:00 GMT-0500');
-initializeClockRemaining('fastingRemainingDisplay','Thu Jun 29 2022 17:00:00 GMT-0500');
+initializeClockRemaining('fastingRemainingDisplay','Thu Jun 30 2022 17:00:00 GMT-0500');
 
 </script>
 
