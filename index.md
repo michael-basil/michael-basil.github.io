@@ -7,6 +7,7 @@ description: awareness
 
 *Spheres of knowledge, influence, or activity*
 
+* [Taoism is Synergy](./taoism)
 * [Health through Discipline](./health)
 * [Fasting Cycles](./fasting)
 * [Learning to Embrace Fear](./fear)
