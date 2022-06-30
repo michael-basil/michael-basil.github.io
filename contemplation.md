@@ -21,6 +21,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Gandhi - The Best Advice I Ever Had](https://www.mkgandhi.org/articles/vijaya_lakshmi_pandit.html)
 * [How I Lost 140 Pounds and Kept It Off For Three Decades](https://medium.com/thrive-global/how-i-lost-140-pounds-and-kept-it-off-for-three-decades-77e4403811de)
 * [Dr. Berg's Healthy Ketogenic Diet Basics: Step 1 - Intermittent Fasting & Fat Burning](youtube.com/watch?v=vMZfyEy_jpI&feature=youtu.be)
+* [Amazing Benefits of Prolonged Fasting - Dr. Berg](https://www.youtube.com/watch?v=EX_kg6Nimbc)
 * [Fasting in Traditional Chinese Medicine](http://naturalmentalhealthcare.net/fasting-in-traditional-chinese-medicine/)
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Prolonged Fasting](https://fasting.com/fasting-methods/prolonged-fasting/)
