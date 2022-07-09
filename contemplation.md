@@ -57,6 +57,7 @@ I am always open to conversations on any of these or something another feels is 
 * [David Edelberg, MD - Whole Health Chicago](https://wholehealthchicago.com/about/david-edelberg)
 * [Janet Chandler, PhD](https://wholehealthchicago.com/about/janet-chandler)
 * [Lisa - Energy in Communication](https://lisakaplin.com/)
+* [Prisoner's Dilemma](https://www.psychologytoday.com/us/basics/prisoners-dilemma)
 * [Positive Psychology](https://positivepsychology.com/)
 * [100+ Angela Duckworth Quotes on Grit & Determination](https://www.quoteswishesmsg.com/angela-duckworth-quotes-on-grit-determination.html)
 * [Ela - Prana Pathways](https://www.pranapathways.com/)
