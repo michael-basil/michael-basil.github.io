@@ -67,8 +67,8 @@ function initializeClockRemaining(clockId, endtime) {
   },1000);
 }
 
-//initializeClockElapsed('fastingElapsedDisplay','Mon Jul 11 2022 17:00:00 GMT-0500');
-//initializeClockRemaining('fastingRemainingDisplay','Thu Jul 14 2022 17:00:00 GMT-0500');
+initializeClockElapsed('fastingElapsedDisplay','Sun Jul 10 2022 17:00:00 GMT-0500');
+initializeClockRemaining('fastingRemainingDisplay','Wed Jul 13 2022 17:00:00 GMT-0500');
 
 </script>
 
