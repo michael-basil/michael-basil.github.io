@@ -20,6 +20,7 @@ I am always open to conversations on any of these or something another feels is 
 * [How Stress Affects Your Body and Mind](https://www.youtube.com/watch?v=CZTc8_FwHGM)
 * [Gandhi - The Best Advice I Ever Had](https://www.mkgandhi.org/articles/vijaya_lakshmi_pandit.html)
 * [How I Lost 140 Pounds and Kept It Off For Three Decades](https://medium.com/thrive-global/how-i-lost-140-pounds-and-kept-it-off-for-three-decades-77e4403811de)
+* [10 Reasons Why I’m Fasting Regularly](https://dranthonygustin.com/10-reasons-why-im-fasting-regularly/)
 * [Longevity diet: More carbs, fasting, and less protein](https://www.medicalnewstoday.com/articles/longevity-diet-more-carbs-fasting-and-less-protein#The-foundation-of-the-longevity-diet)
 * [Dr. Berg's Healthy Ketogenic Diet Basics: Step 1 - Intermittent Fasting & Fat Burning](youtube.com/watch?v=vMZfyEy_jpI&feature=youtu.be)
 * [Amazing Benefits of Prolonged Fasting - Dr. Berg](https://www.youtube.com/watch?v=EX_kg6Nimbc)
@@ -114,6 +115,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Unretired at 67](https://www.cnbc.com/2022/06/15/67-year-old-who-unretired-at-62-shares-the-biggest-retirement-challenge-that-no-one-talks-about.html)
 * [10 Benefits Of Your Child Training Martial Arts VS Team Sports](https://www.theodysseyonline.com/10-reasons-martial-arts-are-better-for-kids-than-team-sports/9-universality-in-participation-action)
 * [Science Explained: What is the Hottest Possible Temperature?](https://futurism.com/science-explained-hottest-possible-temperature)
+* [The Power of Unlearning](https://www.psychologytoday.com/us/blog/the-gen-y-psy/202004/the-power-unlearning)
 
 ## Always remember ...
 
