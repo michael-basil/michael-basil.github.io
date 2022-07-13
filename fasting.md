@@ -7,6 +7,11 @@ description: cycle
 
 function calculateTimeElapsed(starttime){
   const total = Date.parse(new Date()) - Date.parse(starttime);
+
+  if (total < 0) {
+    return {0,0,0,0,0};
+  }
+
   const seconds = Math.floor( (total/1000) % 60 );
   const minutes = Math.floor( (total/1000/60) % 60 );
   const hours = Math.floor( (total/(1000*60*60)) % 24 );
@@ -23,6 +28,11 @@ function calculateTimeElapsed(starttime){
   
 function calculateTimeRemaining(endtime){
   const total = Date.parse(endtime) - Date.parse(new Date());
+
+  if (total < 0) {
+    return {0,0,0,0,0};
+  }
+
   const seconds = Math.floor( (total/1000) % 60 );
   const minutes = Math.floor( (total/1000/60) % 60 );
   const hours = Math.floor( (total/(1000*60*60)) % 24 );
