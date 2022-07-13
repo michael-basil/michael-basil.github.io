@@ -6,10 +6,10 @@ description: compass
 <script type="text/javascript">
 
 function calculateTimeRemaining(endtime){
-  const total = Date.parse(endtime) - Date.parse(new Date());
-
-  if (total < 0) {
-    return {0,0,0,0,0,0};
+  var total = Date.parse(endtime) - Date.parse(new Date());
+  
+  if (total <= 0) {
+    total = 0;
   }
 
   const seconds = Math.floor( (total/1000) % 60 );
