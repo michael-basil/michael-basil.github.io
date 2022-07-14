@@ -89,7 +89,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * Intermediate level
     * Water only
     * 16-22 hour fasting window on intermittent days
-    * 36-60 hour extended fasting window perioically 
+    * 36-72 hour extended fasting window perioically 
 * Eating
     * No drugs including processed sugar, alcohol or caffeine
     * No unnecesssary suppliments
