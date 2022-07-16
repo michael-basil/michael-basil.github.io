@@ -96,11 +96,11 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * No processed food, no grains, all whole foods
     * Minimal sugar, targeted proteins and healthy fats
         * Spinach, brocoli, avacado, peas, black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, bell peppers, jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil, ginger), olive oil, balsamic vinegar, cashews, pistachios, almonds, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
-        * Eggs: not currently but likely soon
-        * Fish: not currently but likely soon
-        * Dairy: not currently and unlikely soon
+        * Eggs: 1-3 per week
+        * Fish: 1-2 servings per week
+        * Dairy: extremely rarely
         * Favorite desert: fresh ground nut butter with a banana
-    * For my kids I approach the same way but add eggs, full fat dairy, tuna and salmon
+    * For my kids I approach the same way but add eggs, full fat dairy, tuna, turkey and salmon
 * Exercise
     * 10,000+ hours of practice
     * Boxing, swimming, jumping rope, push ups, pull ups, chin ups, planks, burpees, running, walking, biking, basketball, racquetball
