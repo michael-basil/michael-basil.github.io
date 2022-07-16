@@ -27,6 +27,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Fasting in Traditional Chinese Medicine](http://naturalmentalhealthcare.net/fasting-in-traditional-chinese-medicine/)
 * [Metabolism - Fasting positive news](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Prolonged Fasting](https://fasting.com/fasting-methods/prolonged-fasting/)
+* [Medically supervised water-only fasting in the treatment of hypertension](https://pubmed.ncbi.nlm.nih.gov/11416824/)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
 * [Potassium: Most Likely you have Low Levels](https://www.changeitupwellnesscoaching.com/blog/b3yrrtuaakkr8ez4g2q6mmugqyruls)
 * [Dr. Terri Lance - The Fasting Mindset](https://youtu.be/A-wXCgcB-hI)
