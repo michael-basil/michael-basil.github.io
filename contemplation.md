@@ -36,6 +36,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Gut Health Begins With Cutting Back Sugar](https://gutgeek.com/gut-health-cut-sugar/)
 * [Does sugar stunt growth?](https://supplementchoices.com/does-sugar-stunt-growth/)
 * [Is Salt Addictive? An Appetite for Salt and Drugs](https://www.jonbarron.org/article/appetite-salt-and-drugs)
+* [Fruits and vegetables' latest superpower? Lowering blood pressure](https://www.eurekalert.org/news-releases/723410)
 * [Why the Relationship Between Potassium and Sodium Matters](https://www.livestrong.com/article/507014-the-relationship-between-potassium-and-sodium/)
 * [What Is Your Height-To-Waist Ratio and What Does It Mean?](https://www.integrativehealthcare.com/blog/what-is-your-height-to-waist-ratio-and-what-does-it-mean/)
 * [Carboyhdrate Insulin Model](https://academic.oup.com/ajcn/article/114/6/1873/6369073?login=false)
