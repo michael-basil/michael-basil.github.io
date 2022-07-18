@@ -75,7 +75,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Zen Quotes I: Gautama, Huineng, Huangbo, Dogen, Hongzhi](https://youtu.be/9sJRAwLrDCM)
 * [Buddhism for Kids](https://www.amazon.com/gp/product/1641523972)
 * [Buddha in blue jeans](https://www.youtube.com/watch?v=jHs0bhxTVUw)
-* [On Walking Meditation | Thich Nhat Hanh](https://www.youtube.com/watch?v=90Pzn6NK4VQ)
+* [On Walking Meditation - Thich Nhat Hanh](https://www.youtube.com/watch?v=90Pzn6NK4VQ)
 * [Chicago Shambhala Center](https://chicago.shambhala.org/)
 * [Tao Te Ching Chp 1 Explained - Can you know who you are?](https://youtu.be/fvM7AWxk1Ng)
 * [What is Taoism](https://www.taopage.org/levelone.html)
