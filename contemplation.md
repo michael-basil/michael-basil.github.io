@@ -35,6 +35,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Sugar and gut health](https://www.wellandgood.com/sugar-and-gut-health/)
 * [Gut Health Begins With Cutting Back Sugar](https://gutgeek.com/gut-health-cut-sugar/)
 * [Does sugar stunt growth?](https://supplementchoices.com/does-sugar-stunt-growth/)
+* [Is Salt Addictive? An Appetite for Salt and Drugs](https://www.jonbarron.org/article/appetite-salt-and-drugs)
 * [Why the Relationship Between Potassium and Sodium Matters](https://www.livestrong.com/article/507014-the-relationship-between-potassium-and-sodium/)
 * [What Is Your Height-To-Waist Ratio and What Does It Mean?](https://www.integrativehealthcare.com/blog/what-is-your-height-to-waist-ratio-and-what-does-it-mean/)
 * [Carboyhdrate Insulin Model](https://academic.oup.com/ajcn/article/114/6/1873/6369073?login=false)
@@ -121,6 +122,7 @@ I am always open to conversations on any of these or something another feels is 
 * [10 Benefits Of Your Child Training Martial Arts VS Team Sports](https://www.theodysseyonline.com/10-reasons-martial-arts-are-better-for-kids-than-team-sports/9-universality-in-participation-action)
 * [Science Explained: What is the Hottest Possible Temperature?](https://futurism.com/science-explained-hottest-possible-temperature)
 * [The Power of Unlearning](https://www.psychologytoday.com/us/blog/the-gen-y-psy/202004/the-power-unlearning)
+* [What Is Spirituality? Becoming One With The Spiritual World](https://thelawofattraction.com/what-is-spirituality/)
 
 ## Always remember ...
 
