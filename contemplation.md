@@ -124,7 +124,9 @@ I am always open to conversations on any of these or something another feels is 
 * [Science Explained: What is the Hottest Possible Temperature?](https://futurism.com/science-explained-hottest-possible-temperature)
 * [The Power of Unlearning](https://www.psychologytoday.com/us/blog/the-gen-y-psy/202004/the-power-unlearning)
 * [What Is Spirituality? Becoming One With The Spiritual World](https://thelawofattraction.com/what-is-spirituality/)
+* [Fasting to Raise Vibration, Expand Consciousness AND THRIVE!](https://www.openhandweb.org/fasting-to-raise-vibration-expand-consciousness-and-thrive)
 * [Addiction and Identity](https://youtu.be/J9eObiqMPnk)
+* [How to cope under pressure, according to psychology](https://bigthink.com/neuropsych/cope-under-pressure/)
 
 ## Always remember ...
 
