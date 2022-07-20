@@ -30,6 +30,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Prolonged Fasting](https://fasting.com/fasting-methods/prolonged-fasting/)
 * [Medically supervised water-only fasting in the treatment of hypertension](https://pubmed.ncbi.nlm.nih.gov/11416824/)
 * [Dr. Peter Attia MD - Principles of Nutirtion](https://peterattiamd.com/fasting-protocol-video/)
+* [What is the optimal protocol, frequency, and duration for fasting?](https://www.youtube.com/watch?v=Ed9QbRH6M0s)
 * [Potassium: Most Likely you have Low Levels](https://www.changeitupwellnesscoaching.com/blog/b3yrrtuaakkr8ez4g2q6mmugqyruls)
 * [Dr. Terri Lance - The Fasting Mindset](https://youtu.be/A-wXCgcB-hI)
 * [Guide to Managing Hunger, while Intermittent Fasting](https://www.span.health/blog/guide-to-hunger-while-intermittent-fasting)
