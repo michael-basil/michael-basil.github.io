@@ -26,6 +26,7 @@ I am always open to conversations on any of these or something another feels is 
 * [I Went Vegan for One Year to Manage Heart Disease–Here's What Happened](https://www.eatingwell.com/article/7834305/vegan-manage-heart-disease/)
 * [Longevity diet: More carbs, fasting, and less protein](https://www.medicalnewstoday.com/articles/longevity-diet-more-carbs-fasting-and-less-protein#The-foundation-of-the-longevity-diet)
 * [The effect of alcohol consumption on health](https://www.youtube.com/watch?v=IfV5H-ejReI)
+* [Fasting, Building Muscle, and Importance of Protein](https://www.youtube.com/watch?v=vbxxCwOGz1c)
 * [Dr. Berg's Healthy Ketogenic Diet Basics: Step 1 - Intermittent Fasting & Fat Burning](youtube.com/watch?v=vMZfyEy_jpI&feature=youtu.be)
 * [Amazing Benefits of Prolonged Fasting - Dr. Berg](https://www.youtube.com/watch?v=EX_kg6Nimbc)
 * [Fasting in Traditional Chinese Medicine](http://naturalmentalhealthcare.net/fasting-in-traditional-chinese-medicine/)
