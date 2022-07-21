@@ -134,6 +134,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Fasting to Raise Vibration, Expand Consciousness AND THRIVE!](https://www.openhandweb.org/fasting-to-raise-vibration-expand-consciousness-and-thrive)
 * [Addiction and Identity](https://youtu.be/J9eObiqMPnk)
 * [How to cope under pressure, according to psychology](https://bigthink.com/neuropsych/cope-under-pressure/)
+* [5 Steps To Get To The Root Cause Of Your Symptoms](https://drhyman.com/blog/2022/07/15/podcast-ep569/)
 
 ## Always remember ...
 
