@@ -25,6 +25,7 @@ I am always open to conversations on any of these or something another feels is 
 * [10 Reasons Why I’m Fasting Regularly](https://dranthonygustin.com/10-reasons-why-im-fasting-regularly/)
 * [I Went Vegan for One Year to Manage Heart Disease–Here's What Happened](https://www.eatingwell.com/article/7834305/vegan-manage-heart-disease/)
 * [Longevity diet: More carbs, fasting, and less protein](https://www.medicalnewstoday.com/articles/longevity-diet-more-carbs-fasting-and-less-protein#The-foundation-of-the-longevity-diet)
+* [How Much Protein Can You Absorb and Use from One Meal?](https://www.marksdailyapple.com/dear-mark-how-much-protein-can-you-absorb-and-use-from-one-meal/)
 * [The effect of alcohol consumption on health](https://www.youtube.com/watch?v=IfV5H-ejReI)
 * [Fasting, Building Muscle, and Importance of Protein](https://www.youtube.com/watch?v=vbxxCwOGz1c)
 * [Dr. Berg's Healthy Ketogenic Diet Basics: Step 1 - Intermittent Fasting & Fat Burning](youtube.com/watch?v=vMZfyEy_jpI&feature=youtu.be)
