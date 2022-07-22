@@ -139,6 +139,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Healthiest Low Fructose Fruits For People With Fructose Intolerance](https://www.spoliamag.com/low-fructose-fruits/)
 * [Sugar rots you Inside out - Dr Jason Fung](https://www.youtube.com/watch?v=ArG5UVqyCag)
 * [The 3 REASONS You Should AVOID DAIRY At All Costs! - Mark Hyman](https://www.youtube.com/watch?v=JvtanADX494)
+* [Food is Information](http://jillhillhouse.com/food-is-information/)
 
 ## Always remember ...
 
