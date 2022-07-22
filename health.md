@@ -98,7 +98,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Spinach, brocoli, avacado, peas, black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, bell peppers, jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil, ginger), olive oil, balsamic vinegar, cashews, pistachios, almonds, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
         * Eggs: 1-3 per week
         * Fish: 1-2 servings per week
-        * Dairy: occasionally sheep or goat cheese (the opposite of Indstrialized Dairy)
+        * Dairy: occasionally sheep or goat cheese/yogurt (the opposite of Indstrialized Dairy)
         * Favorite desert: fresh ground nut butter with a banana
     * For my kids I approach the same way but provide proteins more liberally (eggs, tuna, turkey and salmon)
 * Exercise
