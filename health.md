@@ -116,10 +116,10 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
 * Sleep
     * 7-8 hours per night target
     * Sleep debt cleaned up on weekends 
-* Yoga
-    * Familiarized but no regular practice
-    * Could be very beneficial in future with flexibility and stability (physical sheath)
-    * Benefits outside of the physical sheath hae not been explored or demystified
+* Martial Arts
+    * Considering Aikido with the kids
+    * [Japanese Arts Center](https://japaneseculturecenter.com/classes/aikido/)
+    * Focus on energy redirection and competence through self discipline
 
 ## Am I always at maximum Disciplined?
 
