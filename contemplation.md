@@ -135,6 +135,8 @@ I am always open to conversations on any of these or something another feels is 
 * [Addiction and Identity](https://youtu.be/J9eObiqMPnk)
 * [How to cope under pressure, according to psychology](https://bigthink.com/neuropsych/cope-under-pressure/)
 * [5 Steps To Get To The Root Cause Of Your Symptoms](https://drhyman.com/blog/2022/07/15/podcast-ep569/)
+* [Why Sugar And Fructose Are So Deadly with Dr. Richard Johnson](https://drhyman.com/blog/2022/05/18/podcast-ep540/)
+* [Healthiest Low Fructose Fruits For People With Fructose Intolerance](https://www.spoliamag.com/low-fructose-fruits/)
 
 ## Always remember ...
 
