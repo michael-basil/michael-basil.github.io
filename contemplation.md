@@ -137,6 +137,7 @@ I am always open to conversations on any of these or something another feels is 
 * [5 Steps To Get To The Root Cause Of Your Symptoms](https://drhyman.com/blog/2022/07/15/podcast-ep569/)
 * [Why Sugar And Fructose Are So Deadly with Dr. Richard Johnson](https://drhyman.com/blog/2022/05/18/podcast-ep540/)
 * [Healthiest Low Fructose Fruits For People With Fructose Intolerance](https://www.spoliamag.com/low-fructose-fruits/)
+* [Sugar rots you Inside out - Dr Jason Fung](https://www.youtube.com/watch?v=ArG5UVqyCag)
 * [The 3 REASONS You Should AVOID DAIRY At All Costs! - Mark Hyman](https://www.youtube.com/watch?v=JvtanADX494)
 
 ## Always remember ...
