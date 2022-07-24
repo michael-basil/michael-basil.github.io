@@ -25,6 +25,7 @@ I am always open to conversations on any of these or something another feels is 
 * [10 Reasons Why I’m Fasting Regularly](https://dranthonygustin.com/10-reasons-why-im-fasting-regularly/)
 * [I Went Vegan for One Year to Manage Heart Disease–Here's What Happened](https://www.eatingwell.com/article/7834305/vegan-manage-heart-disease/)
 * [Longevity diet: More carbs, fasting, and less protein](https://www.medicalnewstoday.com/articles/longevity-diet-more-carbs-fasting-and-less-protein#The-foundation-of-the-longevity-diet)
+* [Dr Mark Hyman’s Pegan Food Pyramid – What to Eat on Pegan Diet?](https://www.labmeeting.com/dr-mark-hymans-pegan-food-pyramid)
 * [How Much Protein Can You Absorb and Use from One Meal?](https://www.marksdailyapple.com/dear-mark-how-much-protein-can-you-absorb-and-use-from-one-meal/)
 * [The effect of alcohol consumption on health](https://www.youtube.com/watch?v=IfV5H-ejReI)
 * [Fasting, Building Muscle, and Importance of Protein](https://www.youtube.com/watch?v=vbxxCwOGz1c)
@@ -140,6 +141,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Sugar rots you Inside out - Dr Jason Fung](https://www.youtube.com/watch?v=ArG5UVqyCag)
 * [The 3 REASONS You Should AVOID DAIRY At All Costs! - Mark Hyman](https://www.youtube.com/watch?v=JvtanADX494)
 * [Food is Information](http://jillhillhouse.com/food-is-information/)
+* [Post-consumerism](https://en.m.wikipedia.org/wiki/Post-consumerism)
 
 ## Always remember ...
 
