@@ -141,6 +141,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Sugar rots you Inside out - Dr Jason Fung](https://www.youtube.com/watch?v=ArG5UVqyCag)
 * [The 3 REASONS You Should AVOID DAIRY At All Costs! - Mark Hyman](https://www.youtube.com/watch?v=JvtanADX494)
 * [Food is Information](http://jillhillhouse.com/food-is-information/)
+* [Is Cancer Caused By Sugar? with Dr. Jason Fung](https://shows.acast.com/the-doctors-farmacy/episodes/is-cancer-caused-by-sugar-with-dr-jason-fung)
 * [Post-consumerism](https://en.m.wikipedia.org/wiki/Post-consumerism)
 
 ## Always remember ...
