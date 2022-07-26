@@ -40,6 +40,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Potassium: Most Likely you have Low Levels](https://www.changeitupwellnesscoaching.com/blog/b3yrrtuaakkr8ez4g2q6mmugqyruls)
 * [Dr. Terri Lance - The Fasting Mindset](https://youtu.be/A-wXCgcB-hI)
 * [Guide to Managing Hunger, while Intermittent Fasting](https://www.span.health/blog/guide-to-hunger-while-intermittent-fasting)
+* [How Fasting Affects Uric Acid](https://www.drperlmutter.com/how-fasting-affects-uric-acid)
 * [Sugar and gut health](https://www.wellandgood.com/sugar-and-gut-health/)
 * [Gut Health Begins With Cutting Back Sugar](https://gutgeek.com/gut-health-cut-sugar/)
 * [Does sugar stunt growth?](https://supplementchoices.com/does-sugar-stunt-growth/)
