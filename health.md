@@ -85,22 +85,97 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
 
 ## What are my current habits when I am most Disciplined?
 
+* Sleep
+    * 7-8 hours per night target
+    * Sleep debt cleaned up on weekends
 * Fasting
     * Intermediate level
     * Water only
     * 16-22 hour fasting window on intermittent days
     * 36-72 hour extended fasting window perioically 
 * Eating
-    * No drugs including processed sugar, unnatural salt, alcohol or caffeine
+    * No drugs including processed sugar, processsed salt, alcohol or caffeine
     * No unnecesssary suppliments
-    * No processed food, no grains, all whole foods
-    * Minimal sugar, targeted proteins and healthy fats
-        * Spinach, brocoli, avacado, peas, black beans, kidney beans, soy beans, brussel sprouts, onions, tomatos, cucumbers, bell peppers, jalapeño peppers, spices (black pepper, tumeric, garlic, chili pepper, cayenne pepper, basil, ginger), olive oil, balsamic vinegar, cashews, pistachios, almonds, walnuts, peanuts, sunflower seeds, pumpkin seeds, coconut, strawberries, blueberries, rasberries, bananas, grapefruit, oranges, apples, watermelon, cantelope, popcorn
-        * Eggs: 1-3 per week
-        * Fish: 1-2 servings per week
-        * Dairy: occasionally sheep or goat cheese/yogurt (the opposite of Indstrialized Dairy)
-        * Favorite desert: fresh ground nut butter with a banana
-    * For my kids I approach the same way but provide proteins more liberally (eggs, tuna, turkey and salmon)
+    * No processed food, no wheat, no gluten
+    * All whole foods
+    * Vegetables:
+        * Bell peppers
+        * Brocoli 
+        * Brussel sprouts
+        * Jalapeño peppers
+        * Onions
+        * Spinach
+    * Fruits:
+        * Apples
+        * Avacado
+        * Bananas
+        * Blueberries
+        * Cantelope
+        * Cherries
+        * Coconuts
+        * Cucumbbers
+        * Grapefruit
+        * Oranges
+        * Rasberries
+        * Strawberries
+        * Tomatos
+        * Watermelon
+    * Legumes (need advisement)
+        * Black beans
+        * Kidney beans
+        * Peanuts
+        * Peas
+        * Soy beans
+    * Grains:
+        * Yellow kernel air-popped popcorn
+    * Nuts (need advisement)
+        * Almonds
+        * Cashews
+        * Pistachios 
+        * Walnuts
+    * Seeds (need advisement)
+        * Pumpkin seeds
+        * Sunflower seeds
+    * Eggs:
+        * 1-3 per week
+        * Pasture raised  
+    * Fish:
+        * 1-2 servings per week
+        * Sushi or cooked
+        * Salmon
+        * Sardines
+        * Tuna
+    * Dairy:
+        * Occasionally 
+        * Raw sheep or goat milk based
+        * Cheese
+        * Yogurt
+    * Liquids
+        * [Balsamic vinegar](https://www.amazon.com/365-Everyday-Value-Balsamic-Vinegar/dp/B074H6R4YR)
+        * Coconut oil
+        * [Olive oil](https://www.amazon.com/365-Everyday-Value-Extra-Virgin/dp/B074HBQZXF)
+        * Still water
+        * Sparkling water
+    * Spices:
+        * Black pepper
+        * Chili pepper
+        * Cayenne pepper
+        * Tumeric
+        * Garlic
+        * Basil
+        * Ginger
+    * Dessert:
+        * Fruit
+        * [Unsweetened Keto Cups](https://eatingevolved.com/products/keto-case-unsweetened-coconut-butter-keto-cups-50-pack)
+    * Grazing:
+        * [Sodium-free Pickles](https://healthyheartmarket.com/collections/pickles-relish/products/healthy-heart-market-no-salt-spicy-hot-dills-32-oz)
+        * Yellow kernel air-popped popcorn
+        * Sunflower seeds
+    * Ordering:
+        * Fiber
+        * Fats
+        * Proteins
+        * Dessert
 * Exercise
     * 10,000+ hours of practice
     * Boxing, swimming, jumping rope, push ups, pull ups, chin ups, planks, burpees, running, walking, biking, basketball, racquetball
@@ -113,9 +188,6 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * Tuesday night in person
     * Monday and Friday as able
     * Weekends not typically outside of short breath sequences for centering
-* Sleep
-    * 7-8 hours per night target
-    * Sleep debt cleaned up on weekends 
 * Martial Arts
     * Considering Aikido with the kids
     * [Japanese Arts Center](https://japaneseculturecenter.com/classes/aikido/)
@@ -137,7 +209,7 @@ I never scold myself, rather inspect when I have created a Tension through Expec
     * Decision making rests in the sole posession of the patient or consumer
     * People weigh risks differently and this will be tolerated and accepted one way or another over time
 * Many people attempted to persuade me to lose hope and curiousity as a way to cope with negative situations
-* For my children
+* To provide a good model and be there for my children
 * For myself
 * To see how far much further things can go when our Mindsets are shifted and altered
 * Because I like to have fun with/in systems
