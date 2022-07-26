@@ -94,14 +94,22 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * 16-22 hour fasting window on intermittent days
     * 36-72 hour extended fasting window perioically 
 * Eating
-    * No drugs including processed sugar, processsed salt, alcohol or caffeine
+    * No drugs 
+    * No alcohol
+    * No caffeine
+    * No processed sugar
+    * No processsed salt
+    * No salt additives
     * No unnecesssary suppliments
-    * No processed food, no wheat, no gluten
+    * No processed food
+    * No wheat
+    * No gluten
     * All whole foods
     * Vegetables:
         * Bell peppers
         * Brocoli 
         * Brussel sprouts
+        * Corn
         * Jalapeño peppers
         * Onions
         * Spinach
@@ -127,7 +135,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Peas
         * Soy beans
     * Grains:
-        * Yellow kernel air-popped popcorn
+        * Air-popped popcorn
     * Nuts (need advisement)
         * Almonds
         * Cashews
@@ -147,29 +155,33 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Tuna
     * Dairy:
         * Occasionally 
-        * Raw sheep or goat milk based
+        * Raw milk based
+            * No antibiotics
+            * Not from cow
+            * From sheep
+            * From goat 
         * Cheese
         * Yogurt
     * Liquids
         * [Balsamic vinegar](https://www.amazon.com/365-Everyday-Value-Balsamic-Vinegar/dp/B074H6R4YR)
         * Coconut oil
         * [Olive oil](https://www.amazon.com/365-Everyday-Value-Extra-Virgin/dp/B074HBQZXF)
-        * Still water
         * Sparkling water
+        * Still water
     * Spices:
-        * Black pepper
-        * Chili pepper
-        * Cayenne pepper
-        * Tumeric
-        * Garlic
         * Basil
+        * Black pepper
+        * Cayenne pepper
+        * Chili pepper
         * Ginger
+        * Garlic
+        * Tumeric
     * Dessert:
         * Fruit
         * [Unsweetened Keto Cups](https://eatingevolved.com/products/keto-case-unsweetened-coconut-butter-keto-cups-50-pack)
     * Grazing:
+        * Air-popped popcorn
         * [Sodium-free Pickles](https://healthyheartmarket.com/collections/pickles-relish/products/healthy-heart-market-no-salt-spicy-hot-dills-32-oz)
-        * Yellow kernel air-popped popcorn
         * Sunflower seeds
     * Ordering:
         * Fiber
