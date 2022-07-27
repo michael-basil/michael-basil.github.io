@@ -92,7 +92,21 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * Intermediate level
     * Water only
     * 16-22 hour fasting window on intermittent days
-    * 36-72 hour extended fasting window perioically 
+    * 36-72 hour extended fasting window perioically
+    * Eating windows:
+        * Two Meals a Day
+            * Occassionally
+            * 60 minute grazing window
+            * 60-90 minute grazing window
+        * One Meal a Day
+            * Occasionally
+            * 90-120 minute grazing window
+        * Warrior Window
+            * Typically
+            * 4 hour grazing window
+        * Traveling
+            * Fasting
+            * One Meal a Day  
 * Eating
     * No drugs 
     * No alcohol
@@ -106,6 +120,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * No gluten
     * All whole foods
     * Vegetables:
+        * Liberally 
         * Bell peppers
         * Brocoli 
         * Brussel sprouts
@@ -114,6 +129,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Onions
         * Spinach
     * Fruits:
+        * Liberally  
         * Apples
         * Avacado
         * Bananas
@@ -124,24 +140,29 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Cucumbbers
         * Grapefruit
         * Oranges
+        * [Pickles - Sodium-free](https://healthyheartmarket.com/collections/pickles-relish/products/healthy-heart-market-no-salt-spicy-hot-dills-32-oz)
         * Rasberries
         * Strawberries
         * Tomatos
         * Watermelon
-    * Legumes (need advisement)
+    * Legumes
+        * Moderately
         * Black beans
         * Kidney beans
         * Peanuts
         * Peas
         * Soy beans
     * Grains:
+        * Liberally 
         * Air-popped popcorn
-    * Nuts (need advisement)
+    * Nuts 
+        * Moderately
         * Almonds
         * Cashews
         * Pistachios 
         * Walnuts
-    * Seeds (need advisement)
+    * Seeds
+        * Moderately
         * Pumpkin seeds
         * Sunflower seeds
     * Eggs:
@@ -163,12 +184,15 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Cheese
         * Yogurt
     * Liquids
+        * Liberally
         * [Balsamic vinegar](https://www.amazon.com/365-Everyday-Value-Balsamic-Vinegar/dp/B074H6R4YR)
+        * [Coconut garlic sauce](https://www.amazon.com/Coconut-Secret-Amino-Garlic-Sauce/dp/B00TRGF616)
         * Coconut oil
         * [Olive oil](https://www.amazon.com/365-Everyday-Value-Extra-Virgin/dp/B074HBQZXF)
         * Sparkling water
         * Still water
     * Spices:
+        * Liberally
         * Basil
         * Black pepper
         * Cayenne pepper
@@ -179,10 +203,6 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * Dessert:
         * Fruit
         * [Unsweetened Keto Cups](https://eatingevolved.com/products/keto-case-unsweetened-coconut-butter-keto-cups-50-pack)
-    * Grazing:
-        * Air-popped popcorn
-        * [Sodium-free Pickles](https://healthyheartmarket.com/collections/pickles-relish/products/healthy-heart-market-no-salt-spicy-hot-dills-32-oz)
-        * Sunflower seeds
     * Ordering:
         * Fiber
         * Fats
