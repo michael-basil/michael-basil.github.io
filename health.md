@@ -119,6 +119,17 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * No wheat
     * No gluten
     * All whole foods
+    * Beverages:
+        * Water
+            * 3-4 liters of still water daily
+            * Sparking water occassionally
+        * Cocoanut water
+            * Rarely
+        * Nut milks
+            * Rarely
+            * Almond
+            * Cashew
+            * Flaxseed    
     * Vegetables:
         * Liberally 
         * Bell peppers
@@ -140,7 +151,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Cucumbbers
         * Grapefruit
         * Oranges
-        * [Pickles - Sodium-free](https://healthyheartmarket.com/collections/pickles-relish/products/healthy-heart-market-no-salt-spicy-hot-dills-32-oz)
+        * [Pickles (sodium-free)](https://healthyheartmarket.com/collections/pickles-relish/products/healthy-heart-market-no-salt-spicy-hot-dills-32-oz)
         * Rasberries
         * Strawberries
         * Tomatos
@@ -154,7 +165,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Soy beans
     * Grains:
         * Liberally 
-        * Air-popped popcorn
+        * Popcorn (air-popped)
     * Nuts 
         * Moderately
         * Almonds
@@ -183,14 +194,12 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
             * From goat 
         * Cheese
         * Yogurt
-    * Liquids
+    * Oils
         * Liberally
         * [Balsamic vinegar](https://www.amazon.com/365-Everyday-Value-Balsamic-Vinegar/dp/B074H6R4YR)
         * [Coconut garlic sauce](https://www.amazon.com/Coconut-Secret-Amino-Garlic-Sauce/dp/B00TRGF616)
         * Coconut oil
-        * [Olive oil](https://www.amazon.com/365-Everyday-Value-Extra-Virgin/dp/B074HBQZXF)
-        * Sparkling water
-        * Still water
+        * [Olive oil](https://www.amazon.com/365-Everyday-Value-Extra-Virgin/dp/B074HBQZXF) 
     * Spices:
         * Liberally
         * Basil
@@ -201,8 +210,14 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Garlic
         * Tumeric
     * Dessert:
+        * Semi-frequently
         * Fruit
-        * [Unsweetened Keto Cups](https://eatingevolved.com/products/keto-case-unsweetened-coconut-butter-keto-cups-50-pack)
+        * Nut butters
+            * Almond
+            * Cashew
+            * Peanut
+            * [Keto Dark Chocolate Nut Butter](https://www.amazon.com/Chocolate-NuttZo-Crunchy-Coconut-Keto-Friendly/dp/B097RYGMHF/)
+        * [Keto Cups (unsweetened)](https://eatingevolved.com/products/keto-case-unsweetened-coconut-butter-keto-cups-50-pack)
     * Ordering:
         * Fiber
         * Fats
