@@ -145,6 +145,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Is Cancer Caused By Sugar? with Dr. Jason Fung](https://shows.acast.com/the-doctors-farmacy/episodes/is-cancer-caused-by-sugar-with-dr-jason-fung)
 * [#94 – Mark Hyman, M.D.: The impact of the food system on our health and the environmen](https://peterattiamd.com/markhyman/)
 * [#215 – The gut-brain connection - Michael Gershon, M.D.](https://peterattiamd.com/michaelgershon/?mc_cid=ca5bc5bc0f&mc_eid=6578534254)
+* [Are You Eating Too Much Salt?](https://medium.com/wake-up-call/are-you-eating-too-much-salt-1e94b0d07a5c)
 * [Post-consumerism](https://en.m.wikipedia.org/wiki/Post-consumerism)
 
 ## Always remember ...
