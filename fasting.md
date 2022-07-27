@@ -78,25 +78,10 @@ function initializeClockRemaining(clockId, endtime) {
 }
 
 initializeClockElapsed('fastingElapsedDisplay','Sun Jul 24 2022 17:00:00 GMT-0500');
-initializeClockRemaining('fastingRemainingDisplay','Wed Jul 27 2022 17:00:00 GMT-0500');
+initializeClockRemaining('fastingRemainingDisplay','Wed Jul 27 2022 13:00:00 GMT-0500');
 
 </script>
 
-## log
-  
-* 50 hours
-    * Tue Jun 21 2022 17:30:00 GMT-0500
-    * Thu Jun 23 2022 19:30:00 GMT-0500
-* 48 hours
-    * Mon Jun 27 2022 17:00:00 GMT-0500
-    * Wed Jun 29 2022 17:00:00 GMT-0500
-* 73 hours
-    * Sun Jul 10 2022 17:00:00 GMT-0500
-    * Wed Jul 13 2022 17:00:00 GMT-0500
-* 40 hours
-    * Sun Jul 17 2022 18:30:00 GMT-0500
-    * Tue Jul 20 2022 14:30:00 GMT-0500  
-  
 ## elapsed
 
 <span id="fastingElapsedDisplay">
@@ -114,5 +99,14 @@ hours:<br/>
 minutes:<br/>
 seconds:<br/>
 </span>
+
+
+## log
+  
+* 2022/06/21 - Tue - 17:30 - 50 hours
+* 2022/07/27 - Mon - 17:00 - 48 hours
+* 2022/07/10 - Sun - 17:00 - 73 hours
+* 2022/07/17 - Sun - 18:30 - 40 hours
+* 2022/07/24 - Sun - 17:00 - 68 hours  
   
 💯💚🌿
