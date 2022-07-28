@@ -114,7 +114,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * No processed sugar
     * No processsed salt
     * No salt additives
-    * No unnecesssary suppliments
+    * No unnecesssary suppliments 
     * No processed food
     * No wheat
     * No gluten
@@ -177,6 +177,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Walnuts
     * Seeds
         * Moderately
+        * Hemp seeds
         * Pumpkin seeds
         * Sunflower seeds
     * Eggs:
@@ -204,6 +205,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Salsa (low sodium) 
     * Oils
         * Liberally
+        * [Apple cider vinegar](https://www.amazon.com/365-Everyday-Value-Organic-Vinegar/dp/B07NRSPWL2)
         * [Balsamic vinegar](https://www.amazon.com/365-Everyday-Value-Balsamic-Vinegar/dp/B074H6R4YR)
         * [Coconut garlic sauce](https://www.amazon.com/Coconut-Secret-Amino-Garlic-Sauce/dp/B00TRGF616)
         * Coconut oil
@@ -226,6 +228,13 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
             * Peanut
             * [Keto Dark Chocolate Nut Butter](https://www.amazon.com/Chocolate-NuttZo-Crunchy-Coconut-Keto-Friendly/dp/B097RYGMHF/)
         * [Keto Cups (unsweetened)](https://eatingevolved.com/products/keto-case-unsweetened-coconut-butter-keto-cups-50-pack)
+    * Supplements
+        * [Apple cider vinegar](https://www.amazon.com/365-Everyday-Value-Organic-Vinegar/dp/B07NRSPWL2)
+            * 1-2 tablespoons before meals (increase bile flow) 
+        * [Vitamin D3](https://www.amazon.com/gp/product/B003FW4FF6)
+            * 2000 IU ~daily 
+        * [Vitamin B12](https://www.amazon.com/gp/product/B00DBESCAW)
+            * 5000 IU ~daily
     * Ordering:
         * Fiber
         * Fats
