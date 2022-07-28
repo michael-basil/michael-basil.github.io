@@ -198,6 +198,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Cheese
         * Yogurt
     * Dips 
+        * Rarely 
         * Hummus (low sodium)
         * Pico de gallo (low sodium)
         * Salsa (low sodium) 
@@ -232,16 +233,42 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Dessert
 * Exercise
     * 10,000+ hours of practice
-    * Boxing, swimming, jumping rope, push ups, pull ups, chin ups, planks, burpees, running, walking, biking, basketball, racquetball
-    * Heavy days are Monday, Wednesday and Friday
-    * Lighter days are Tuesday and Thursday
-    * Weekends are optional as desired/motivated
+    * Movements
+        * Basketball
+        * Biking
+        * Boxing
+        * Burpees
+        * Chin ups
+        * Jumping rope
+        * Planks
+        * Pull ups
+        * Push ups
+        * Racquetball
+        * Running
+        * Swimming
+        * Walking
+    * Frequency
+        * Monday, Wednesday, Friday
+            * Heavy days
+        * Tuesday and Thursday
+            * Ligher days
+            * Typically swimming      
+        * Weekends
+            * Optionally
+            * Typically unstructured 
 * Meditation
     * Novice level
-    * Tuesday and Thursday online
-    * Tuesday night in person
-    * Monday and Friday as able
-    * Weekends not typically outside of short breath sequences for centering
+    * Frequency
+        * 2-4 times at lunch
+        * Tuesday evening in person
+        * Weekends optional
+            * Centering
+                * Breath sequences
+                * Cognitive reframing
+            * Minfulness
+                * Eating
+                * Sports
+                * Travel
 * Martial Arts
     * Considering Aikido with the kids
     * [Japanese Arts Center](https://japaneseculturecenter.com/classes/aikido/)
