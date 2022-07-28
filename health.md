@@ -135,7 +135,9 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Bell peppers
         * Brocoli 
         * Brussel sprouts
+        * Carrots
         * Corn
+        * Kale
         * Jalapeño peppers
         * Onions
         * Spinach
@@ -159,6 +161,7 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * Legumes
         * Moderately
         * Black beans
+        * Chickpeas
         * Kidney beans
         * Peanuts
         * Peas
@@ -194,6 +197,10 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
             * From goat 
         * Cheese
         * Yogurt
+    * Dips 
+        * Hummus (low sodium)
+        * Pico de gallo (low sodium)
+        * Salsa (low sodium) 
     * Oils
         * Liberally
         * [Balsamic vinegar](https://www.amazon.com/365-Everyday-Value-Balsamic-Vinegar/dp/B074H6R4YR)
