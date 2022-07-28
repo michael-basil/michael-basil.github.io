@@ -294,7 +294,7 @@ I never scold myself, rather inspect when I have created a Tension through Expec
 * To liberate myself from entrenched habits and addictions
 * To reverse heart disease
 * To challenge the status quo
-* There are many things sold that do not serve the person consuming
+* Most things that are sold are not worthy of being purchased
     * Many doctors prescribed things to me but could not explain their utility without resorting to appeals to authority, fortune telling and emotional manipulation tactics
     * Decision making rests in the sole posession of the patient or consumer
     * People weigh risks differently and this will be tolerated and accepted one way or another over time
