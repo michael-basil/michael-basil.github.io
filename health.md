@@ -107,6 +107,21 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
         * Traveling
             * Fasting
             * One Meal a Day  
+
+* Hydration:
+    * Cocoanut water
+        * Rarely
+    * Nut milks
+        * Rarely
+        * Almond
+        * Cashew
+        * Flaxseed
+    * Water
+        * Sparking 
+            * Occassionally
+        * Still
+            * 2 liters by noon
+            * 1-2 liters rest of day
 * Eating
     * No drugs 
     * No alcohol
@@ -119,17 +134,6 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * No wheat
     * No gluten
     * All whole foods
-    * Beverages:
-        * Water
-            * 3-4 liters of still water daily
-            * Sparking water occassionally
-        * Cocoanut water
-            * Rarely
-        * Nut milks
-            * Rarely
-            * Almond
-            * Cashew
-            * Flaxseed    
     * Vegetables:
         * Liberally 
         * Bell peppers
