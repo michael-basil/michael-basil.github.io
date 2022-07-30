@@ -148,6 +148,7 @@ I am always open to conversations on any of these or something another feels is 
 * [#215 – The gut-brain connection - Michael Gershon, M.D.](https://peterattiamd.com/michaelgershon/?mc_cid=ca5bc5bc0f&mc_eid=6578534254)
 * [Are You Eating Too Much Salt?](https://medium.com/wake-up-call/are-you-eating-too-much-salt-1e94b0d07a5c)
 * [Post-consumerism](https://en.m.wikipedia.org/wiki/Post-consumerism)
+* [Tapas, fire in the belly](https://yogasophy.blogspot.com/2008/12/tapas-fire-in-belly.html?m=1)
 
 ## Always remember ...
 
