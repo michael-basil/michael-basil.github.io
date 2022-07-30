@@ -24,6 +24,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Fasting for Weight Loss - Dr. Peter Attia](https://www.youtube.com/watch?v=VAU_0o8MV10)
 * [10 Reasons Why I’m Fasting Regularly](https://dranthonygustin.com/10-reasons-why-im-fasting-regularly/)
 * [I Went Vegan for One Year to Manage Heart Disease–Here's What Happened](https://www.eatingwell.com/article/7834305/vegan-manage-heart-disease/)
+* [Handy Portion Control for Kids’ Meals](https://blog.cincinnatichildrens.org/healthy-living/handy-portion-control-for-kids-meals)
 * [Longevity diet: More carbs, fasting, and less protein](https://www.medicalnewstoday.com/articles/longevity-diet-more-carbs-fasting-and-less-protein#The-foundation-of-the-longevity-diet)
 * [Dr Mark Hyman’s Pegan Food Pyramid – What to Eat on Pegan Diet?](https://www.labmeeting.com/dr-mark-hymans-pegan-food-pyramid)
 * [How Much Protein Can You Absorb and Use from One Meal?](https://www.marksdailyapple.com/dear-mark-how-much-protein-can-you-absorb-and-use-from-one-meal/)
