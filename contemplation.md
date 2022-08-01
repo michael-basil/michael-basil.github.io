@@ -149,6 +149,7 @@ I am always open to conversations on any of these or something another feels is 
 * [Are You Eating Too Much Salt?](https://medium.com/wake-up-call/are-you-eating-too-much-salt-1e94b0d07a5c)
 * [Post-consumerism](https://en.m.wikipedia.org/wiki/Post-consumerism)
 * [Tapas, fire in the belly](https://yogasophy.blogspot.com/2008/12/tapas-fire-in-belly.html?m=1)
+* [Communication Between the Amygdala and the Frontal Lobe](https://www.youtube.com/watch?v=Loleha5EbEo)
 
 ## Always remember ...
 
