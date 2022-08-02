@@ -416,6 +416,7 @@ I have to be able to conceptualize something before I can really lean into it.  
     * Perfection is never the Expectation
     * Blood markers are information signals and they may be predictive, lagging, benign, or nonsensical indications
     * We aim past and through a target when we set ourselves up for a high quality step/shot
-    * keep aiming and shooting, regardless of the "score"
+    * Keep aiming and shooting, regardless of the "score"
+    * Always be recalculating as the step-wise journey evolves
 
 💯💚🌿
