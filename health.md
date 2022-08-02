@@ -356,7 +356,7 @@ I have to be able to conceptualize something before I can really lean into it.  
         * I feel spirtiually connected
         * I have strength of will
         * I have a strong performance potential as desired
-        * I empty my up relatively easily
+        * I empty my cup relatively easily
 * Eating:
     * Modifications/targets (what):
         * Vinegar
