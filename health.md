@@ -105,6 +105,9 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * 16-22 hour fasting window on intermittent days
     * 36-72 hour extended fasting window perioically
     * Eating windows:
+        * Three Meals a Day
+            * Weekends when with kids 
+            * No snacks  
         * Two Meals a Day
             * Occassionally
             * 60 minute grazing window
@@ -409,8 +412,8 @@ I have to be able to conceptualize something before I can really lean into it.  
         * Remove "treat" and "desert" in concept and practice
         * Replace with healthy ways to end, "tomb" or frame a meal
     * Checkpoints:
-        * I am enjoying learning how these changes affect me.
-        * I am providing a good eating model for my children.
+        * I am enjoying learning how these changes affect me
+        * I am providing a good eating model for my children
 * Remeber:
     * Change is a Learning Exercise, not a Moral Judgement
     * Perfection is never the Expectation
