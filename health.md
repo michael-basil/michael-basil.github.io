@@ -17,6 +17,17 @@ What does it look like when I feel healthy?
 * Eating is approached mindfully
 * Solitude is enjoyable as are social situations
 
+What are key lenses to consider?
+
+* System
+    * Gut
+    * Heart
+    * Brain
+* Chi
+    * Spirit
+    * Body
+    * Mind
+
 ## What is Discipline?
 
 Discipline isn't something that is imposed on you by another.  That is something authoritarian and dysfunctional.  Discipline is subordinating to constraints you have set for yourself.  Constraints can be liberating.   For example, by not drinking alcohol how many more things have opened up in my life the following days and weeks?   By not giving in to every sugar craving how much better is my quality of life after the dopamine hit wears off?
