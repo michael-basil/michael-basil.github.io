@@ -28,7 +28,7 @@ What are key lenses to consider?
     * Body
     * Mind
 
-## What is Discipline?
+# What is Discipline?
 
 Discipline isn't something that is imposed on you by another.  That is something authoritarian and dysfunctional.  Discipline is subordinating to constraints you have set for yourself.  Constraints can be liberating.   For example, by not drinking alcohol how many more things have opened up in my life the following days and weeks?   By not giving in to every sugar craving how much better is my quality of life after the dopamine hit wears off?
 
@@ -94,7 +94,7 @@ A subtle ***Shift of a Mindset*** happens when we resolve a conflation or dualis
 
 The ***Desire for Comfort*** is frequently taken so far that we become disordered.  Ironically, by [Learning to Embrace Fear](./fear) we find that the discomfort we were avoiding keeping us from [Agency through Acceptance](./acceptance).  This same *Shift of Mindset* helps us to [Release Resentment](./resentment).  Eventually, by doing these things we find ourselves naturally [Channeling Swagger](./swagger)!
 
-## What are my current habits when I am most Disciplined?
+# What are my current habits when I am most Disciplined?
 
 * Sleep
     * 7-8 hours per night target
@@ -298,13 +298,13 @@ The ***Desire for Comfort*** is frequently taken so far that we become disordere
     * [Japanese Arts Center](https://japaneseculturecenter.com/classes/aikido/)
     * Focus on energy redirection and competence through self discipline
 
-## Am I always at maximum Disciplined?
+# Am I always at maximum Disciplined?
 
 No and this is okay and good.  Perfection is not the goal.  We learn and improve even through setbacks and missed objectives.
 
 I never scold myself, rather inspect when I have created a Tension through Expectation that has been Unmet.  I ask myself if this Expectation would have been better as an Ambition.  If not, I work out a new strategy or set aside time later to re-approach the situation or endeavor.
 
-## Why did I do this?
+# Why do I do this?
 
 * To liberate myself from entrenched habits and addictions
 * To reverse heart disease
@@ -319,7 +319,7 @@ I never scold myself, rather inspect when I have created a Tension through Expec
 * To see how far much further things can go when our Mindsets are shifted and altered
 * Because I like to have fun with/in systems
 
-## How did I get started?
+# How did I get started?
 
 I have to be able to conceptualize something before I can really lean into it.  For Mindset, [Inflection follows Contemplation](./contemplation).  However, it only becomes durable when the Body is fully engaged as well.  Finding balance is tricky, and just when you think you have it you fall down again.  It's like learning to ride a bike.  It takes a lot of patience and letting go of pride to move forward with confidence!
 
