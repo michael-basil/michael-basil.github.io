@@ -412,9 +412,13 @@ I have to be able to conceptualize something before I can really lean into it.  
         * I am enjoying learning how these changes affect me.
         * I am providing a good eating model for my children.
 * Remeber:
-    * This is a Learning Exercise, not a Moral Judgement
+    * Change is a Learning Exercise, not a Moral Judgement
     * Perfection is never the Expectation
-    * Blood markers are information signals and they may be predictive, lagging, benign, or nonsensical indications
+    * Information signals they may be predictive, lagging, benign, or nonsensical indications
+        * This applies to all measurement, including but not limited to: 
+            * Blood
+            * Imaging
+            * Performance
     * We aim past and through a target when we set ourselves up for a high quality step/shot
     * Keep aiming and shooting, regardless of the "score"
     * Always be recalculating as the step-wise journey evolves
