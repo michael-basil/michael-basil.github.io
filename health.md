@@ -394,7 +394,7 @@ I have to be able to conceptualize something before I can really lean into it.  
             * Sushi once per month
             * Salmon once per month
         * Electrolytes
-            * Potassium omes from various plant sources
+            * Potassium comes from various plant sources
             * Refrain from overempahsizing banana and avacado explicitly
             * I do not fully understand how the amount consumed translates to body levels
         * Protein
@@ -414,7 +414,7 @@ I have to be able to conceptualize something before I can really lean into it.  
             * Would conflict with spirtual and other reconditioning efforts
             * Too many other variables changing
             * Unconvinced of timing mechanism based on current understanding
-            * If any "issue" with muscle building/recovery additional protein should suffice
+            * Muscle building/recovery sufficiently supported by additional protein
     * Language
         * Remove "treat" and "desert" in concept and practice
         * Replace with healthy ways to end, "tomb" or frame a meal
@@ -424,7 +424,7 @@ I have to be able to conceptualize something before I can really lean into it.  
 * Remeber:
     * Change is a Learning Exercise, not a Moral Judgement
     * Perfection is never the Expectation
-    * Information signals they may be predictive, lagging, benign, or nonsensical indications
+    * Information signals may be predictive, lagging, benign, or nonsensical indications
         * This applies to all measurement, including but not limited to: 
             * Blood
             * Imaging
