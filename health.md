@@ -323,4 +323,99 @@ I never scold myself, rather inspect when I have created a Tension through Expec
 
 I have to be able to conceptualize something before I can really lean into it.  For Mindset, [Inflection follows Contemplation](./contemplation).  However, it only becomes durable when the Body is fully engaged as well.  Finding balance is tricky, and just when you think you have it you fall down again.  It's like learning to ride a bike.  It takes a lot of patience and letting go of pride to move forward with confidence!
 
+# What is the Active Intention?
+
+* Objective:
+    * Goal:
+        * Apathy reduced
+        * Agitation reduced
+        * Agency increased
+    * Checkpoint:
+        * Weekly
+    * Inflection:
+        * Blood baseline to be taken on November 1st
+        * Naturopathic review on November 10th
+* Recovery:
+    * Sleep 7.5+ hours per night
+    * Checkpoints:
+        * I feel well rested
+        * I fall asleep and get up easily
+* Reconditioning:
+    * Meditation:
+        * Deepen commitment to regular practice
+    * Fasting:
+        * Deepen commitment to regular practice
+    * Aikido:
+        * Begin weekly practice starting in September
+    * Exercise:
+        * Continue deep commitment to regular practice
+        * Enhance rope work with weighted, then speed ropes
+        * Defer focused HIIT training until winter (burpees, timed tredmill runs, etc.)
+        * Minor organic shifts as it makes sense
+    * Checkpoints:
+        * I feel spirtiually connected
+        * I have strength of will
+        * I have a strong performance potential as desired
+        * I empty my up relatively easily
+* Eating:
+    * Modifications/targets (what):
+        * Vinegar
+            * Remove balsamic vinegar
+            * Add apple cider vinegar
+                * Pre and during meals
+                * Add to salads
+        * Eggs
+            * Replace conventional with pasture-raised
+            * Commit to staple on weekend
+        * Beans
+            * Triple content in weekend salads
+        * Fruits
+            * Increase apples
+            * Increase oranges
+            * Increase cherries
+            * Reduce banana
+            * Reduce watermelon
+            * Reduce cantelope
+        * Seeds
+            * Add hemp seeds
+            * Include hemp seeds, chia seeds and flaxseed in all salads
+        * Seafood
+            * Make sardines and or tuna fish weekend staples
+            * Sushi once per month
+            * Salmon once per month
+        * Electrolytes
+            * Potassium omes from various plant sources
+            * Refrain from overempahsizing banana and avacado explicitly
+            * I do not fully understand how the amount consumed translates to body levels
+        * Protein
+            * Complete protiens at every meal
+            * Vegan during the week
+            * Pescatarian during the weekend
+    * Modifications/targets (when):
+        * Weekend:
+            * Align and model for children
+            * Three meals a day
+            * No snacking
+        * Weekdays:
+            * Fasting/feasting cycle per typical
+            * Feasting will be in a 4-hour grazing window
+        * Anabolic window:
+            * Will *not* target post-exercise eating
+            * Would conflict with spirtual and other reconditioning efforts
+            * Too many other variables changing
+            * Unconvinced of timing mechanism based on current understanding
+            * If any "issue" with muscle building/recovery additional protein should suffice
+    * Language
+        * Remove "treat" and "desert" in concept and practice
+        * Replace with healthy ways to end, "tomb" or frame a meal
+    * Checkpoints:
+        * I am enjoying learning how these changes affect me.
+        * I am providing a good eating model for my children.
+* Remeber:
+    * This is a Learning Exercise, not a Moral Judgement
+    * Perfection is never the Expectation
+    * Blood markers are information signals and they may be predictive, lagging, benign, or nonsensical indications
+    * We aim past and through a target when we set ourselves up for a high quality step/shot
+    * keep aiming and shooting, regardless of the "score"
+
 💯💚🌿
