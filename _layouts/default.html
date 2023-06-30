@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <script src="./assets/js/jquery-1.12.4.min.js"></script
+  <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  {% include head-custom.html %}
+</head>
+
+<body>
+  <div id="header">
+  </div>
+
+  <div class="wrapper">
+    <section>
+      <div id="title">
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.description }}</p>
+        <hr>
+      </div>
+
+      {{ content }}
+
+      <i>
+        <h4>
+          Return
+          <ul>
+            <li>🌐 <a href="./">Center</a></li>
+          </ul>
+
+        </h4>
+      </i>
+
+    </section>
+  </div>
+
+</body>
+
+</html>
