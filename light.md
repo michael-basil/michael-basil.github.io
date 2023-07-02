@@ -97,7 +97,7 @@ Za
 * Position or posture
 * Rice planting
 
-Zen
+[Zen](https://www.youtube.com/watch?v=T_3HiknOtBY)
 
 * Practice of mediation
 * Practice of mindfulness
@@ -284,6 +284,7 @@ Katatetori Nikyo Ura
 * [AikiWeb - The Source for Aikido Information](http://www.aikiweb.com/)
 * [Aikido and the Dynamic Sphere](https://www.amazon.com/gp/product/0804832846/ref=ppx_yo_dt_b_search_asin_title)
 * [Budo - Teachings of the Founder of Aikido](https://www.amazon.com/Budo-Teachings-Founder-Morihei-Ueshiba/dp/1568364873)
+* [Zen Connections](https://isha.sadhguru.org/us/en/wisdom/article/zen-and-yoga)
 * [Fox Forrest Zen](https://www.foxforestzen.org/)
 
 ![...](./light.jpg)
