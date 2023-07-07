@@ -113,7 +113,7 @@ description: 💚🖼️🎁
 
 [...](https://youtu.be/xr9ZPeozuYM)
 
-* When inside and outside become one, no circumstances can hinder us
+* When inside and outside become one, and no circumstances can hinder us
 * We engineer our experience as a function of practical action and attitude
 
 [...](https://www.youtube.com/watch?v=T_3HiknOtBY)
