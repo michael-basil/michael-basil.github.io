@@ -32,7 +32,7 @@ description: 🦜🪺🪁
 
 ![..](./nest/nest-fly.jpg)
 
-## Source
+## Water
 
 My whole life my entire existence I have lived with nature and interacted with God's nature creations.  I have spent my entire 78 years of life living with nature and on lakes-18 years on black lake, 2 on Indian lake and 27 years on Thayer Lake.  I am spiritually connected to God through his creation of nature and wildlife.  This is the reason I came to live on Thayer Lake.  Russ and I provided a sanctuary in the winter for waterlife by providing food for them so they could survive by the use of the bubbler.  We especially loved watching the eagles fish and the herons fish during the winter months.  The serenity of the water flowing, the ducks and loons swimming on the lake and diving down eating the vegetation during the winter months was a daily enjoyment for us.  The Michigan Department of Natural Resources personally thanked us for providing food and shelter for our wildlife during the winter months.  
 
@@ -44,7 +44,7 @@ This was our home for 27 years.  Russ truly loved this lake - every day waking u
 
 We loved watching  people boating, fishing, children playing in the water, ice skating in the winter, ice fishing and snowmobiling.   It was a daily part of our life and gave us great hours of pleasure and enjoyment.
 
-- Grandma Basil
+- Grandma Shell
 
 ## Wave
 
