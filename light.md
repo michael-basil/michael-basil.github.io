@@ -276,6 +276,11 @@ Katatetori Nikyo Ura
 * Rebirth
 * Strength
 
+### Demonstrations
+
+* [March 2023 - Belt Testing - Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
+* [July 2023 - First Demonstration - Basil and Mizuno Kids](https://www.youtube.com/watch?v=bUbMgWkmlHw)
+
 ### Arcs
 
 * [Belt Testing](https://aikido-dojo.org/the-dojo/test-requirements/)
