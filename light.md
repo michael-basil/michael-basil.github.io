@@ -291,6 +291,7 @@ Katatetori Nikyo Ura
 * [Budo - Teachings of the Founder of Aikido](https://www.amazon.com/Budo-Teachings-Founder-Morihei-Ueshiba/dp/1568364873)
 * [Zen Connections](https://isha.sadhguru.org/us/en/wisdom/article/zen-and-yoga)
 * [Fox Forrest Zen](https://www.foxforestzen.org/)
+* [Randori - Seizing Chaos](https://www.aikido411.com/aikido-techniques-randori-beauty-in-harmony-harmony-in-motion/)
 
 ![...](./light.jpg)
 
