@@ -3,14 +3,20 @@ title: light
 description: 🥋☯️⚡
 ---
 
-## Aikido - A Way of Self-Mastery
+## Aikido - Manifestation of Self-Mastery
 
-* Paradigm shifting
-  * From adversarial aggression to balanced dance
+* Learning
+  * To shift paradigms
+  * From adversarial aggression
+  * To balanced dance
 * For the individual
-  * Scaling infinitely
+  * Introspectively
+  * Expressively
+  * Flowing
 * Centered
-  * nternal and external
+  * Internal
+  * External
+  * Breath
 
 ### White Level
 
