@@ -3,47 +3,14 @@ title: light
 description: 🥋☯️⚡
 ---
 
-## [Core](https://youtu.be/0lvK1YDTi1Q)
+## Aikido - A Way of Self-Mastery
 
-[Aikido](https://www.youtube.com/watch?v=vf1etlfrXmY) is *shugyo*:
-
-* *Intense physical and spiritual training*
-* *To perfect human character*
-* *Develop true wisdom*
-
-### Aspects
-
-* [Warriors of Budo](https://www.youtube.com/watch?v=-lC2yMhXNME)
-* [Relativity of Yin and Yang](https://www.youtube.com/watch?v=hC_YSD2F9iY)
-* [Tenshinkan Dojo in Chicago](https://japaneseculturecenter.com/classes/aikido/)
-
-## Circuitry
-
-* *Complete circular paths of flow*
-
-### [History of Aikido](https://aaa-aikido.com/history-of-aikido/)
-
-* *True victory is victory over the self*
-* *A true warrior is invincible because he or she contests with nothing*
-* *One becomes vulnerable when one stops to think about winning*
-
-### [Benefits of Aikido](https://aaa-aikido.com/benefits-of-aikido/)
-  
-* *Martial artists view conflict as a means to overcome our true enemies, which are within*
-* *It is our choice to see this conflict as the creative force of change*
-* *Our true dojo is our life itself*
-
-### [Fumio Toyoda Shihan, AAA & AAI Founder](https://aaa-aikido.com/fumio-toyoda-shihan-8/)
-  
-* *Budo, the martial Way, means to live and to die fully and with full awareness*
-* *Aikido is a good path open for anyone*
-* *We walk together*
-
-## [Power](https://www.youtube.com/watch?v=ZUxuQC1Ec2A) ⚡
-
-* *Energy investment over time*
-* *Combination of potential and flow*
-* *Intuition for rechannelling the capacitance of conflict*
+* Paradigm shifting
+  * From adversarial aggression to balanced dance
+* For the individual
+  * Scaling infinitely
+* Centered
+  * nternal and external
 
 ### White Level
 
