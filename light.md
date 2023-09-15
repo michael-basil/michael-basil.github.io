@@ -3,17 +3,17 @@ title: light
 description: 🥋☯️⚡
 ---
 
-## Aikido - Manifestation of Self-Mastery
+## Aikido
 
-* Learning
+* Commitment
   * To shift paradigms
   * From adversarial aggression
   * To balanced dance
-* For the individual
-  * Introspectively
-  * Expressively
-  * Flowing
-* Centered
+* Practice
+  * Introspection
+  * Expression
+  * Flow
+* Centeredness
   * Internal
   * External
   * Breath
