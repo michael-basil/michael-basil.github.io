@@ -3,20 +3,20 @@ title: light
 description: 🥋☯️⚡
 ---
 
-## Aikido
+## Aikido - Paradigm Shifting
 
-* Commitment
-  * To shift paradigms
-  * From adversarial aggression
-  * To balanced dance
-* Practice
+* Direction
+  * From rigid oak to flexible bamboo
+  * From moth to firefly
+  * From fight to dance
+* Training
   * Introspection
   * Expression
   * Flow
-* Centeredness
-  * Internal
-  * External
+* Balnancing
   * Breath
+  * Heart & Mind
+  * Yin & Yang
 
 ### White Level
 
