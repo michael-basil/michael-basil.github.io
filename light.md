@@ -9,8 +9,8 @@ description: 🥋☯️⚡
   * From oak to bamboo
   * From moth to firefly
   * From fight to dance
-* Training
-  * Meditation
+* Conditioning
+  * Stillness
   * Form
   * Flow
 * Harmonizing
