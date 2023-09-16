@@ -3,20 +3,20 @@ title: light
 description: 🥋☯️⚡
 ---
 
-## Aikido - Paradigm Shifting
+## Aikido & Zen
 
-* Direction
+* Evolving
   * From rigid oak to flexible bamboo
   * From moth to firefly
   * From fight to dance
 * Training
-  * Introspection
-  * Expression
+  * Meditation
+  * Form
   * Flow
-* Balnancing
-  * Breath
+* Harmonizing
   * Heart & Mind
-  * Yin & Yang
+  * Body & Spirit
+  * Breath
 
 ### White Level
 
