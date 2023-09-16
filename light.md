@@ -6,7 +6,7 @@ description: 🥋☯️⚡
 ## Aikido & Zen
 
 * Evolving
-  * From rigid oak to flexible bamboo
+  * From oak to bamboo
   * From moth to firefly
   * From fight to dance
 * Training
