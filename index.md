@@ -1,20 +1,14 @@
 ---
-title: sphere
+title: garden
 description: ⚊🟢⚋
 ---
 
-## Refract
+## Cultivation
 
-* [Light](./light)
-* [Prism](./prism)
+* [Pathway](./pathway)
+* [Mindset](https://mindset.basil.one)
 
-## Revitalize
-
-* [Tenshinkan Dojo Aikido](https://japaneseculturecenter.com/classes/aikido/)
-* [Fox Forrest Zen](https://www.foxforestzen.org/)
-* [InnerSource Dojo Mindset](https://dojo.basil.one)
-
-## Recall
+## Resonance
 
 * [Nest](./nest)
 * [Rebound](https://rebound.basil.one)

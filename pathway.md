@@ -1,5 +1,5 @@
 ---
-title: light
+title: pathway
 description: 🥋☯️⚡
 ---
 
@@ -22,11 +22,11 @@ description: 🥋☯️⚡
 
 * *White signifies innocence or purity*
 
-![...](./light/light-white-2022.08-before.jpg)
+![...](./pathway/white-2022.08-before.jpg)
 
 * August 2022
 
-![...](./light/light-white-2023.03-community.jpg)
+![...](./pathway/white-2023.03-community.jpg)
 
 * March 2023
 
@@ -145,11 +145,11 @@ Katatekosatori Kotegaeshi
 
 Community:
 
-![...](./light/light-orange-2023.03-community.jpg)
+![...](./pathway/orange-2023.03-community.jpg)
 
 Board:
 
-![...](./light/light-orange-2023.03-board.jpg)
+![...](./pathway/orange-2023.03-board.jpg)
 
 Highlights:
 
@@ -266,6 +266,6 @@ Katatetori Nikyo Ura
 * [Fox Forrest Zen](https://www.foxforestzen.org/)
 * [Randori - Seizing Chaos](https://www.aikido411.com/aikido-techniques-randori-beauty-in-harmony-harmony-in-motion/)
 
-![...](./light.jpg)
+![...](./pathway.jpg)
 
 [🌿🌀🎨](https://link.basil.one)
