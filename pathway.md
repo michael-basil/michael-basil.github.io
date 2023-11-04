@@ -154,7 +154,7 @@ Board:
 Highlights:
 
 * [March 2023 - Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
-* [November 2023 - Lila](https://youtu.be/84MGxWNeOgk)
+* [November 2023 - Lila](https://youtu.be/0xmLl1Gihws)
 
 ### 7.5 Kyu - Orange Stripe Level
 
@@ -248,7 +248,7 @@ Katatetori Nikyo Ura
 
 Highlights:
 
-* [November 2023 - Jack and Dad](https://youtu.be/84MGxWNeOgk)
+* [November 2023 - Jack and Dad](https://youtu.be/0xmLl1Gihws)
 
 ## Spirit
 
