@@ -154,6 +154,7 @@ Board:
 Highlights:
 
 * [March 2023 - Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
+* [November 2023 - Lila](https://youtu.be/84MGxWNeOgk)
 
 ### 7.5 Kyu - Orange Stripe Level
 
@@ -242,6 +243,12 @@ Katatetori Nikyo Ura
 
 * Same side hand grab, nikyo connection, step to the back, control down, elbow cradle pin
 * [Demonstration](https://www.youtube.com/watch?v=ZzwkluvYgok)
+
+***Belt Testing:***
+
+Highlights:
+
+* [November 2023 - Jack and Dad](https://youtu.be/84MGxWNeOgk)
 
 ## Spirit
 
