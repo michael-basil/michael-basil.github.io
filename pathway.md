@@ -154,7 +154,7 @@ Board:
 Highlights:
 
 * [March 2023 - Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
-* [November 2023 - Lila](https://youtu.be/0xmLl1Gihws)
+* [November 2023 - Lila](https://youtu.be/_h4NeN6mOzk)
 
 ### 7.5 Kyu - Orange Stripe Level
 
@@ -248,7 +248,7 @@ Katatetori Nikyo Ura
 
 Highlights:
 
-* [November 2023 - Jack and Dad](https://youtu.be/0xmLl1Gihws)
+* [November 2023 - Jack and Dad](https://youtu.be/_h4NeN6mOzk)
 
 ## Spirit
 
@@ -259,8 +259,8 @@ Highlights:
 ### Demonstrations
 
 * [March 2023 - Belt Testing - 8th Kyu: Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
-* [November 2023 - Belt Testing - 8th Kyu: Lila, 7.5 Kyu: Jack and Dad](https://youtu.be/0xmLl1Gihws)
 * [July 2023 - First Demonstration - Basil and Mizuno Kids](https://www.youtube.com/watch?v=bUbMgWkmlHw)
+* [November 2023 - Belt Testing - 8th Kyu: Lila, 7.5 Kyu: Jack and Dad](https://youtu.be/_h4NeN6mOzk)
 
 ### Arcs
 
