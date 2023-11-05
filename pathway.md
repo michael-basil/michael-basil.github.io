@@ -258,7 +258,8 @@ Highlights:
 
 ### Demonstrations
 
-* [March 2023 - Belt Testing - Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
+* [March 2023 - Belt Testing - 8th Kyu: Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
+* [November 2023 - Belt Testing - 8th Kyu: Lila, 7.5 Kyu: Jack and Dad](https://youtu.be/0xmLl1Gihws)
 * [July 2023 - First Demonstration - Basil and Mizuno Kids](https://www.youtube.com/watch?v=bUbMgWkmlHw)
 
 ### Arcs
