@@ -17,7 +17,7 @@ description: ⚊🟢⚋
   * ***Gifted Cyclists*** navigating life's tension lines
   * ***Skilled Surfers*** through the life's infinite sea of change
 * We do well to bias:
-  * ***Towards Don’t Know Mind**
+  * ***Towards Don’t Know Mind***
   * ***Away from Discriminating Mind***
 * Recall:
   * ***Blame Game Delays Deep Learning***
