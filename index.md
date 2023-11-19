@@ -15,7 +15,7 @@ description: ⚊🟢⚋
   * ***Embracing The Negative as Opportunities***
 * We strive for balance becoming:
   * ***Gifted Cyclists*** navigating life's tension lines
-  * ***Skilled Surfers*** through the life's infinite sea of change
+  * ***Skilled Surfers*** through life's infinite sea of change
 * We do well to bias:
   * ***Towards Don’t Know Mind***
   * ***Away from Discriminating Mind***
