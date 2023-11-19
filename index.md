@@ -5,7 +5,7 @@ description: ⚊🟢⚋
 
 ## Soil
 
-***Shin-shin kokoro do: true heart/mind way***
+***Shin-shin kokoro niwa (心心こころ庭): True heart/mind garden***
 
 * Looking through lenses: 
   * Of the Mind, the ***Prime Directive is Learning***
