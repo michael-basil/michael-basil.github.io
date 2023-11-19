@@ -8,8 +8,8 @@ description: ⚊🟢⚋
 ***Shin-shin kokoro do: true heart/mind way***
 
 * Looking through lenses: 
-  * Of the Mind the ***Prime Directive is Learning***
-  * Of the Heart the ***Prime Allowance is Openness***
+  * Of the Mind, the ***Prime Directive is Learning***
+  * Of the Heart, the ***Prime Allowance is Openness***
 * In principle we we practice:
   * ***Amplifying The Positive***
   * ***Embracing The Negative as Opportunities***
