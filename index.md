@@ -3,7 +3,27 @@ title: garden
 description: ⚊🟢⚋
 ---
 
-*The **Prime Directive Is Learning**.  We do this by **Amplifying The Positive** while **Embracing The Negative as Opportunities**.   With this balance we become gifted cyclists and surfers through the sea of change life offers in tension lines and waves.  We do well to **Bias Towards Don't Know Mind** and **Away From Discriminating Mind**.  Discriminating Mind can be quite useful, but tends to overly focus on carving up the world into good and bad, right and wrong when misapplied or left unchecked.  In essence, **Blame Game Delays Deep Learning**.*
+## Soil
+
+***Shin-shin kokoro do: true heart/mind way***
+
+* Looking through lenses: 
+  * Of the Mind the ***Prime Directive is Learning***
+  * Of the Heart the ***Prime Allowance is Openness***
+* In principle we we practice:
+  * ***Amplifying The Positive***
+  * ***Embracing The Negative as Opportunities***
+* We strive for balance becoming:
+  * ***Gifted Cyclists*** navigating life's tension lines
+  * ***Skilled Surfers*** through the life's infinite sea of change
+* We do well to bias:
+  * ***Towards Don’t Know Mind**
+  * ***Away from Discriminating Mind***
+* Recall:
+  * ***Blame Game Delays Deep Learning***
+  * We are: 
+    * ***Bonded in the Heart***
+    * ***Divided delusionally in the Mind***
 
 ## Cultivation
 
