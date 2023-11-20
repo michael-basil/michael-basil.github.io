@@ -3,21 +3,6 @@ title: pathway
 description: 🥋☯️⚡
 ---
 
-## Aikido & Zen
-
-* Evolving
-  * From oak to bamboo
-  * From moth to firefly
-  * From fight to dance
-* Conditioning
-  * Stillness
-  * Form
-  * Flow
-* Harmonizing
-  * Heart & Mind
-  * Body & Spirit
-  * Breath
-
 ## Four Principles of Ki
 
 * Keep One Point
@@ -31,8 +16,6 @@ description: 🥋☯️⚡
 
 ### White Level
 
-* *White signifies innocence or purity*
-
 ![...](./pathway/white-2022.08-before.jpg)
 
 * August 2022
@@ -42,11 +25,6 @@ description: 🥋☯️⚡
 * March 2023
 
 ### 8th Kyu - Orange Level
-
-* *Orange signifies continued growth and maturity to the seedling*
-* [Ikkyo - First Teaching](https://www.youtube.com/watch?v=RX3Oru_CbKY)
-  * "The best general is the general who knows what the other one will do"
-    * Christian Tissier
 
 ***General Terms:***
 
@@ -157,6 +135,7 @@ Katatekosatori Kotegaeshi
 Community:
 
 ![...](./pathway/orange-2023.03-community.jpg)
+![...](./pathway/orange-2023.11-community.jpg)
 
 Board:
 
@@ -168,8 +147,6 @@ Highlights:
 * [November 2023 - Lila](https://youtu.be/_h4NeN6mOzk)
 
 ### 7.5 Kyu - Orange Stripe Level
-
-* *Orange with stripe induces the spirit of the tiger*
 
 ***General Terms:***
 
@@ -257,9 +234,31 @@ Katatetori Nikyo Ura
 
 ***Belt Testing:***
 
+Community:
+
+![...](./pathway/orange-stripe-2023.11-community.jpg)
+
+Board:
+
+COMING SOON
+
 Highlights:
 
 * [November 2023 - Jack and Dad](https://youtu.be/_h4NeN6mOzk)
+
+### 7th Kyu - Orange with Two Stripes Level
+
+***General Terms:***
+
+COMING SOON
+
+***Ki Exercises:***
+
+COMING SOON
+
+***Response Techniques:***
+
+COMING SOON
 
 ## Spirit
 
