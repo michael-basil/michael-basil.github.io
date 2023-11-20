@@ -18,6 +18,17 @@ description: 🥋☯️⚡
   * Body & Spirit
   * Breath
 
+## Four Principles of Ki
+
+* Keep One Point
+  * Think of your body like a tree, and your center is the strong roots. Keep your roots deep and steady, like the tree stays firm in the ground.
+* Relax Completely
+  * Imagine you're a ragdoll, all loose and floppy. Being relaxed helps you move smoothly and not get stuck.
+* Keep Weight Underside
+  * Balance your weight like a seesaw. Imagine your body is a teeter-totter, with your weight evenly spread on both sides.
+* Extend Ki
+  * Think of your energy like a warm hug. When you move, let your good vibes go outward, like spreading kindness to everyone around you.
+
 ### White Level
 
 * *White signifies innocence or purity*
