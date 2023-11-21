@@ -10,7 +10,7 @@ description: ⚊🟢⚋
 * Looking through lenses: 
   * Of the Mind, the ***Prime Directive is Learning***
   * Of the Heart, the ***Prime Allowance is Openness***
-* In principle we we practice:
+* In principle we practice:
   * ***Amplifying The Positive***
   * ***Embracing The Negative as Opportunities***
 * We strive for balance becoming:
@@ -22,7 +22,7 @@ description: ⚊🟢⚋
 * Recall:
   * ***Blame Game Delays Deep Learning***
   * We are: 
-    * ***Bonded in the Heart***
+    * ***Bonded through the Heart***
     * ***Divided delusionally in the Mind***
 
 ## Cultivation
