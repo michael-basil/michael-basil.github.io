@@ -286,6 +286,7 @@ COMING SOON
 * [Budo - Teachings of the Founder of Aikido](https://www.amazon.com/Budo-Teachings-Founder-Morihei-Ueshiba/dp/1568364873)
 * [Zen Connections](https://isha.sadhguru.org/us/en/wisdom/article/zen-and-yoga)
 * [Fox Forrest Zen](https://www.foxforestzen.org/)
+* [Medicine and Sickness Cure Each Other - Gendo Osho](https://genjo.libsyn.com/medicine-and-sickness-cure-each-other)
 * [Shugyo - Rick Testa Sensei (Gendo Osho)](https://open.spotify.com/episode/40XeMBhJ3SNkIn5a28O4YD)
 * [Randori - Seizing Chaos](https://www.aikido411.com/aikido-techniques-randori-beauty-in-harmony-harmony-in-motion/)
 
