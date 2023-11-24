@@ -18,7 +18,7 @@ description: 🥋☯️⚡
 * Extend Ki
   * Think of your energy like a warm hug. When you move, let your good vibes go outward, like spreading kindness to everyone around you.
 
-### White Level
+### White Belt
 
 ![...](./pathway/white-2022.08-before.jpg)
 
@@ -28,7 +28,7 @@ description: 🥋☯️⚡
 
 * March 2023
 
-### 8th Kyu - Orange Level
+### 8th Kyu - Orange Belt
 
 ***General Terms:***
 
@@ -150,7 +150,7 @@ Highlights:
 * [March 2023 - Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
 * [November 2023 - Lila](https://youtu.be/_h4NeN6mOzk)
 
-### 7.5 Kyu - Orange Stripe Level
+### 7.5 Kyu - Orange Belt with One Stripe
 
 ***General Terms:***
 
@@ -250,19 +250,43 @@ Highlights:
 
 * [November 2023 - Jack and Dad](https://youtu.be/_h4NeN6mOzk)
 
-### 7th Kyu - Orange with Two Stripes Level
-
-***General Terms:***
-
-COMING SOON
+### 7th Kyu - Orange Belt with Two Stripes
 
 ***Ki Exercises:***
 
-COMING SOON
+Shomenuchi Ikkyo Undo
+
+* COMING SOON
+
+Zengo Undo
+
+* COMING SOON
+
+Mae Ukemi
+
+* COMING SOON
+
+Yokomenuchi
+
+* COMING SOON
 
 ***Response Techniques:***
 
-COMING SOON
+Shomenuchi Kotegaeshi
+
+* COMING SOON
+
+Shomenuchi Iriminage
+
+* COMING SOON
+
+Katatekosatori Sankyo
+
+* COMING SOON
+
+Munetsuki Kotegaeshi
+
+* COMING SOON
 
 ## Spirit
 
