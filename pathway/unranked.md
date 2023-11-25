@@ -12,7 +12,3 @@ description: 🥋⚪🌱
 ![...](./unranked-community-2023.03.jpg)
 
 * March 2023
-
-Return
-
-* [pathway](./pathway)

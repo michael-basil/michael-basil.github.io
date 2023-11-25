@@ -40,7 +40,3 @@ Katatekosatori Sankyo
 Munetsuki Kotegaeshi
 
 * COMING SOON
-
-Return
-
-* [pathway](./pathway)

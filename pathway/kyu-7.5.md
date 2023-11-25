@@ -102,7 +102,3 @@ COMING SOON
 Highlights:
 
 * [November 2023 - Jack and Dad](https://youtu.be/_h4NeN6mOzk)
-
-Return
-
-* [pathway](./pathway)
