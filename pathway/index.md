@@ -1,4 +1,5 @@
 ---
+layout: pathway
 title: pathway
 description: 🥋☯️⚡
 ---

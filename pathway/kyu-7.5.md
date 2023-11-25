@@ -1,4 +1,5 @@
 ---
+layout: pathway
 title: 7.5 kyu
 description: 🥋🟠1
 ---
@@ -102,3 +103,5 @@ COMING SOON
 Highlights:
 
 * [November 2023 - Jack and Dad](https://youtu.be/_h4NeN6mOzk)
+
+[🌿🌀🎨](https://link.basil.one)

@@ -1,4 +1,5 @@
 ---
+layout: pathway
 title: unranked
 description: 🥋⚪🌱
 ---
@@ -12,3 +13,5 @@ description: 🥋⚪🌱
 ![...](./unranked-community-2023.03.jpg)
 
 * March 2023
+
+[🌿🌀🎨](https://link.basil.one)

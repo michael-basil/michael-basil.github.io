@@ -1,4 +1,5 @@
 ---
+layout: pathway
 title: 7th kyu
 description: 🥋🟠2
 ---
@@ -40,3 +41,5 @@ Katatekosatori Sankyo
 Munetsuki Kotegaeshi
 
 * COMING SOON
+
+[🌿🌀🎨](https://link.basil.one)
