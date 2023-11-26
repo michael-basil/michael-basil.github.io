@@ -6,40 +6,26 @@ description: 🥋🟠2
 
 ## 7th Kyu - Orange Belt with Two Stripes
 
-***Ki Exercises:***
+### Ki Exercises
 
-Shomenuchi Ikkyo Undo
+[Shomenuchi Ikkyo Undo](https://www.youtube.com/watch?v=PyVwydZGn-w)
 
-* COMING SOON
+[Zengo Undo](https://www.youtube.com/watch?v=FzqsXVxGthY)
 
-Zengo Undo
+[Mae Ukemi](https://www.youtube.com/watch?v=4Cr7lpSiayA)
 
-* COMING SOON
+[Yokomenuchi](http://youtu.be/EH92Ba4pcGA)
 
-Mae Ukemi
+### Response Techniques
 
-* COMING SOON
+[Shomenuchi Kotegaeshi](https://www.youtube.com/watch?v=fjcRe8ewkBA)
 
-Yokomenuchi
+[Shomenuchi Iriminage](https://www.youtube.com/watch?v=-q4VH0ZlB8M)
 
-* COMING SOON
+[Katatetori Sankyo Omote](https://www.youtube.com/watch?v=caDd3oXwx-Y)
 
-***Response Techniques:***
+[Katatetori Sankyo Ura](https://www.youtube.com/watch?v=o5gPmSyx1w4)
 
-Shomenuchi Kotegaeshi
-
-* COMING SOON
-
-Shomenuchi Iriminage
-
-* COMING SOON
-
-Katatekosatori Sankyo
-
-* COMING SOON
-
-Munetsuki Kotegaeshi
-
-* COMING SOON
+[Munetsuki Kotegaeshi](https://www.youtube.com/watch?v=WGZOvYM2hmQ)
 
 [🌿🌀🎨](https://link.basil.one)

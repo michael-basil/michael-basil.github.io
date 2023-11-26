@@ -6,91 +6,29 @@ description: 🥋🟠1
 
 ## 7.5 Kyu - Orange Belt with One Stripe
 
-***General Terms:***
+### Ki Exercises
 
-Funa/fune
+[Shizentai](https://www.youtube.com/watch?v=p5jDEB8VLBw)
 
-* Boat
-* Ship
-* Vessel
+[Agura No Shisei](https://www.youtube.com/watch?v=MrACEN-MEhY)
 
-Kogi/kogu
+[Funakogi Undo](https://www.youtube.com/watch?v=UN5azGRX3cs)
 
-* Paddling
-* Propelling
-* Rowing
+[Munetsuki](https://www.youtube.com/watch?v=dGaARvulpiM)
 
-Mune
+### Response Techniques
 
-* Chest or breast area of the body
-* Ribcage, sternum, and or pectoral muscles
+[Shomenuchi Kokyunage](https://www.youtube.com/watch?v=wIIf60uaYcM)
 
-Tsuki
+[Katatetori Shihonage Omote](https://www.youtube.com/watch?v=KSPsBjH_t1s)
 
-* Thrust
-* Punch
-* Moon
+[Katatetori Shihonage Ura](https://www.youtube.com/watch?v=iEXhbhSLEoo)
 
-Undo
+[Katatetori Nikyo Omote](https://www.youtube.com/watch?v=DSbaa9rzwYY)
 
-* Exercise
-* Motion
-* Movement
+[Katatetori Nikyo Ura](https://www.youtube.com/watch?v=ZzwkluvYgok)
 
-***Ki Exercises:***
-
-Shizentai
-
-* Standing natural stance
-* [Demonstration](https://www.youtube.com/watch?v=p5jDEB8VLBw)
-* [Details](https://www.youtube.com/watch?v=CgK2xbzhVRM)
-
-Agura No Shisei
-
-* Sitting cross-legged
-* [Demonstration](https://www.youtube.com/watch?v=MrACEN-MEhY)
-
-Funakogi Undo
-
-* *Boat rowing* exercise
-* [Demonstration](https://www.youtube.com/watch?v=UN5azGRX3cs)
-* [Details](https://www.youtube.com/watch?v=tdUWD4Z8I2E)
-
-Munetsuki
-
-* Punch straight to the chest
-* [Demonstration](https://www.youtube.com/watch?v=dGaARvulpiM)
-
-***Response Techniques:***
-
-Shomenuchi Kokyunage
-
-* Overhead strike attack, step to back controlling head, turn in, throw
-* [Demonstration](https://www.youtube.com/watch?v=wIIf60uaYcM)
-
-Katatetori Shihonage Omote
-
-* *Four-Direction Throw*
-* Taking control of arm, slide across front, circle above head, throw
-* [Demonstration](https://www.youtube.com/watch?v=KSPsBjH_t1s)
-
-Katatetori Shihonage Ura
-
-* *Four-Direction Throw*
-* Taking control of arm, step to the back, circle above head, throw
-* [Demonstration](https://www.youtube.com/watch?v=iEXhbhSLEoo)
-
-Katatetori Nikyo Omote
-
-* Same side hand grab, nikyo connection, slide across front, control down, elbow cradle pin
-* [Demonstration](https://www.youtube.com/watch?v=DSbaa9rzwYY)
-
-Katatetori Nikyo Ura
-
-* Same side hand grab, nikyo connection, step to the back, control down, elbow cradle pin
-* [Demonstration](https://www.youtube.com/watch?v=ZzwkluvYgok)
-
-***Belt Testing:***
+### Belt Testing
 
 Community:
 

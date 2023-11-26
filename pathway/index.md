@@ -24,7 +24,7 @@ description: 🥋☯️⚡
 * [Unranked - White Level](./unranked)
 * [8th Kyu - Orange Level](./kyu-8)
 * [7.5 Kyu - Orange Level with One Stripe](./kyu-7.5)
-* [7th Kyu - Orange Level with Two Stripes](./kyu-8)
+* [7th Kyu - Orange Level with Two Stripes](./kyu-7)
 
 ## Demonstrations
 

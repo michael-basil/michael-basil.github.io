@@ -3,7 +3,7 @@ title: garden
 description: ⚊🟢⚋
 ---
 
-[Shin-shin kokoro niwa (心心こころ庭): True heart/mind garden](./)
+[Spiritual Heart-Mind Gardening](./)
 
 ## Cultivation
 
