@@ -10,14 +10,18 @@ description: 🥋☯️⚡
 
 ## Ki Principles
 
-* Keep One Point
-  * Like a tree with deep roots, maintain a strong and centered foundation at your core
 * Relax Completely
-  * Be a flowing river, not a rigid rock, allowing movements to be smooth and adaptive
+  * Drop unnecessary muscular tension allowing the spine to reveal itself
+  * Like a flowing river, not a rigid rock
 * Keep Weight Underside
-  * Imagine a firmly anchored boat, keeping your weight low and stable for balance
+  * Cultivate a heaviness in the hips, legs, and feet
+  * Like a firmly anchored boat
+* Keep One Point
+  * Focus the mind's concentration on the center of the body's mass or lower navel
+  * Like a tree with deep roots
 * Extend Ki
-  * Picture a lantern casting its light, extend your energy outward to influence and guide your movements
+  * Extend awareness in all directions
+  * Like a lantern casting it's light, extend your energy
 
 ## Ranks
 
