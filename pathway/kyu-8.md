@@ -40,6 +40,8 @@ Community:
 Board:
 
 ![...](./kyu-8-board-2023.03.jpg)
+![...](./kyu-8-board-2023.11.jpg)
+![...](./kyu-8-board-plate-2023.03.jpg)
 
 Highlights:
 

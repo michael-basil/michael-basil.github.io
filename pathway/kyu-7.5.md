@@ -36,7 +36,8 @@ Community:
 
 Board:
 
-COMING SOON
+![...](./kyu-7.5-board-2023.11.jpg)
+![...](./kyu-7.5-board-plate-2023.11.jpg)
 
 Highlights:
 
