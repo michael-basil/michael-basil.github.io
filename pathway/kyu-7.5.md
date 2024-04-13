@@ -42,5 +42,6 @@ Board:
 Highlights:
 
 * [November 2023 - Jack and Dad](https://youtu.be/_h4NeN6mOzk)
+* [April 2024 - Lila](https://youtu.be/fvchtViicBs)
 
 [🌿🌀🎨](https://link.basil.one)

@@ -28,4 +28,19 @@ description: 🥋🟠2
 
 [Munetsuki Kotegaeshi](https://www.youtube.com/watch?v=WGZOvYM2hmQ)
 
+### Belt Testing
+
+Community:
+
+![...](./kyu-7-community-2024.04.jpg)
+
+Board:
+
+COMING SOON
+
+Highlights:
+
+* [April 2024 - Jack and Dad](https://youtu.be/fvchtViicBs)
+
+
 [🌿🌀🎨](https://link.basil.one)
