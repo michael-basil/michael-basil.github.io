@@ -36,7 +36,7 @@ Community:
 
 Board:
 
-COMING SOON
+![...](./kyu-7-board-2024.05.jpg)
 
 Highlights:
 
