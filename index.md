@@ -14,7 +14,6 @@ description: ⚊🟢⚋
 
 * [Nest](./nest)
 * [Dolphin](./blue-dolphin.jpg)
-* [Rebound](https://rebound.basil.one)
 * [Meet](https://meet.basil.one)
 
 ![...](./index.jpg)
