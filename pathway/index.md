@@ -29,6 +29,7 @@ description: 🥋☯️⚡
 * [8th Kyu - Orange Level](./kyu-8)
 * [7.5 Kyu - Orange Level with One Stripe](./kyu-7.5)
 * [7th Kyu - Orange Level with Two Stripes](./kyu-7)
+* [6.5 Kyu - Blue Level](./kyu-6.5)
 
 ## Demonstrations
 
