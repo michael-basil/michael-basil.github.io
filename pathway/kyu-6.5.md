@@ -10,16 +10,22 @@ description: 🥋🔵
 
 [Happo Undo](https://www.youtube.com/watch?v=maiw6eHwAbU)
 
-[Bonzai no Kamae](https://www.youtube.com/watch?v=F_kaUjUb3_Q)
+[Banzai No Kamae](https://www.youtube.com/watch?v=F_kaUjUb3_Q)
 
 [Ushiro Ukemi](https://www.youtube.com/watch?v=Gpuu_t3M1aA)
 
 
 ### Response Techniques
 
-[Yokomenuchi Kokyunage](https://www.youtube.com/watch?v=oP46lZya9gQ)
+[Yokomenuchi Kokyunage](https://www.youtube.com/watch?v=Dd6PsKCIW2E)
 
-[Katatetori Kaitenage](https://www.youtube.com/watch?v=K6FMIZUtHQE)
+[Katatetori Kaitennage Irimi](http://youtu.be/Dd6PsKCIW2E)
+
+[Katatetori Kaitennage Irimi (static)](https://www.youtube.com/watch?v=7BHdUe4K0LQ)
+
+[Katatetori Kaitennage Tenkan (side view)](https://www.youtube.com/watch?v=7i0DMCtS2rk)
+
+[Katatetori Kaitennage Tenkan (back view)](https://www.youtube.com/watch?v=BIWG0-XRvtU)
 
 [Ushirokatatori Kokyunage](https://www.youtube.com/watch?v=nMR-XyXiTzw)
 
