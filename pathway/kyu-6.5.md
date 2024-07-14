@@ -17,7 +17,7 @@ description: 🥋🔵
 
 ### Response Techniques
 
-[Yokomenuchi Kokyunage](https://www.youtube.com/watch?v=Dd6PsKCIW2E)
+[Yokomenuchi Kokyunage](https://www.youtube.com/watch?v=oP46lZya9gQ)
 
 [Katatetori Kaitennage Irimi](http://youtu.be/Dd6PsKCIW2E)
 
