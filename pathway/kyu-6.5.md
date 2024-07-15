@@ -19,6 +19,8 @@ description: 🥋🔵
 
 [Yokomenuchi Kokyunage](https://www.youtube.com/watch?v=j31sQA3xSKA)
 
+[Katatetori Kaitennage Irimi](https://youtu.be/K6FMIZUtHQE?si=sODi88-_8_2H3Skr)
+
 [Katatetori Kaitennage Uchi](http://youtu.be/Dd6PsKCIW2E)
 
 [Katatetori Kaitennage Soto](https://www.youtube.com/watch?v=owR55jYiTdE)
