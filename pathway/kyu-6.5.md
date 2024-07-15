@@ -17,17 +17,15 @@ description: 🥋🔵
 
 ### Response Techniques
 
-[Yokomenuchi Kokyunage](https://www.youtube.com/watch?v=oP46lZya9gQ)
+[Yokomenuchi Kokyunage](https://www.youtube.com/watch?v=j31sQA3xSKA)
 
-[Katatetori Kaitennage Irimi](http://youtu.be/Dd6PsKCIW2E)
+[Katatetori Kaitennage Uchi](http://youtu.be/Dd6PsKCIW2E)
 
-[Katatetori Kaitennage Irimi (static)](https://www.youtube.com/watch?v=7BHdUe4K0LQ)
+[Katatetori Kaitennage Soto](https://www.youtube.com/watch?v=owR55jYiTdE)
 
-[Katatetori Kaitennage Tenkan (side view)](https://www.youtube.com/watch?v=7i0DMCtS2rk)
+[Katatetori Kaitennage Tenkan](https://www.youtube.com/watch?v=9UTulCYqKp0)
 
-[Katatetori Kaitennage Tenkan (back view)](https://www.youtube.com/watch?v=BIWG0-XRvtU)
-
-[Ushirokatatori Kokyunage](https://www.youtube.com/watch?v=nMR-XyXiTzw)
+[Ushirokatatori Kokyunage](https://youtu.be/vopP4xjGwks)
 
 ### Belt Testing
 
