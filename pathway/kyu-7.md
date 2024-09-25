@@ -33,6 +33,7 @@ description: 🥋🟠2
 Community:
 
 ![...](./kyu-7-community-2024.04.jpg)
+![...](./kyu-7-community-2024.09.jpg)
 
 Board:
 
