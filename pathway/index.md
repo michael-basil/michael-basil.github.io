@@ -30,6 +30,7 @@ description: 🥋☯️⚡
 * [7.5 Kyu - Orange Level with One Stripe](./kyu-7.5)
 * [7th Kyu - Orange Level with Two Stripes](./kyu-7)
 * [6.5 Kyu - Blue Level](./kyu-6.5)
+* [6th Kyu - Blue Level with One Stripe](./kyu-6)
 
 ## Demonstrations
 
@@ -47,6 +48,7 @@ description: 🥋☯️⚡
 * [Aikido and the Dynamic Sphere](https://www.amazon.com/gp/product/0804832846/ref=ppx_yo_dt_b_search_asin_title)
 * [Budo - Teachings of the Founder of Aikido](https://www.amazon.com/Budo-Teachings-Founder-Morihei-Ueshiba/dp/1568364873)
 * [Zen Connections](https://isha.sadhguru.org/us/en/wisdom/article/zen-and-yoga)
+* [Chosei Zen](https://www.choseizen.org/)
 * [Fox Forrest Zen](https://www.foxforestzen.org/)
 * [Fox Forrest Zen Podcast](https://open.spotify.com/show/7wSBxzCfYLePhUadRxX4Wh?si=8CHj5aCoS9uwTwoJsw4-zg)
 * [Medicine and Sickness Cure Each Other - Gendo Osho](https://genjo.libsyn.com/medicine-and-sickness-cure-each-other)
