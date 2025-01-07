@@ -24,7 +24,7 @@ description: 🥋🔵1
 
 [Yokomenuchi Shihonage Ura](https://www.youtube.com/watch?v=lWlWkHNYo64)
 
-[Ushirotekubitori Kokyunage](https://www.youtube.com/watch?v=XJDMpknI_bU)
+[Ushirotekubitori Kokyunage Irimi](https://www.youtube.com/watch?v=XJDMpknI_bU)
 
 [Ushirotekubitori Kokyunage Tenkan](https://www.youtube.com/watch?v=quz8SU25UKY)
 
