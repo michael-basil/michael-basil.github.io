@@ -8,15 +8,15 @@ description: 🥋🔵1
 
 ### Ki Exercises
 
-[Tekubikoso Undo](https://www.youtube.com/watch?v=6t_QvU1AjME)
+[Tekubikosa Undo](https://www.youtube.com/watch?v=6t_QvU1AjME)
 
-[Sayo Undo](https://www.youtube.com/watch?v=9Nuq4_2f_lk)
+[Sayu Undo](https://www.youtube.com/watch?v=9Nuq4_2f_lk)
 
-[Sayo Choyaku Undo](https://www.youtube.com/watch?v=eyZ4feGb4EI)
+[Sayu Choyaku Undo](https://www.youtube.com/watch?v=eyZ4feGb4EI)
 
-[Udefuri Undo](https://www.youtube.com/watch?v=xm2M8mRlZaU)
+[Udefuri Undo](https://www.youtube.com/watch?v=XU9v-Rlo5jg )
 
-[Udefuri Choyaku Undo](https://www.youtube.com/watch?v=VwbumnJWEGg)
+[Udefuri Choyaku Undo](https://www.youtube.com/watch?v=IszX1fWqTHk)
 
 ### Response Techniques
 
@@ -25,6 +25,8 @@ description: 🥋🔵1
 [Yokomenuchi Shihonage Ura](https://www.youtube.com/watch?v=lWlWkHNYo64)
 
 [Ushirotekubitori Kokyunage](https://www.youtube.com/watch?v=XJDMpknI_bU)
+
+[Ushirotekubitori Kokyunage Tenkan](https://www.youtube.com/watch?v=quz8SU25UKY)
 
 [Shomenuchi Ikkyo Omote](https://www.youtube.com/watch?v=QnKTJ1E_yrk)
 
