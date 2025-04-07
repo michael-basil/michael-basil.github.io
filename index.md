@@ -3,7 +3,7 @@ title: garden
 description: ⚊🟢⚋
 ---
 
-[Spiritual Heart-Mind Gardening](./)
+[Heart-Mind-Hara Gardening](./)
 
 ## Rootwork
 
