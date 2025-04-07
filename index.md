@@ -5,16 +5,15 @@ description: ⚊🟢⚋
 
 [Spiritual Heart-Mind Gardening](./)
 
-## Cultivation
+## Rootwork
 
 * [Pathway](./pathway)
 * [Mindset](https://mindset.basil.one)
 
-## Resonance
+## Shoots
 
 * [Nest](./nest)
 * [Dolphin](./blue-dolphin.jpg)
-* [Meet](https://meet.basil.one)
 
 ![...](./index.jpg)
 
