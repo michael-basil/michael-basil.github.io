@@ -36,7 +36,6 @@ description: 🥋🔵1
 
 Community:
 
-COMING SOON
-
+![...](./kyu-6-community-2025.01.jpg)
 
 [🌿🌀🎨](https://link.basil.one)
