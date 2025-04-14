@@ -12,23 +12,29 @@ Ushirosori
 
 Maekagami
 
-Ushirotori Undo
+[Ushirotori Undo](https://www.youtube.com/watch?v=mUyQ-Fbu46A)
 
-Ushirotekubitori Undo
+[Ushirotekubitori Undo](https://www.youtube.com/watch?v=BnwX7aAEucI)
 
 ### Response Techniques
 
-[Ushirotekubitori Kotegaeshi Omote](https://www.youtube.com/watch?v=zAijb-HjQbQ)
+[Ushirotekubitori Kotegaeshi 1st Hand Omote](https://www.youtube.com/watch?v=zAijb-HjQbQ)
 
-[Ushirotekubitori Kotegaeshi Ura](https://www.youtube.com/watch?v=N_kRtFufNcU)
+[Ushirotekubitori Kotegaeshi 1st Hand Ura](https://www.youtube.com/watch?v=N_kRtFufNcU)
 
-[Katatori Yankyo Omote](https://www.youtube.com/watch?v=xWzQUVXXzRc)
+[Ushirotekubitori Kotegaeshi 2nd Hand Omote](https://www.youtube.com/watch?v=cNpSxRbcUog)
 
-[Katatori Yankyo Ura](https://www.youtube.com/watch?v=QFA0ehyYwQU)
+[Ushirotekubitori Kotegaeshi 2nd Hand Ura](https://www.youtube.com/watch?v=46isxTIxcbQ)
+
+[Katatori Yankyo Omote](https://www.youtube.com/watch?v=QFA0ehyYwQU)
+
+[Katatori Yankyo Ura](https://www.youtube.com/watch?v=xWzQUVXXzRc)
 
 [Ryotetori Tenchinage Irimi](https://www.youtube.com/watch?v=3tOU_BpoB7I)
 
-[Ryotetori Tenchinage Tenkan](https://www.youtube.com/watch?v=PaYM_NMVp7Y)
+[Ryotetori Tenchinage Tenkan Direct](https://www.youtube.com/watch?v=LrIvbjFdIgE)
+
+[Ryotetori Tenchinage Tenkan Step-Back](https://www.youtube.com/watch?v=PaYM_NMVp7Y)
 
 ### Belt Testing
 
