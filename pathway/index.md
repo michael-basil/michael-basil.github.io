@@ -55,7 +55,7 @@ description: 🥋☯️⚡
 * [Medicine and Sickness Cure Each Other - Gendo Osho](https://genjo.libsyn.com/medicine-and-sickness-cure-each-other)
 * [Shugyo - Rick Testa Sensei (Gendo Osho)](https://open.spotify.com/episode/40XeMBhJ3SNkIn5a28O4YD)
 * [Randori - Seizing Chaos](https://www.aikido411.com/aikido-techniques-randori-beauty-in-harmony-harmony-in-motion/)
-* [Traditional Gi](https://tozandoshop.com/products/essential-cotton-aikido-uniform-set?gQT=1)
+* [Traditional Aikido Gi](https://tozandoshop.com/products/essential-cotton-aikido-uniform-set?gQT=1)
 
 ![...](./index.jpg)
 
