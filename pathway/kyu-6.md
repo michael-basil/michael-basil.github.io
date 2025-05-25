@@ -37,5 +37,6 @@ description: 🥋🔵1
 Community:
 
 ![...](./kyu-6-community-2025.01.jpg)
+![...](./kyu-6-community-2025.05.jpg)
 
 [🌿🌀🎨](https://link.basil.one)
