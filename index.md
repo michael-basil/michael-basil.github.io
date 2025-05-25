@@ -9,8 +9,9 @@ description: ⚊🟢⚋
 
 * [Pathway](./pathway)
 * [Mindset](https://mindset.basil.one)
+* [Lessons](https://lessons.basil.one)
 
-## Shoots
+## Seeds
 
 * [Nest](./nest)
 * [Dolphin](./blue-dolphin.jpg)
