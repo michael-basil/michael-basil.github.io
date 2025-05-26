@@ -8,8 +8,8 @@ description: ⚊🟢⚋
 ## Rootwork
 
 * [Pathway](./pathway)
-* [Mindset](https://mindset.basil.one)
-* [Lessons](https://lessons.basil.one)
+* [Mindset](https://dojo.center)
+* [Stream](https://basil.one)
 
 ## Seeds
 
