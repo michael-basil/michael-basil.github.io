@@ -42,6 +42,7 @@ description: 🥋☯️⚡
 
 ## Arcs
 
+* [Star Wars, George Lucas, Aikido, Ki and The Force](https://aikidoforbeginners.blogspot.com/2010/02/star-wars-george-lucas-aikido-ki-and.html)
 * [Belt Testing](https://aikido-dojo.org/the-dojo/test-requirements/)
 * [Chushinkan Dojo - Video Demonstrations](http://www.chushinkan.com/video.html)
 * [Aikido of Northwest Kansas - Video Demonstrations](https://www.youtube.com/@aikidoofnorthwestkansas6804)
