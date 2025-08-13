@@ -57,6 +57,7 @@ description: 🥋☯️⚡
 * [Shugyo - Rick Testa Sensei (Gendo Osho)](https://open.spotify.com/episode/40XeMBhJ3SNkIn5a28O4YD)
 * [Randori - Seizing Chaos](https://www.aikido411.com/aikido-techniques-randori-beauty-in-harmony-harmony-in-motion/)
 * [Pathway to Harmony - Butler Sensei](http://pathwaytoharmony.com)
+* [Okinaga breathing exercise](https://youtu.be/J_vvwSuISEk?si=NeWsMuTY0yjD4XOG)
 * [Traditional Aikido Gi](https://tozandoshop.com/products/essential-cotton-aikido-uniform-set)
 
 ![...](./index.jpg)
