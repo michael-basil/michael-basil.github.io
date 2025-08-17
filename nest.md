@@ -50,4 +50,4 @@ We loved watching  people boating, fishing, children playing in the water, ice s
 
 ![..](./nest.jpg)
 
-[🌿🌀🎨](https://link.basil.one)
+[🌿🌀🎨](https://basil.one)

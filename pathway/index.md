@@ -62,4 +62,4 @@ description: 🥋☯️⚡
 
 ![...](./index.jpg)
 
-[🌿🌀🎨](https://link.basil.one)
+[🌿🌀🎨](https://basil.one)

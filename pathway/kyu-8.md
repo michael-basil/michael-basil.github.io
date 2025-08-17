@@ -48,4 +48,4 @@ Highlights:
 * [March 2023 - Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
 * [November 2023 - Lila](https://youtu.be/_h4NeN6mOzk)
 
-[🌿🌀🎨](https://link.basil.one)
+[🌿🌀🎨](https://basil.one)

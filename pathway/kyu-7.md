@@ -44,4 +44,4 @@ Highlights:
 * [April 2024 - Jack and Dad](https://youtu.be/fvchtViicBs)
 
 
-[🌿🌀🎨](https://link.basil.one)
+[🌿🌀🎨](https://basil.one)

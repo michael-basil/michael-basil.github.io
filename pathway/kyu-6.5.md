@@ -35,4 +35,4 @@ Community:
 
 ![...](./kyu-6.5-community-2024.09.jpg)
 
-[🌿🌀🎨](https://link.basil.one)
+[🌿🌀🎨](https://basil.one)

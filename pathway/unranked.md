@@ -14,4 +14,4 @@ description: 🥋⚪🌱
 
 * March 2023
 
-[🌿🌀🎨](https://link.basil.one)
+[🌿🌀🎨](https://basil.one)
