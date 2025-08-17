@@ -40,6 +40,7 @@ Maekagami
 
 Community:
 
-COMING SOON
+![...](./kyu-5.5-community-2025.08-1.jpg)
+![...](./kyu-5.5-community-2025.08-2.jpg)
 
 [🌿🌀🎨](https://link.basil.one)
