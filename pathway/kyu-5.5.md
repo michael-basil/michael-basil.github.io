@@ -43,4 +43,8 @@ Community:
 ![...](./kyu-5.5-community-2025.08-1.jpg)
 ![...](./kyu-5.5-community-2025.08-2.jpg)
 
-[🌿🌀🎨](https://link.basil.one)
+Highlights:
+
+* [August 2025 - Jack and Dad](https://youtu.be/gzBvYnZ0McA)
+
+[🌿🌀🎨](https://basil.one)
